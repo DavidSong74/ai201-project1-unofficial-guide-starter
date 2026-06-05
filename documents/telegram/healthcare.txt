@@ -1,0 +1,780 @@
+# Topic: Healthcare
+
+--- Conversation 1 (2023-02-07) ---
+User_74a5d5: Does anyone know if dental cleanings are covered by Cigna?
+User_dd04d0: that would be good 🤔
+User_13b71d: I believe anything dental related isn’t
+User_13b71d: Unless it’s an emergency
+User_13b71d: Like you broke your teeth or something
+User_13b71d: [handle] you used dental services in rotation before, right ?
+
+--- Conversation 2 (2023-02-07) ---
+User_b9439b: I did go to dentist, but Cigna didn’t cover any of it
+
+--- Conversation 3 (2023-03-15) ---
+User_fc38c7: Are eye glasses covered?
+
+--- Conversation 4 (2023-04-03) ---
+User_f0e085: Recommendations for health insurance for the US during the summer?
+User_f0e085: Preferably cheap and no copay,..etc if possible
+User_a0e710: I don't know the answer to this question BUT if you do know your prescription, I highly recommend ordering frames from Zenni. I have ordered $20 prescription glasses from them over the past 4 years, only good experiences :) Unsure about non-US shipping but thought I would recommend here🤍
+
+--- Conversation 5 (2023-05-04) ---
+User_3b0a72: Hi, for the ones who had CIGNA in Korea, how much did it cover and what was the process of getting your money back/or getting guarantee of payment?
+User_e118cc: It covered ER for me, but I had to pay upfront and get a reimbursement later on. I also got a guarantee of payment from Cigna for another visit, but the hospital didn't accept it lol (the hospital was out of network though)
+User_3b0a72: thank you! can I pls know who you contacted for reimbursement?
+User_c177ea: You usually just make a claim in your cigna account
+User_c177ea: They’ll reimburse you within 5-10 business days
+User_3b0a72: thank you❤️❤️
+
+--- Conversation 6 (2023-05-06) ---
+User_999fbb: When our cigna expires?
+
+--- Conversation 7 (2023-05-07) ---
+User_61373d: Does anyone know if cigna covers travel vaccines? People who went to india?
+User_51212c: yes. But they dont cover certificates. Some of us took the vaccines required for India in Taiwan, and we paid for the certificate while Cigna covered the vaccine
+User_0554ed: Yes, they covered the yellow fever vaccine we needed to get in Argentina to enter India 👍🏻
+
+--- Conversation 8 (2023-05-10) ---
+User_a591e3: I used it a bunch and it covered everything except the COVID test I needed to fly. It was super easy too. The hospital did everything and I didn't have to pay and get reimbursed. Korea was the best medical experience on rotation so far. With Taiwan being a close second.
+
+--- Conversation 9 (2023-05-11) ---
+User_8e115b: does cigna cover any teeth thing in the US at all? should I email them to ask for a dentist?
+User_c177ea: They don’t cover teeth things anywhere right?
+User_8e115b: I think they cover emergencies no?
+User_c177ea: Oh yeah
+
+--- Conversation 10 (2023-05-11) ---
+User_d4695a: What vaccines are needed/recommended for the rotation cities besides yellow fever?
+
+--- Conversation 11 (2023-05-12) ---
+User_bb0394: Hmm depends on the city I think? If you refer to the vaccine forms Minerva gave us, you should be able to find them.
+User_1a14e6: anyone know which team to email for insurance (cigna) related problem?
+
+--- Conversation 12 (2023-05-17) ---
+User_b6fd7d: Hi! Does Minerva ask you to provide vaccination records later on if you don't submit vaccination records or titer test results for Hepatitis A, B, and chickenpox?
+User_b6fd7d: ^This is probably the Health records module you've completed in the summer before you traveled to SF
+User_e0d81f: I don't think so
+User_e0d81f: I don't recall being asked again tbh
+User_c7aeb3: i think we were asked in the summer before second year as well or end of first year
+User_c7aeb3: i remember submitting some medical docs after leaving sf 1st year
+User_c7aeb3: it might have changed tho
+
+--- Conversation 13 (2023-05-18) ---
+User_792c42: is it a bad idea to not have a health insurance in the US over the summer?
+User_ffe3bb: It’s generally a bad idea to not have health insurance in the US at any given point in time 😅 healthcare here sucks and one broken ankle can cost you thousands of dollars in medical bills
+User_c177ea: You have to be extremely careful… I was uninsured my entire first year at Minerva and didn’t pay a single dime :)
+User_1a14e6: extremely bad; for simple infections like UTI or ear infections you need antibiotics sometimes; but in the states, there is no way to get antibiotics without a prescription; maybe reach out to Minerva to see if they can share some affordable options. I think Cigna is in general affordable when you use it together with One Medical
+User_8e115b: I asked minerva and they gave me this: https://www.imglobal.com/img-producer-insurance-plans/patriot_exchange?IMGAC=525202&app_method=&svi=
+
+not the best insurance out there (it only covers 90% of your expenses but the maximum you will pay is $1000) but its fairly cheap, like $50 a month
+User_8e115b: And I recommend everyone to watch this video: https://youtu.be/-wpHszfnJns to get an understanding of how the terrible US healthcare insurance system works
+User_88110f: has anyone used cigna to get birth control? i called cigna to ask if it would be covered but they said it wasn’t included in Minerva’s package
+User_1a14e6: it is covered! You can sign up for One Medical (Minerva has the annual membership code) and then you go to the One Medical portal to schedule a doctor appointment
+User_1a14e6: it is by California law required to be covered
+User_1a14e6: IUD, implant, and pills are all covered
+User_88110f: Thank you!!!!
+User_1a14e6: but it is very weird that Cigna said it is not covered; cuz last time I went to a doctor's appointment and asked if it is covered (IUD), she told me that all insurance needs to cover that in California, required by law; But maybe double check for confirmation:)
+User_c177ea: Oh how have I not seen this beauty from BDG? I love him
+User_88110f: Where did you find the code? The only code I found in my old emails isn’t working
+User_1a14e6: it should be in the myMinerva health page; let me see if I can quickly find it
+User_1a14e6: https://my.minerva.edu/student-life/student-services/minerva-health-insurance/one-medical/
+User_1a14e6: I didn't found it though:(
+User_1a14e6: dunno why
+User_88110f: SOLVED If anyone knows the one medical code please send it my way :))). [Edit: found the code using my kgi email, MVIXOM]
+
+--- Conversation 14 (2023-05-18) ---
+User_5c3148: When I click on the link under visit our website I get transferred to a weird website 😅
+User_5c3148: Has anyone got / used this insurance?
+What other insurance do you recommend for the US over the summer?
+User_751b8a: this works for Summer Insurance: just secured my own insurance via this website. https://www.imglobal.com/img-producer-insurance-plans/patriot_exchange?IMGAC=525202&app_method=&svi=.
+User_5c3148: Oh it's the same as this. Is it legit then? Their linked website is v weird
+
+--- Conversation 15 (2023-07-03) ---
+User_792c42: for Seoul visa application, it is required for citizens from Nepal (amongst 36 other nations) to provide a -ve TB test. anyone had the same/a similar medical requirement for visa process?
+
+Would making a document from my home country dated now work? 
+
+The thought of doing a medical test in US terrifie$$ me.
+User_e118cc: When I was applying in 2021 in Ukraine, the embassy had a list of hospitals from which they accepted the test (and it was still quite pricey given that other clinics did it for free in Ukraine lol)
+
+--- Conversation 16 (2023-07-03) ---
+User_05c9eb: We had the same condition in Pakistan and got the tests done from one of the approved hospitals
+
+--- Conversation 17 (2023-07-04) ---
+User_c177ea: Cvs minute clinic does a skin test for $75 without insurance last I checked
+
+--- Conversation 18 (2023-07-04) ---
+User_b5d9b9: Hello friends,
+
+Have anyone tried getting a control prescription refilled in the US without having to pay a lot outside insurance (before insurance start date)?
+
+--- Conversation 19 (2023-07-06) ---
+User_792c42: Approved hospitals as in? By the embassy?
+
+--- Conversation 20 (2023-07-06) ---
+User_05c9eb: Yup
+
+--- Conversation 21 (2023-07-19) ---
+User_a4a8ef: was it easy to find ADHD medicine in Argentina?
+User_6eff1a: last fall semester we had a psychiatrist that worked for Minerva and he can prescribe it for you, and the therapists that can refer you to him worked in the same building we lived in
+User_a4a8ef: nice! but like what about the medication supply? in Colombia I got prescribed very easily but had to wait one moth till the pharmacies had the drug available:'))
+
+--- Conversation 22 (2023-07-19) ---
+User_239eba: Hi, has anyone used the patriot lite insurance in the States? I need to visit the ER urgently, but need to activate an insurance before then. Any recommendations?
+
+--- Conversation 23 (2023-07-20) ---
+User_455221: Yeah same thing with me
+Had to run around the city pharmacies quite a bit to find the prescribed drug but I found it eventually
+
+--- Conversation 24 (2023-07-21) ---
+User_9fdc87: Hello! Has anyone done laser hair removal in Seoul? How much did it cost?
+
+--- Conversation 25 (2023-07-26) ---
+User_d2ac50: Hi! Has anyone used Patriot healthcare during the summer and can advise me on how to get (preferably) a telehealth appointment :)) thank you!!
+User_d2ac50: for more info, I just need to get some medication refilled and unsure how to do so in sf 🙂
+User_afbf75: Anyone done crowns in Argentina and knows how much money does it cost?
+User_afbf75: Also, if somebody had a chance to set up the dental insurance there, I would appreciate you sharing their experience!
+
+--- Conversation 26 (2023-08-04) ---
+User_fdf769: around $20-50 but you have to get it like 5 times
+
+--- Conversation 27 (2023-09-09) ---
+User_792c42: Anyone had positive experience with Baihesh or Fabrizia from CAPS and would recommend either ? <3
+User_209f88: Did not have positive experience with Baihesh🙈 but heard Fabrizia is lovely
+
+--- Conversation 28 (2023-09-09) ---
+User_37a37d: McKenna❤️💐✨️
+User_792c42: i knowww>>> - she's out of office though..
+
+--- Conversation 29 (2023-09-11) ---
+User_bc9342: Not the best experience with Baihesh!! I wasn't sure if he is being empathetic or depressed
+
+--- Conversation 30 (2023-09-13) ---
+User_afbf75: Does BA insurance cover dental stuff?
+User_d7c4a5: If it’s Cigna, I think it doesn’t
+
+--- Conversation 31 (2023-09-13) ---
+User_a591e3: No but things are pretty cheap without insurance.
+
+--- Conversation 32 (2023-09-15) ---
+User_792c42: Anyone who's had experience with Fabrizia; could share about their experience? Like not the details-- but i guess Fabrizia review or something 😭
+User_8d12c7: She’s a sweet lady but seemed to be out of touch with student struggles for me especially the extra challenges that come with being an international student. Her responses also bordered on slight gaslighting eg just think happy thoughts…
+In all fairness if you are honest about it she does her best to connect you to someone who can help. And in my experience, Minerva does pay for external services eg BetterHelp if you’re on FinAid and none of the school counselors are a match / not helpful for your situation. You can address this with Dr. Will Meek.
+User_792c42: this is helpful, thank you!
+
+--- Conversation 33 (2023-09-19) ---
+User_792c42: Hi Korean nationals/upperclassmen, we (M26s aka exchange students in Seoul) can enroll in South Korean National Health Insurance scheme, right? which is significantly cheaper, and comparably (if not more?) comprehensive than Cigna? So, can we not unenroll from Cigna's care and simply subscribe only to the NHIS? 
+
+Who in Minerva could I talk to about this?
+User_e0d81f: You can't waive your Cigna insurance unless you're a citizen of the country
+User_e0d81f: And as far as I understand, all Minervans are enrolled in National Health Insurance regardless of Cigna
+User_bfd47a: M25s had to pay both for Minerva insurance and korean insurance
+User_792c42: Is it just me that it doesn't make a lot of sense to?
+User_792c42: Also problematic???
+User_e0d81f: It’s just a way for Minerva to know that you’ll have the necessary health coverage, most universities do the same when you study abroad for a semester and you can’t get your own insurance
+User_e0d81f: This also creates some complications for people with multiple citizenships — for example I’m a German citizen but don’t live there so I don’t get access to the public system, yet Minerva wouldn’t let me enroll in Cigna during the Berlin semester because they considered me waived
+
+--- Conversation 34 (2023-10-03) ---
+User_3839b3: Hi! Looking for a kind Seoul to help me maximize Cigna (cant let $600+ go to waste lol). I'm looking at:
+
+1 Preventative Care
+2 Hearing Exam
+3 *something personal*
+
+Reference: Cigna 2023 Coverage Doc (https://drive.google.com/file/d/1misSSWN7Al39TJ1E2AsqwqS0tCCWRVge/view)
+
+I am in Seoul and know that Itaewon International Clinic supports Cigna insurance and offers a comprehensive range of services. It also has English-speaking support.
+
+EDIT: Asked Cigna through their "Contact Us" and "Secure Email" yesterday but no reply yet.
+User_c518af: "just think happy thoughts" seems really toxic positivity for me
+
+--- Conversation 35 (2023-10-03) ---
+User_ce8131: i don’t think they respond via email - try calling; also you should be able to get everything reimbursed as long as you have some kind of confirmation from a doctor (either medical history or a paper from the doctor you’re seeing in Seoul) that you indeed had to get the check-up or treatment done
+User_c7aeb3: they do respond via secure mail on their website, prob around 1-3 business days
+
+--- Conversation 36 (2024-01-14) ---
+User_3dfd26: Hi, does anyone know of good travel insurance options for 2-3 months of international travel? Kind of like Cigna but better? I’ve already graduated by the way.
+
+--- Conversation 37 (2024-01-14) ---
+User_26f5dd: what's wrong with Cigna?
+User_26f5dd: like better in what way
+User_3dfd26: Cheaper!
+User_131a97: [handle]
+
+--- Conversation 38 (2024-01-15) ---
+User_73b1fc: I've used GeoBlue before. They have a hospital/doctor locator within the app with guaranteed direct billing. The coverage is very similar/exceeds Cigna and is cheaper without 12 month contracts (I paid around $250 for 4 months)
+User_3dfd26: Wow that’s much cheaper than I expected. Thanks so much:)))
+
+--- Conversation 39 (2024-04-07) ---
+User_466a1a: this depends on what deal u get theough your institution. I also had GeoBlue (for my ASSIST program) and they even covered dental stuff, but the next year or so it got shit and they switched. Also, I might be wrong, but Minerva had other providers and I think GeoBlue used to be one of them. Their price per service ratio gets shit as we use the insurance more. And since we're getting massages and infinite money glitch in Argentina (if you know, you know), i doubt it is gonna get better ever
+
+--- Conversation 40 (2024-04-10) ---
+User_1766cd: Does anyone have any recommendations for health insurance during the summer?
+User_466a1a: My favorite I used so far is "None", really affordable, but you gotta check thrice when crossing the street 😄 But I heard GeoBlue is good, and back when I had it it was like 120$ per month
+
+--- Conversation 41 (2024-04-10) ---
+User_26f5dd: never do that while u r in the US bro 😄
+User_26f5dd: just avoid imglobal
+User_26f5dd: very scammy and trying to escape from paying anything
+
+--- Conversation 42 (2024-04-11) ---
+User_13c228: Hello, I'm looking for recommendations on dental services in San Francisco and would greatly appreciate any personal experiences and recommendations. I'm seeking for possibly a root canal or some tooth extraction thus if anyone has a recommendation for a budget-friendly place, I'd be very grateful to hear about it. Thank you in advance
+User_b6cf6b: Could potentially be cheaper to fly to mexico and get it done
+
+--- Conversation 43 (2024-04-12) ---
+User_f644b9: hahaha yeah, the text is a lesson on how to get into lifelong debt as soon as possible
+User_f644b9: i wouldnt do it in the us, dental is also not covered by minerva insureance i believe
+User_f644b9: that stuff can easily be 5k
+User_3751e6: I think every Minervan should’ve thought about this scenario at least once in their life hahaha
+
+--- Conversation 44 (2024-04-15) ---
+User_52c3df: Does anyone know if our health insurance coverage goes until the end of classes (April 20th) or the end of the month?
+
+--- Conversation 45 (2024-04-16) ---
+User_792c42: 30th
+User_5170f0: Does anyone know if it ceases immediately if you take a leave of absence mid-semester or still lasts until the normal deadline?
+User_5170f0: Or who's the right person to email about this?
+User_5170f0: or 80k, never underestimate US medical fees
+User_f644b9: believe me the 45k bill after leaving the SF emergency room will never leave my mind
+
+--- Conversation 46 (2024-04-16) ---
+User_5170f0: sorry for that. 
+
+curious if you eventually paid or figured out some way out of it?
+
+--- Conversation 47 (2024-04-16) ---
+User_f644b9: Cigna and the remaining by my scholarship and Dutch health insurance (it’s mandatorily for Dutch health insurance to cover anything outside the Netherlands that has high priority and could not wait before you returned home)
+
+--- Conversation 48 (2024-04-17) ---
+User_5170f0: *once again regrets not being born Dutch*
+User_5170f0: *just kidding, Armenia, I love you too, but in a toxic and codependent way*
+
+--- Conversation 49 (2024-04-20) ---
+User_554123: does anyone know if it's possible to get contact lenses in the US without a prescription (or if not, if we can get a prescription with our insurance?)? 🥰
+
+--- Conversation 50 (2024-04-20) ---
+User_5a2147: i wasn't able to get it without a US prescription :( they wouldn't accept my Irish one. I didn't try with insurance though, just got them shipped from home aha <3
+
+--- Conversation 51 (2024-05-10) ---
+User_7d7644: Has anybody (non-american) used GeoBlue, Medicover, or ISI insurance in the US and can share their experience? especially if you did have any claims/appointments and stuff <3
+
+--- Conversation 52 (2024-05-30) ---
+User_ba4913: Does anyone have any ideas on really, really cheap insurance plans for ~2 months for non-American people? (I just need to get the name on paper for an internship. Don't really care about benefits, etc.)
+User_1be83c: Curious to know too
+
+--- Conversation 53 (2024-06-12) ---
+User_0554ed: any recommendations for an insurance plan that covers mental health appointments + medication?  (for a month or two, preferably cheap-ish)
+
+--- Conversation 54 (2024-06-22) ---
+User_52c3df: Is it possible to keep Cigna after the minerva-Cigna period is over?
+User_3e2b50: there's Minerva summer insurance plan https://my.minerva.edu/student-services/minerva-health-insurance/minerva-summer-insurance-2022/
+
+--- Conversation 55 (2024-06-24) ---
+User_51212c: Anyone used Cigna for STI testing before? Esp in the US
+
+--- Conversation 56 (2024-07-06) ---
+User_bb0394: What does Dental Emergency mean for Cigna? Like does emergency wisdom tooth removal count??
+
+--- Conversation 57 (2024-07-07) ---
+User_c177ea: How would you classify emergency wisdom tooth removal? Are they in pain? That’s normal wisdom tooth behavior tbh, they come in and cause pain. Are they in unbearable pain? Try convincing cigna of that and getting it pre-covered. $0 back on my wisdom teeth removal in Taiwan, so honestly, wouldn’t test it if you’re worried (but also it was pretty cheap to get them out in Taiwan sooooo maybe do it there or somewhere where it’s cheap) 
+
+But send an email to cigna about it and they can probably give you a few scenarios of what an emergency looks like
+
+--- Conversation 58 (2024-07-12) ---
+User_e118cc: Could anyone recommend an orthopedist in SF?
+
+--- Conversation 59 (2024-08-07) ---
+User_2c19b9: SF insurance question, does it cover expenses for surgery (not esthetic ofc)? Very broad question but idk where to find the fine print (moved msg here because i realized i was in the wrong channel lol)
+
+--- Conversation 60 (2024-08-21) ---
+User_3751e6: Has anyone done physiotherapy with Cigna? (Outside the US)
+User_bb0394: I know many minervans went to physio in London with Cigna
+User_3751e6: And it was fully covered? Do you know if it’s the same for BA?
+User_52c3df: Cigna international covers the same for every country
+
+--- Conversation 61 (2024-08-23) ---
+User_52c3df: Which documents do we need to attach to ask for Cigna reimbursement outside the US?
+User_bb0394: Payment receipt.
+
+--- Conversation 62 (2024-08-23) ---
+User_9cb696: hey yalls does cigna cover adhd medication
+
+--- Conversation 63 (2024-08-24) ---
+User_04eb8b: In rotation cities except the US, Cigna covers ADHD meds. Just make sure you have the receipts.
+
+Pro tip, make sure you the receipt date is while CIGNA coverage is activated (Sept 02-Dec 31).
+
+--- Conversation 64 (2024-08-28) ---
+User_74cce8: Yes, I did it in Taiwan in an amazing hospital that billed Cigna directly (let me know if you ever need the specific name). They always sent in-advance inquiries to Cigna to check if the services they were planning to provide would be covered. 
+
+At one unexpected point though, Cigna refused reimbursing them and they billed me, even though we all had expected it would be covered by Cigna. 
+
+So there is a limit to how much you can spend per period and per specific service, and you can be proactive and call Cigna to ask how much more you can spend on physiotherapy to avoid that :)
+
+--- Conversation 65 (2024-08-28) ---
+User_bc9342: It’s more related to mental health, but does anyone have experience in dealing with self-harm? (eg; CAPs, online resources or online therapy)
+
+--- Conversation 66 (2024-08-28) ---
+User_09dde9: the minerva orientation re mental health is pretty good imo, it is called be there by jack.org
+
+--- Conversation 67 (2024-08-31) ---
+User_792c42: hugs <3; offline resources (people/support system around) help too
+
+--- Conversation 68 (2024-09-03) ---
+User_bb0394: Any rec for physio in Berlin?
+
+--- Conversation 69 (2024-09-12) ---
+User_bc9342: Did anyone contact cigna-covered psychiatry service in Germany before?
+
+--- Conversation 70 (2024-09-13) ---
+User_ae375b: Should be the same process, look for the cigna map of in-network providers
+User_a6b22a: Does anyone have recommendations for dentist in Berlin? (Wisdom teeth removal)
+
+--- Conversation 71 (2024-10-28) ---
+User_50db50: Was anyone able to get the refill of antidepressants in Taipei? Can i ask you some questions?
+
+--- Conversation 72 (2024-10-31) ---
+User_51212c: has anyone had experience getting referred to a specialist in SF? and/or super long shot - any Ear Nose Throat/Thyroid/Endocrinologist recommendations?
+User_9fdc87: I think our plan is PPO, so we don’t need referrals to see specialist doctors. You might want to call Cigna to double check. But usually you can just get an appointment with a specialist with the regular copay of 20 usd. If that doesn’t work, you can go to a general provider from one medical for 20 dollars, get a referral and do the specialist
+User_51212c: Thank you so much!
+
+--- Conversation 73 (2024-11-03) ---
+User_455221: I was able to, at Taiwan Medical University Hospital!
+
+--- Conversation 74 (2024-11-04) ---
+User_0554ed: I refilled them multiple times at Wanfang  too :)
+
+--- Conversation 75 (2024-12-03) ---
+User_06f7b0: Does anyone know if there is like a list of the accepted conditions that deserve a housing/academic accommodation or even if someone knows examples
+User_09dde9: it’s on myminerva
+
+--- Conversation 76 (2024-12-03) ---
+User_060b9b: Mental health off-campus database for anyone needing health care or mental health support
+https://harvardroom13.wixsite.com/peercounseling/external-resources
+User_060b9b: refering to dso with missy or what accomendation you need, dm me i could provide some personal experiences
+
+--- Conversation 77 (2024-12-13) ---
+User_5c3148: Has anyone dealt with Autoimmune Diseases and can suggest doctors/ life styles changes that helped them please?
+
+--- Conversation 78 (2024-12-14) ---
+User_51212c: I saw Antiinflammatory diet floating around on IG, but I haven't looked into the scientific papers for it yet
+
+--- Conversation 79 (2024-12-25) ---
+User_7047ef: Has anyone used Cigna in their home country? Does it work if it is during the semester?
+
+--- Conversation 80 (2024-12-26) ---
+User_50db50: Yes!
+
+--- Conversation 81 (2024-12-29) ---
+User_bb0394: Has anyone gotten IUD in Berlin?
+
+--- Conversation 82 (2025-01-10) ---
+User_62fedd: hi! has anyone used dental services in Seoul? it’s very urgent, if you have experience, can you please dm me🥹🥹
+User_92002f: Any recommendations for physiotherapy in Seoul? 🙏
+
+--- Conversation 83 (2025-01-10) ---
+User_b6fd7d: Depends on what type of health issue you’re experiencing but there’s an international clinic in Itaewon that takes patients with general things like cold and sprain. One of my friend went there and pretty much worked out.
+User_b6fd7d: you can also ask SLT to help you out. Sarah used to take some people to big hospital if they need help.
+
+--- Conversation 84 (2025-01-14) ---
+User_fdf769: does anyone doing remote & staying in US have a good insurance provider rec? or know how to renew cigna?
+
+--- Conversation 85 (2025-01-17) ---
+User_f644b9: honestly getting very good travel insurance from your own country is most often cheaper than getting a us insurance
+User_f644b9: + you are covered literally anywhere on the planet
+User_f644b9: + support is way better, most of them have their own doctors you can call too with questions for free
+User_09dde9: has anyone done an adhd test with cigna? is that covered?
+
+--- Conversation 86 (2025-01-19) ---
+User_a6b22a: Are there any hospitals that are affordable in SF for spine/back pain?
+
+--- Conversation 87 (2025-01-21) ---
+User_0beb24: Are there any hospitals that do direct billing to Cigna in SF? Also is it possible to get an appointment without co pay?
+User_52ac9c: Afaik, it's not possible to have an appointment without co-pay in the US, except the telehealth consultations through the Cigna app, which are with general clinicians. For telehealth consultations outside of Cigna app with doctors from a specific area, copay also applies like on in-person consultations
+
+--- Conversation 88 (2025-01-31) ---
+User_52ac9c: Has anyone been able to get any psychological test (e.g. ADHD) in English in South Korea?
+If so, in which hospital/clinic?
+
+--- Conversation 89 (2025-02-01) ---
+User_af01b7: On that note, what has been people's way of reliably procuring ADHD medication in San Francisco given ongoing shortages?
+
+--- Conversation 90 (2025-02-01) ---
+User_0beb24: Hey! How much is usually the co pay for ER in SF?
+User_3751e6: Can be up to 200, if it's just clinic it's 20 afaik (assuming it's Cigna and it hasn't changed) -- for me it was 200 for a covid test and a penicillin shot
+
+--- Conversation 91 (2025-02-06) ---
+User_5a2147: does cigna cover a dental visit?
+User_5a2147: like not a cleaning but rather getting tooth pain checked out?
+User_5a7223: Yes, everywhere but the us 
+And better to call the provider just to double check (bc some of the listed providers on Cigna don’t work with them anymore)
+User_5a2147: Not me being in san francisco
+
+--- Conversation 92 (2025-02-06) ---
+User_52ac9c: Has anyone ever tried getting gym membership covered by Cigna? I wonder if we can do this hack with our plan:
+
+https://www.cnet.com/health/fitness/the-trick-to-getting-a-gym-membership-for-practically-free/
+
+--- Conversation 93 (2025-02-08) ---
+User_ee710e: Girl just go to Tijuana and do it for 10 usd
+User_5a2147: Guess it's time for a trip to mexico
+
+--- Conversation 94 (2025-02-10) ---
+User_52ac9c: For those looking for hospitals with direct billing with Cigna, and that 1-replies to emails; 2-have appointments close to the date you contact them (bc of doctors' shortage in South Korea, some hospitals only have capacity for april, which is too far) - then check out Soon Chun Hyan Hospital. You can contact them through this email address: [email]
+
+Don't forget to provide them your name, which type of doctor you want to see (and why - provide symptoms or reasons, it will be faster bc they will probably ask before scheduling you if you don't provide in the first email), provide your korean phone number (only if you have one)
+
+When you go to the hospital, don't forget your passport or korean ID card, and your Cigna insurance card (it can be a photo or the PDF cigna sent by email for the insurance card) - you will need to go to the international office before you get to see the doctor (if you don't know where it is, show your email from the hospital to a staff member such as a security guard and they will point the direction for you)
+
+In the international office, you will fill out a sheet with your insurance details and credit card (they will only charge you if the insurance does not work or if you get something that is not covered automatically, such as an exam or a specific therapy). Important: if the doctor prescribe you something that they have not discussed with you (such as an exam or therapy/threatment you were unaware that you got prescribed) and the staff informs you that you will have to pay out of pocket, inform the staff that you were unaware of that prescription - they will remove that and then allow you to proceed with direct billing (you if get an exam of therapy that you actually need and was discussed with the doctor, then it's okay - but don't pay for something you were unaware and that you weren't informed of beforehand by the doctor). If you need an exam or therapy, it's recommended to call Cigna first and ask them if Cigna covers it and what documentation you need to claim your money back for that threatment.
+
+Unlike Taiwan, Korean hospitals (at least this one) do not have medications immediately available there. You need to get a prescription with the doctor, and then visit a pharmacy neaby to buy the medications. Don't forget to get the receipt from the pharmacy to submit a Claim to Cigna so you can get your money back! (the hospital has direct billing, but medication does not have! You need to claim it yourself afterwards).
+The hospital staff recommends to buy medication in pharmacies close to the hospital (idk why - but it's recommended)
+
+An important thing to notice is that, like in other rotation cities, if you're pursuing a specific diagnosis that requires testing, and you don't speak the local language, it's very hard to find a hospital that conducts testing in English (if any exists) and the doctor will likely recommend that you take the testing in your home country or in the US. (But if you find any hospital with testing in English, pls pls pls share here or DM me since many ppl are looking for it).
+
+Doctors will also usually not allow you to use translator apps during testings - you need to understand the language. For regular visits, exams, etc, the doctors will be able to speak to you in English normally (it's really just diagnosis testing that you usually cannot get here. If your diagnosis is for something that does not require testing, you will still be able to get diagnosed).
+
+--- Conversation 95 (2025-02-11) ---
+User_52ac9c: Correction: for some medications, they have available in the hospital pharmacy.
+
+You can also go to the hospital as walk-in, just bring your passport and Cigna ID Card for direct billing. For walk-ins the expected waiting time is 1h, but it might take just 5 minutes if the doctor is free
+
+--- Conversation 96 (2025-02-12) ---
+User_52ac9c: How to submit Cigna Claims (reimbursement for medical bills)
+
+For those wondering how to submit a claim to Cigna:
+
+1 - go to this website: customer.cignaenvoy.com
+
+2 - Log into your account (inform your Cigna ID (it's in your member ID card that they sent by email) and the password you created the first time you logged in)
+
+3 - Put the mouse over the button "Claims" without clicking on it --> then click on "Submit a new claim"
+
+4 - Inform date of treatment, diagnosis, symptoms, and send photos/documents of what's relevant. Like medical letters, prescriptions, receipts, etc. Example: if you're submitting a claim for reimbursement for medicine, submit the prescription and the receipt.
+
+5 - Inform your bank details. Important: they will ask for your Bank address (not YOUR address). Be aware if they say "bank city" "bank address", etc --> this means it's your bank address that they want. To find your bank address, search on your bank's website how to receive wire transfers, they usually have this info there. Here's the Capital One info as an example: https://www.capitalone.com/help-center/checking-savings/send-receive-wire-transfer/
+
+6 - Then you will inform your bank account's details, such as account number and ABA number ("ABA number" is your "routing number") - you can find this information in your bank's app! Make sure you get the details for the account you would like to receive the reimbursement in (e.g. if you have both checking and savings accounts with the same bank, they will have different details, account numbers, etc - get the details of the account you wish to receive the money in)
+
+(Important: the bank account must be yours - do not inform a third-party's bank account)
+
+7 - Review everything you filled in your claim and then submit. In 5 to 7 days Cigna will reimburse you
+
+Hope this is helpful! =)
+
+--- Conversation 97 (2025-02-14) ---
+User_a036ad: Hii has anyone successfully bought medicine in your rotation city based on your home country doctor’s prescription? 🥺 Like I have my personal doctor back home and they gave me prescription but in Seoul they only accept prescription from Korean doctor :(((
+User_52ac9c: Usually, no country will accept a foreign country's prescription. You need to schedule an appointment in a South Korean hospital to get a prescription here.
+
+I recommend Soon Chun Hyang University Hospital since they reply quick to emails and have direct billing with Cigna.
+The insurance has direct billing for the doctor's appointment and for "in-house" medicine (meds you take from the hospital pharmacy). However, depending on the medicine, you'll be asked to buy it in a pharmacy outside the hospital. In this case, the hospital visit has direct billing, but you need to pay for the medicine with your own money/card. Then, get the receipt from the pharmacy - you need to send it to Cigna along with the doctor's prescription to get reimbursed.
+
+Follow these steps to get an appointment at Soon Chun Hyang, and then the steps to claim a reimbursement from Cigna for outside-of-hospital medicine (below)
+User_a036ad: Thank you so much :(( I mean because I’ve been on treatment with my doctor for a while already, they knew my illness history and stuff pretty well (and my kind of illness is longlife tho) so I don’t think of changing doctor :<< My prescriptions just changes recently so I have no ideas where to buy while being abroad :(( but thank you very much for your detailed information Pietro :3
+
+--- Conversation 98 (2025-02-24) ---
+User_52ac9c: Does anyone know if Emergency rooms (ER) outside the US are 100% covered by cigna?
+
+--- Conversation 99 (2025-03-01) ---
+User_3839b3: Did anyone ever make a document detailing how we can avail benefits like One Medical?
+
+The usual method for me is just call in-network doctor, wait for Cigna-will-pay guarantee letter (or instructions on reimbursement), then visit.
+
+I'm not even confident with doing the above after 3 years here. Is this the best method?
+
+--- Conversation 100 (2025-03-01) ---
+User_d31481: For me, I just go visit One Medical, provide my insurance card, and One Medical will settle everything with Cigna. All I have to do is pay $20 copay.
+
+--- Conversation 101 (2025-03-04) ---
+User_52ac9c: Has anyone tried scheduling a therapist online from a company of their home country, and claim reimbursement from Cigna for that?
+
+--- Conversation 102 (2025-03-09) ---
+User_52ac9c: Hi! Does anyone have recommendations of good health insurances to get for summer in SF?
+(Like, not just to meet the requirement of having an insurance - but one that is actually good to use at least once per month)
+
+--- Conversation 103 (2025-03-09) ---
+User_7047ef: I just got Patriot Exchange Program from International Medical Group (Minerva recommended it in 2023 when they couldn't do Cigna summer insurance, and it also allows you to pro-rate by the days so you can pay for 45 days)
+
+Minerva can also enroll you in Cigna I think (check My Minerva), but it goes by months
+
+--- Conversation 104 (2025-03-09) ---
+User_52ac9c: Thank you smm!! This is very helpful
+
+--- Conversation 105 (2025-03-11) ---
+User_ee710e: Has anyone gotten pre-approved for a surgery outside the US with Cigna? If the clinic sends me an invoice, can I just forward it to Cigna and they pay the clinic directly? Or do I need any other document?
+User_c177ea: I had to contact Cigna and get a pre-authorization for a surgery. Surgery was quite a big deal for cigna, it took awhile to get pre approved and they needed a doctor note as well when I asked.
+
+--- Conversation 106 (2025-04-03) ---
+User_52ac9c: Hi! Has anyone found a way to refill medicine without having to go to the doctor every time in South Korea?
+User_52ac9c: Idk why doctors are so suspicious here, they always say they can only give 2 weeks or a month of medicine. In Taiwan they could give 3 months
+User_6e527e: They gave me for 4 months here
+User_52ac9c: Woww, that'd be perfect! which hospital did u go?
+User_6e527e: SoonChunHyang University Hospital
+User_52ac9c: Thank you!
+I think I got bad luck with the doctor, they only gave me a month there :( I'll try a new doctor in the same hospital
+
+--- Conversation 107 (2025-04-07) ---
+User_6e527e: Does anyone know when our cigna coverage ends? I couldn't find anything on their website :(
+User_0378ef: i forgot the exact date but i remember seeing it on myminerva in the insurance section
+User_6e527e: found it, thank you!
+
+Students in San Francisco will be covered from August 16 until April 30 of the academic year.
+
+Students in Global Rotations will be covered from from September 1 until December 31 for the Fall Semester and from January 1 until April 30 for the Spring Semester of the academic year.
+
+Minerva Students in San Francisco for Manifest will be covered from May 1 until May 31 of the academic year.
+
+--- Conversation 108 (2025-05-06) ---
+User_bb0394: What counts as emergency for dental with Cigna in the US?
+User_5a7223: When area/the tooth was perfectly healthy (no treatment was done before like root canal or filling etc) and suddenly smth happened 
+And also they provide only pain elevation treatment, any service that follows is not covered
+
+--- Conversation 109 (2025-05-22) ---
+User_58123c: has anyone been to a dentist and san francisco and has recommendations on where to go?
+User_6e527e: Does signa cover urgent dental stuff in/outside the US?
+
+--- Conversation 110 (2025-05-22) ---
+User_58123c: i was under the impression that they do cover emergency dental (eg accidents or smth like that, but nothing that you could anticipate) and heard some success stories but am just now on the way back from a dentist who told me our plan does not even cover emergency dental, so idk? happy to keep you/the chat posted
+User_6e527e: Rip, thanks!!
+
+--- Conversation 111 (2025-05-24) ---
+User_52ac9c: Hey guys! If you have an answer to any of these questions, it would be of great help!:
+
+1 -  Cheap hospitals/clinics in Chiang Mai (Thailand) to refill medication w/out insurance? (or in Bangkok)
+
+2 - Do you know a very cheap insurance for the summer for countries that are not US/Europe (mainly Asia, and maybe Latin America) and that covers at least the majority of appointment costs + medicine refill costs
+
+--- Conversation 112 (2025-07-18) ---
+User_dffc63: Have you visited a cigna covered rheumatologist in los angeles before?
+
+--- Conversation 113 (2025-08-27) ---
+User_05fb7a: Heyy have you ever had problems with logging in your Cigna account? ⚕️
+Specially, they ask me to verify my identity through my American number (which I no longer have) AND because of that I cannot log into my account 🥲
+
+--- Conversation 114 (2025-08-27) ---
+User_52ac9c: are they asking that because you're trying to recover your login information? Or was the log in unsuccessful?
+If the log in was unsuccessful and they claim your info informed is incorrect, look for their email and see exactly what info they have about you (the email will contain your name, ur cigna ID, things like that). Chances are that your name could have been written incorrectly, and u have to write it exactly as they have in their system to be able to log in. And later, you have to contact them to correct your information and correct your name (if that's the case), so that you can avoid any issues with refund claiming.
+
+This year specifically, they made a common mistake in multiple profiles, putting the surname and name in incorrect orders (so you may have to log in with Surname + Name instead of Name + Surname). However, there has also been cases where ppl's names were just incorrect (like a spelling error). In any case, the name they have in their system will be informed in their welcome email.
+
+If the issue is not login, and you actually logged in successfully, but they are still asking to verify your identity after you logged in, you may have to contact them and inform that you contact has changed and that you're unable to access your account
+User_05fb7a: Pietro Oml are you the fallen angel 👼??
+
+--- Conversation 115 (2025-08-28) ---
+User_6e527e: Has anybody gone to the dentist in Argentina?
+
+--- Conversation 116 (2025-09-03) ---
+User_ae375b: How expensive were dentists in Taiwan?
+User_ae375b: Did anybody buy Cigna dental insurance?
+User_c177ea: Not expensive. I think it was around $30-40 for a regular visit. And I got all four of my wisdom teeth out for like $400-500 USD
+
+--- Conversation 117 (2025-09-04) ---
+User_92002f: Anyone has a recommendation for physiotherapy in ba?
+
+--- Conversation 118 (2025-09-04) ---
+User_ae375b: There is a good chiropractor and a good massage therapist both 5 minutes away from the res hall
+User_8eab43: I wanted to get weekly therapy sessions, im using betterhelp but i dont know if its either the most cost-effective option, its CAPS good for this kind of situation or what do you recommend?
+User_2c19b9: If you're in the US I believe Cigna covers something from 20 to 30 sessions, internationally they cover 10. Don't really have experience with CAPS but many Minervans have relied on them (+ it's free!)
+P.S. Betterhelp has some questionable business practices and I heard you can sometimes find some real' shady therapists on there, but maybe it works for you idk
+User_ae375b: I think it's more than 10 sessions internationally
+User_2c19b9: I recently called them and I believe they said 10 but wouldn't hurt to double check
+User_50db50: I submitted wayyyyy more than 10 sessions and got reimbursed for every single one
+User_92002f: Thanks! Do you have the names?
+
+--- Conversation 119 (2025-09-05) ---
+User_ae375b: https://maps.app.goo.gl/qr8tpJ9rpRRxgmTY7
+
+--- Conversation 120 (2025-09-05) ---
+User_bcbd83: Question for upperclassman, were you guys still paying 700$ per semester for the cigna health insurance even outside of San Fran if the rotation country enrolls you into the health system?
+User_df9f1b: It’s Cigna everywhere. You can’t opt out unless the rotation country is your home country. Or like you’re from EU and in Berlin.
+User_2c19b9: I think Cigna international is slightly cheaper but don't quote me
+
+--- Conversation 121 (2025-09-05) ---
+User_bcbd83: I wonder if it is related to our student status in the usa.
+User_09dde9: marianna sent a post in our portal explaining
+
+--- Conversation 122 (2025-09-15) ---
+User_05fb7a: has anyone seen a doctor in BA??
+
+i have troubles figuring out how to find a place that works with CIGNA and how to set an appointment:(((
+User_921ddc: Hospital Aleman is the go-to for Minerva
+User_8bbbff: What’s the email we need to contact (Cigna’s) if we have an appointment for Aleman ?
+User_5d5452: [email]
+
+--- Conversation 123 (2025-09-28) ---
+User_da66aa: Does Cigna cover therapy session as well?if so how can we  arrange one, for example in Argentina?
+
+--- Conversation 124 (2025-10-17) ---
+User_e26cce: has anyone gotten cigna to cover contact lenses?
+User_da8a35: I had cigna cover 100% of my weekly remote therapy (our insurance includes 60h per policy year I think?), you can even continue in the us as long as your therapist is NOT in the us, you just submit the receipts and they reimburse
+
+--- Conversation 125 (2025-10-20) ---
+User_da8a35: Since many people asked: 
+
+- to do that, you submit the receipts as claims and they reimburse, that’s it. If you text me for more details I’ll say the same thing again because there isn’t anything to add
+(please don’t text me asking that. Also please don’t ask me how to submit a claim, I am tired and I don’t want to answer that) 
+ 
+- I don’t have a link to use to find a therapist
+
+--- Conversation 126 (2025-10-21) ---
+User_f41642: has anyone tried cigna virtual care in US?
+
+--- Conversation 127 (2025-10-30) ---
+User_c110f1: Did anyone visit the dentist in BA? 😭
+
+--- Conversation 128 (2025-11-03) ---
+User_2c19b9: There is a dentist in Bellini afaik! I think some people went to see him for emergencies
+
+--- Conversation 129 (2025-12-02) ---
+User_04eb8b: i think the appeal was that he is hot... "beautiful brown eyes" & "hella fine" were the key words
+User_2d7394: those are my fav filter terms on cigna
+
+--- Conversation 130 (2025-12-06) ---
+User_a4a8ef: how the hell was i not notified of this lore dang
+
+--- Conversation 131 (2025-12-08) ---
+User_0efe05: Helloo does anyone know if cigna covers mris/cts?
+
+--- Conversation 132 (2025-12-09) ---
+User_8bbbff: i had a CT scan it was covered
+
+--- Conversation 133 (2025-12-10) ---
+User_935186: Has anyone imported medications into japan AFTER arriving? If so, how did you enter the tracking number/invoice if you haven't shipped it yet? Or do you need to fill out the form after shipping?
+
+--- Conversation 134 (2026-01-03) ---
+User_a10c53: still the same now?
+User_a10c53: where do we find "activation code" for cigna
+
+--- Conversation 135 (2026-01-09) ---
+User_3818f5: does anyone know if blood tests are covered by cigna
+User_764489: they are, but be careful. You need to make sure the doctor taking the blood is in-network even if you go to One Medical
+User_8eab43: i use quest and they are free
+
+--- Conversation 136 (2026-01-10) ---
+User_3818f5: perfect, thank you!!
+
+--- Conversation 137 (2026-01-10) ---
+User_51212c: had 2 MRIs (Hyderabad, BA) and it was covered
+
+--- Conversation 138 (2026-01-16) ---
+User_5a4be1: Did anyone have a primary/urgent care visit in SF and know how much Cigna covers?
+
+--- Conversation 139 (2026-01-16) ---
+User_3751e6: your copay with Cigna for urgent care should be 200
+
+--- Conversation 140 (2026-01-17) ---
+User_5a4be1: Oh okay thank you!
+
+--- Conversation 141 (2026-01-17) ---
+User_5a4be1: In case anyone was curious. Apparently, urgent care is covered 100% for in-network. Primary care, $20 copay
+
+--- Conversation 142 (2026-01-26) ---
+User_bf2c9f: anyone with cigna + wisdom teeth experience?
+
+--- Conversation 143 (2026-01-31) ---
+User_896964: Hii ! does Cigna covers contact lens expenses in BA?
+
+--- Conversation 144 (2026-02-01) ---
+User_da8a35: Hi so since like 10 people have asked 
+
+to have your therapy covered by cigna, you need to submit to cigna the receipts. 
+they need to be for individual sessions and contain
+
+• your name and date of birth as the patient
+• the name of the provider 
+• the taxpayer number of the provider 
+• the sum and currency
+• the date of treatment 
+
+That is it! 
+
+just submit the receipt and they will reimburse. It can be from your home country, they will cover it (have been doing that the whole time, including in the US) 
+
+If anything is missing from the receipt, they will contact you asking for additional info and generally nothing bad happens if you accidentally get something wrong 
+
+(not legal advice)
+
+--- Conversation 145 (2026-02-02) ---
+User_b84af7: By covered, do you mean 100% covered? Like at no real cost to you after reimbursement? Or is it still that $20 per session?
+User_da8a35: 100% if ur therapist is outside of the US (remote)
+User_8bbbff: Would Cigna cover if if I wanted to get my prescription removed w a laser surgery 🤓🤓🤓
+User_c2f46c: I think is this falls under vision not medical
+User_c2f46c: Which is not part of our plan
+User_8bbbff: Almost .. thanks :)
+
+--- Conversation 146 (2026-02-03) ---
+User_23bd15: Anyone visited an orthopedics clinic in BA before?
+User_ae375b: No but there's at least 2 in the res
+
+--- Conversation 147 (2026-02-04) ---
+User_da66aa: Hi, which email address should I contact to be reimbursed for medical expenses I have already paid?
+User_764489: U need to long into your Cigna online and file a claim
+User_da66aa: thank you my TA, I did it before thought they might have an specific email might increase the efficiency but I guess they don’t
+User_8bbbff: I think within a week or two the money is in your account
+
+--- Conversation 148 (2026-02-04) ---
+User_2d5095: Has anyone taken MRI under full cigna coverage?
+User_048800: yes (in south korea tho). just communicate with cigna and the hospital that they ll cover it fully
+User_2d5095: Did you requested direct billing?
+User_048800: Yes. I mean I did not have to pay out of pocket becuase Cigna and the hospital had a direct relationship
+User_048800: and the hospital billed cigna directly
+User_048800: i think maybe in the states you need to copay 25 USD (?). but I think it s the best you email with them to know for sure
+
+--- Conversation 149 (2026-02-11) ---
+User_b48221: Hi - has anyone gotten Cigna to reimburse them for wisdom teeth extraction?
+
+--- Conversation 150 (2026-02-11) ---
+User_d31481: I don't think our Cigna global plan covers dental. My dentist contacted Cigna, and they said that my plan don't cover dental.
+
+--- Conversation 151 (2026-02-28) ---
+User_6e527e: Hi! Any recs for a separate (not part of a bigger plan) dental insurance in the US?
+
+--- Conversation 152 (2026-04-03) ---
+User_3751e6: can we get summer insurance from Minerva for the summer after graduation?
+User_7047ef: they only do emergency iirc, no electives/check ups
+
+--- Conversation 153 (2026-04-23) ---
+User_74cce8: Hi! Has anyone gotten a health insurance for Master’s/PhD studies in the US? My prospective university offers some crap for $5.5k/year without dental or vision. I would love to waive it. ISO seems to be a better and cheaper alternative (that’s what Marianna recommends), BlueShield looks bad, and I do not know if Cigna is an option. The rep I called said they can’t match our Minerva plan or take our past history into consideration. Is there something better out there given we already have a history?
+
+--- Conversation 154 (2026-04-29) ---
+User_ae375b: Hi much is copay of an mri with cigna in sf?
+
+--- Conversation 155 (2026-04-30) ---
+User_7047ef: call cigna to be sure
+
+--- Conversation 156 (2026-05-02) ---
+User_52ac9c: hey guys, any recs for cheap health insurance in the US? and also, if I get a plan now, how many days do I have to wait to start using it?
+
+Also, does anyone know affordable healthcare in california that doesn't require insurance but also doesn't affect visa applications later? (not federal programs or anything that appears in our record)
+
+or, is there any way to get antibiotics in the US without visiting a doctor?
+User_12492c: Similar question. What health insurance plan do people usually get for summer in the US? Do you use Minerva's Cigna, a travel plan from your home country, or some other local US insurance?
+
+--- Conversation 157 (2026-05-03) ---
+User_f19ed6: check out iso student health insurance!
+
+--- Conversation 158 (2026-05-03) ---
+User_7047ef: ISO or Patriot IMG
+User_7047ef: but keep in mind they don't cover pre-existing conditions, so if u intend to use it, get Minerva's cigna plan
+
+--- Conversation 159 (2026-05-16) ---
+User_3f620b: Anyone has any idea how to get affordable dental care in the us
+
+--- Conversation 160 (2026-05-17) ---
+User_ae375b: Not sure but there are sliding clinics where you pay based on your income or something
+
+--- Conversation 161 (2026-05-17) ---
+User_7facf1: If you can't find sliding scale clinic, go to a dental school that's part of a university, there are always students needing training and its typically half the cost or less compared to a dentist
+
+--- Conversation 162 (2026-05-17) ---
+User_8eab43: you could get a insurance from a practice that is cheaper than a full plan, but if you don’t need anything major you can just go to a dental school and it’s probably cheaper, i paid a bit less than 400 for a cleaning, xray and examination at the dugoni school of dentristry a few months ago in sf
+
+--- Conversation 163 (2026-05-25) ---
+User_2c9fd5: hey! Does anyone have any advice on claiming large medical expenses covered under our policy? outside of us
+
+--- Conversation 164 (2026-05-25) ---
+User_52ac9c: under cigna?
+User_52ac9c: here's a tutorial on how to make a claim for medical expenses from Cigna: https://drive.google.com/file/d/1RMEHDl-GxGuJiz0cqPMoMTqlscHNvjwT/view?usp=sharing
+User_2c9fd5: Yep

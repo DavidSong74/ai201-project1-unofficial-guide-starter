@@ -1,0 +1,44 @@
+# Topic: fave class
+
+--- Conversation 1 (2023-11-28) ---
+User_d4695a: upperclassmen!! come rant about your favorite Minerva courses 😁
+User_554123: AH166 changed my life, as I have said way too many times in every chat hahaha 🥰💛
+
+--- Conversation 2 (2024-01-13) ---
+User_97e42f: [handle] what was so special about the class?
+User_97e42f: Super curious to hear from other upperclassmen too!
+User_acf037: Haha I think the “Collingwoods” gives it away a bit, but great interpretive theories of performativity and an ✨amazing✨ opportunity to produce and analyze protest art. What else might you add, all my AH besties? 😋
+
+--- Conversation 3 (2024-01-13) ---
+User_751cc5: AH162 public and applied history 🤩
+
+--- Conversation 4 (2024-01-14) ---
+User_0beb24: CS166 modeling and analysis of complex systems 😍
+
+--- Conversation 5 (2024-01-17) ---
+User_482864: CS113 Linear Algebra, really showed me the beauty in math. Plus John Levitt is an amazing professor
+User_60f864: on top of that, CS164 is a good choice if you want to continue having class with Levitt and dive deeper into using coding for mathematical problems
+User_60f864: + you don't really need to understand everything to get a good grade
+User_df9f1b: NS112 lots of readings but also lots of insights. Boy I was so wrong about evolution.
+User_29ea3d: Cs130 and ss154 for understanding data and world and how we can estimate causation - and literally how to evaluate evidence for claims and create arguments using data
+User_29ea3d: And ns166 for ecology (it was really eye-opening)
+User_466a1a: CS152 - a breather for the cs majors out there + you get to do some fun stuff like use cs to solve games and/or design bots to play them + easy grade
+
+--- Conversation 6 (2024-01-21) ---
+User_792c42: Would love to know more about this! 
+
+What it covers, is it by any means extension of Complex Systems cornerstone?
+User_d4695a: yayyy the thread is thriving 😍😍
+
+--- Conversation 7 (2024-01-21) ---
+User_0beb24: To some extend yes 
+It uses computational tool for complex systems 
+You basically do modeling of systems including modeling on networks which I personally found super interesting 
+One of the assignments was to predict traffic congestion by modeling the city system as a network and writing a simulation for car movements 
+Some other assignments included cellular automata based models (bacteria and food diffusion, smth like a dynamic prey predator model)  forest fire simulations, information transmission in social networks and other cool things 
+The coding is okay if you are comfortable with OOP (object oriented programming) but if no well you will have to learn it in a hard way
+User_c0b244: Yess it's like taking complex systems semester 1 and then adding code and math, all the best things together
+User_792c42: OOPsie daisy -- coding is going to be the end of me 🥰
+
+--- Conversation 8 (2024-01-24) ---
+User_f644b9: had levitt, was the course i understood the least but got the highest grade in. I love that dude

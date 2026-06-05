@@ -1,0 +1,213 @@
+# Topic: Software/Engineering People
+
+--- Conversation 1 (2023-10-14) ---
+User_b5e389: I thought we can share such tips for work, together, here, as our community has many people in SWE/Engineering roles.
+
+--- Conversation 2 (2023-12-01) ---
+User_b5e389: https://youtu.be/yD2JaAnMMo0?si=scdkqkc7_FBNGMY_
+
+--- Conversation 3 (2023-12-24) ---
+User_b5e389: I really want to recommend the clean coder book. It is incredibly helpful specially if you know v few insiders of the field and want to get a grasp of the norms, expectations, and ways to excel within those. I highly recommend reading it before a swe internship. Having finished it out of necessity, I wish someone had told me to read this ahead of time.
+
+--- Conversation 4 (2023-12-26) ---
+User_8bbbff: Both?
+
+--- Conversation 5 (2024-03-02) ---
+User_b5e389: Hey
+Just saw this hehe
+Yea if u want more technical advice the clean code
+If u want more of behavioral advice for work in tech as a swe then the clean coder
+
+--- Conversation 6 (2024-03-08) ---
+User_0eec43: anyone have leetcode premium and want to share?
+User_26cb47: Willing to give it to u for free honey 🍯
+
+--- Conversation 7 (2024-03-12) ---
+User_896964: 👋 Hello from the First Collegiate International Hackathon by Minerva! 
+
+Our team from M27 is organizing an in-person hackathon to be held simultaneously across four rotating cities. We aim to gather diverse undergraduates to tackle global issues by combining AI with local technologies unique to each city 🌎💻
+
+To bring this vision to life, we are forming teams from M25, M26, and M28. Currently, we are seeking directors for these teams.                                                                                                                             
+
+🔗Access this document (https://docs.google.com/document/d/197hkBwLnTTwqE_iNwX_2saR46widDR27UWFobJuiREY/edit?usp=sharing) to learn more about the hackathon, team dynamics, and the role of a director.
+ (https://forms.gle/uNjkcpdea7RNVCWy9)🔗Access this form (https://forms.gle/uNjkcpdea7RNVCWy9) to apply for the Director position.
+
+Note that we will first recruit the directors, then recruit the other roles.
+
+Feel free to reach out if you have any questions!
+
+--- Conversation 8 (2024-03-21) ---
+User_5099f8: Anyone wants to share neetcode or leetcode?
+
+--- Conversation 9 (2024-03-24) ---
+User_b010c8: If you are in San Francisco and have worked at an AI startup or worked/interned in this field - please message me.
+
+--- Conversation 10 (2024-05-01) ---
+User_afbf75: any tips on finding internships over the semester? (fall/spring)
+User_ba2c04: Applying for summer internships and asking for a mid-late August start date can work
+
+Otherwise startups are your best bet as they can let you work part time because convincing the PRPC committee to let you work full time during a semester is tough
+
+--- Conversation 11 (2024-05-02) ---
+User_5c3148: Hi, another useful book rec for this industry: "Managing Up" by Mary Abbajay
+
+It’s really helpful with workplace relationships, especially with bosses.
+
+The book is really practical for communication mishaps or trying to align better with your manager's expectations or even micromanaging managers!
+
+I felt the need for something like this SO much and didn’t know it existed. So here it is for you to know in advance before experiencing a bad manager relationship.
+
+--- Conversation 12 (2024-05-08) ---
+User_0f5016: Any good pirate websites to get books? Pdf or audio
+User_354572: Do you use hoopla? 
+They have tons of audiobooks and ebooks we can access with SFPL card.
+Otherwise I just search the “book name + PDF” and it works almost every-time.
+User_0f5016: With the SFPL are they free or you get charged
+User_455221: Libby is another great book/audiobook site accessed through sfpl for free!
+User_8bbbff: Libgen
+User_52ac9c: Telegram has some really good groups that share book PDFs
+User_52ac9c: I don't know of any specific one, because I'm not currently using any, but I used to seach "book" and those groups would appear in the search bar, then in the media files of the group you can search for the book you're looking for (usually someone already posted it), and if it's not there, there are groups who allow you to request a book, and someone will find it and share the PDF there
+User_354572: It’s free for life.
+They also have movies if you wanna stop paying Netflix!
+
+--- Conversation 13 (2024-06-12) ---
+User_f644b9: Looking for recent grads for a full-stack full-time role at my ed-tech startup. Reach me via PM or via [email]
+
+--- Conversation 14 (2024-07-24) ---
+User_25c474: Hello, is there someone who has experience in pushing a Django web app to production on Cpanel?
+Thanks in advance
+
+--- Conversation 15 (2024-08-01) ---
+User_8bbbff: Hey is anyone intersted in doing mock interviews together leading up to the semester beginning and the semester?
+
+--- Conversation 16 (2024-09-28) ---
+User_f606a0: Hey friends! 👋
+
+I’ve been working for the past ~3 months on an AI agent that helps reduce and manage overwhelm - you can brain dump all of your thoughts/current context, and Rae works with you to clear things out, organize tasks, and then helps you actually get started on the stuff you are struggling with.
+
+This is still a pre-release version but I convinced my company to share this with you all because I know how overwhelming Minerva gets sometimes 😮‍💨 (and I trust you all will provide great feedback 😁 which we always need)
+
+Rae exists right here on Telegram 😉 as a bot 🤖 so it's super easy to get started!
+
+
+Please DM me if you're at all interested to give it a try, especially my fellow ADHDers 🥳
+
+--- Conversation 17 (2024-12-15) ---
+User_4cc7e7: Hello did anyone work part time for a US based company during the semester? I had some questions
+
+--- Conversation 18 (2025-01-21) ---
+User_ea1a15: Has anyone had the OA for Google SWE internship? Plz dm!!!
+
+--- Conversation 19 (2025-01-28) ---
+User_df9f1b: Anyone here has experience integrating a django application with Clerk and answer a quick question? I would really appreciate it!
+
+--- Conversation 20 (2025-02-08) ---
+User_afbf75: anyone did a system design interview with palantir recently-ish?
+
+--- Conversation 21 (2025-07-04) ---
+User_afbf75: anyone has interviewed with Remitly?
+
+--- Conversation 22 (2025-07-17) ---
+User_afbf75: Anyone can recommend good resources for learning Go? Thanks in advance!
+
+--- Conversation 23 (2025-08-07) ---
+User_ad5626: basics:
+
+https://go.dev/tour/welcome/1
+https://gobyexample.com/
+
+nice courses: (i think its affiliated with primeagen)
+boot.dev
+
+--- Conversation 24 (2025-09-19) ---
+User_896964: Hii ! Is there any SWE doing a data science concentration? I’d love to ask how the data science courses may help with what you do in your internships and projects :)
+User_da8a35: does anyone work as a hiring manager? I’d like to ask a few questions please :)
+
+--- Conversation 25 (2025-09-21) ---
+User_1be83c: Are the telegram chats if deleted once gone forever? Has anyone ever tried extracting them back? Urgent helpp please
+
+--- Conversation 26 (2025-09-27) ---
+User_631ade: FLEXIBLE WORK OPPORTUNITY 
+
+AI-RELATED 🤖 ⬇️
+
+• Create prompts for the scenarios for AI Agents (specifically voice bots). Basically, prompts for the scenarios of the conversation and how the bot should respond to different inquires, etc.
+• This is for the company where I worked for the past 2,5~ years.  evecalls.com
+• Flexible, perfect for when you are a uni student and need a side hustle.
+• Perfect experience for a student, will look good on your resume once you will apply for companies in US for AI Engineering roles 
+
+DM me💌
+
+--- Conversation 27 (2025-09-30) ---
+User_bcbd83: Any mobile robotics people? I have a question regarding some different power architectures 🥹
+
+--- Conversation 28 (2025-10-31) ---
+User_b48221: Hey. If you've got a non-gmail [company] mail lying around you can get a free month of Claude Pro here: https://claude.com/offers/oct-2025-free-month
+
+Usable until tonight SF time
+
+--- Conversation 29 (2025-11-05) ---
+User_e150d3: hey everyone, im making this document with resources to “keep up with AI” / “get AI knowledge from”. 
+
+Do you have any go to places, resources or must reads for AI?
+
+It could be YouTube videos, newsletters, academic papers, Twitter accounts, etc.
+User_af01b7: What kind of AI btw and who’s the audience
+User_e150d3: - Super broad audience - tech people but also more business-y
+- Kind of AI: mostly applied generative AI - foundation model based AI, LLMS, multimodal systems, agentic systems, orchestration, evaluation etc
+User_7facf1: The Economist and Politico under the AI tag/topic would help with the business-y audience, I have heard good things but haven't personally watched the youtube channel AI Explained (https://www.youtube.com/@aiexplained-official/videos) for keeping up to date with technical papers, TwoMinutePapers (https://www.youtube.com/@TwoMinutePapers/videos) regularly covers AI advancements as well. For regulation/news you could recommend Ground News with the AI tag/search to find a variety of sources on usually non-technical AI related news stories.
+User_7facf1: Also Medium and Substack
+
+--- Conversation 30 (2025-11-06) ---
+User_af01b7: i like techpresso newsletter bc on top of the ai news headlines it usually also links to trending research papers or frameworks
+
+tldr ai is also nice (source quality is usually better than techpresso)
+
+for podcasts, i kind of like bloomberg tech. maybe it's an attention span issue but i feel like i can never listen to that more than once a week bc the information gets very circular 
+
+i'm just getting into X and trying to curate my feed to be more ai-research-centered, so would appreciate any recommendations on that end 🙏
+
+--- Conversation 31 (2025-11-06) ---
+User_e150d3: Thank you both!!
+User_0eec43: Hi does anyone want leetcode yearly premium?? I accidentally didn't cancel my subscription. It's 180 but willing to sell for 150
+
+--- Conversation 32 (2025-11-16) ---
+User_11d9d9: Hey everyone!
+
+I wanted to share something I’ve been building for the past few weeks. I just launched Mathify.dev — a tool that turns math and physics ideas into clean, Manim-style animations from a single prompt.
+
+No scripts, no setup, no GPU issues.
+Just describe an idea → get an animation → tweak it → iterate again.
+
+If you like what Mathify is aiming for, it would mean a lot if you could support the launch on Product Hunt with an upvote. It helps more people discover it:
+
+https://www.producthunt.com/products/mathify-4?launch=mathify-4 (https://www.producthunt.com/products/mathify-4?launch=mathify-4)
+
+Thanks a lot!
+
+--- Conversation 33 (2025-11-19) ---
+User_afbf75: Has anyone done an interview with Notion recently? Specifically the one that involved a 1-hour react challenge
+
+--- Conversation 34 (2026-01-30) ---
+User_ae375b: Anybody interested in sharing a NeetCode.io account? I got a $100 discount so It's $197 for lifetime access.
+
+Edit: We are already 2 now looking for more people to make it cheaper
+
+--- Conversation 35 (2026-01-30) ---
+User_bc9342: hello everyone 👋
+
+I built a browser extension called Arbor 🌳 and wanted to share it here with you to get early insights and feedback.
+
+The problem it’s trying to solve is something I kept running into mid-chat: you’re deep into a conversation, you suddenly think of an important side question, and you hesitate.
+
+• Do you ask it now and flood the chat with side topics?
+• Or ignore it and risk losing a valuable direction entirely?
+
+Arbor helps you organize LLM conversations and the relationships between them as a visual mind map. Instead of one long, messy chat or a bunch of disconnected conversations, each chat becomes a node, and follow-up questions branch off from it. You can literally see how ideas connect and how your thinking evolves over time. 
+
+If you use chatbots regularly, I’d love for you to try it and tell me what you think. It's currently working in ChatGPT, Claude, Gemini and Perplexity chat interfaces
+
+👉 Extension link
+https://chromewebstore.google.com/detail/arbor-chat-tree-navigator/dkkjcehlajiahkjabnjoklnahblnlndi
+
+Any feedback (confusing, broken, or cool) is very welcome 🙂

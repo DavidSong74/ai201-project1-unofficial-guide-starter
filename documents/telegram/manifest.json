@@ -1,0 +1,176 @@
+[
+  {
+    "topic": "Misc / Untagged",
+    "file": "documents/telegram/misc-untagged.txt",
+    "messages": 25072,
+    "conversations": 4040
+  },
+  {
+    "topic": "CS",
+    "file": "documents/telegram/cs.txt",
+    "messages": 2621,
+    "conversations": 744
+  },
+  {
+    "topic": "Opportunities (jobs, intern, scholarships, etc)",
+    "file": "documents/telegram/opportunities-jobs-intern-scholarships-etc.txt",
+    "messages": 1774,
+    "conversations": 1006
+  },
+  {
+    "topic": "Minerva Bureaucracy",
+    "file": "documents/telegram/minerva-bureaucracy.txt",
+    "messages": 1480,
+    "conversations": 421
+  },
+  {
+    "topic": "Visas",
+    "file": "documents/telegram/visas.txt",
+    "messages": 1361,
+    "conversations": 492
+  },
+  {
+    "topic": "Travel",
+    "file": "documents/telegram/travel.txt",
+    "messages": 1336,
+    "conversations": 509
+  },
+  {
+    "topic": "SS",
+    "file": "documents/telegram/ss.txt",
+    "messages": 1075,
+    "conversations": 415
+  },
+  {
+    "topic": "Classes exchange",
+    "file": "documents/telegram/classes-exchange.txt",
+    "messages": 1007,
+    "conversations": 288
+  },
+  {
+    "topic": "AH",
+    "file": "documents/telegram/ah.txt",
+    "messages": 1001,
+    "conversations": 328
+  },
+  {
+    "topic": "NS",
+    "file": "documents/telegram/ns.txt",
+    "messages": 914,
+    "conversations": 321
+  },
+  {
+    "topic": "General",
+    "file": "documents/telegram/general.txt",
+    "messages": 856,
+    "conversations": 84
+  },
+  {
+    "topic": "Controversial discussions",
+    "file": "documents/telegram/controversial-discussions.txt",
+    "messages": 651,
+    "conversations": 38
+  },
+  {
+    "topic": "Prof reviews",
+    "file": "documents/telegram/prof-reviews.txt",
+    "messages": 594,
+    "conversations": 176
+  },
+  {
+    "topic": "Classes",
+    "file": "documents/telegram/classes.txt",
+    "messages": 518,
+    "conversations": 152
+  },
+  {
+    "topic": "Business",
+    "file": "documents/telegram/business.txt",
+    "messages": 463,
+    "conversations": 244
+  },
+  {
+    "topic": "Interns corner",
+    "file": "documents/telegram/interns-corner.txt",
+    "messages": 401,
+    "conversations": 164
+  },
+  {
+    "topic": "ASM",
+    "file": "documents/telegram/asm.txt",
+    "messages": 326,
+    "conversations": 110
+  },
+  {
+    "topic": "Healthcare",
+    "file": "documents/telegram/healthcare.txt",
+    "messages": 319,
+    "conversations": 164
+  },
+  {
+    "topic": "Cool Stuff & Articles",
+    "file": "documents/telegram/cool-stuff-articles.txt",
+    "messages": 273,
+    "conversations": 171
+  },
+  {
+    "topic": "Things you regret not doing in your Minerva Journey",
+    "file": "documents/telegram/things-you-regret-not-doing-in-your-minerva-journey.txt",
+    "messages": 214,
+    "conversations": 63
+  },
+  {
+    "topic": "SF things",
+    "file": "documents/telegram/sf-things.txt",
+    "messages": 115,
+    "conversations": 59
+  },
+  {
+    "topic": "Minerva Memes",
+    "file": "documents/telegram/minerva-memes.txt",
+    "messages": 81,
+    "conversations": 42
+  },
+  {
+    "topic": "After Minerva",
+    "file": "documents/telegram/after-minerva.txt",
+    "messages": 71,
+    "conversations": 39
+  },
+  {
+    "topic": "Tutorials",
+    "file": "documents/telegram/tutorials.txt",
+    "messages": 57,
+    "conversations": 28
+  },
+  {
+    "topic": "Minerva Quotes",
+    "file": "documents/telegram/minerva-quotes.txt",
+    "messages": 52,
+    "conversations": 25
+  },
+  {
+    "topic": "Software/Engineering People",
+    "file": "documents/telegram/softwareengineering-people.txt",
+    "messages": 50,
+    "conversations": 35
+  },
+  {
+    "topic": "Spring semester plans",
+    "file": "documents/telegram/spring-semester-plans.txt",
+    "messages": 45,
+    "conversations": 22
+  },
+  {
+    "topic": "fave class",
+    "file": "documents/telegram/fave-class.txt",
+    "messages": 20,
+    "conversations": 8
+  },
+  {
+    "topic": "Fashionista Friends",
+    "file": "documents/telegram/fashionista-friends.txt",
+    "messages": 17,
+    "conversations": 4
+  }
+]

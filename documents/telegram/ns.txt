@@ -1,0 +1,1881 @@
+# Topic: NS
+
+--- Conversation 1 (2022-11-08) ---
+User_97086c: Heyy, does anyone else have the following issue: I am looking at the course offering for the spring semester, but the only 3 NS courses I want to take next semester are overlapping by day and time and they only have one option. I am planning to email registrar about this but I wanted to know if someone else also encounters this. (in particular, I am talking about the following courses 
+- NS110L Physics of Life T Th 20:30-22:00 or NS110U Physics of the Universe T Th 20:30-22:00 
+NS156 Monitoring and modeling earth's systems T Th 20:30-22:00
+NS164 Solutions from and for life T Th 20:30-22:00
+
+--- Conversation 2 (2022-11-08) ---
+User_45b134: I would also love to email about 164 to see if they can offer it earlier. Feel free to message me or cc me on the email!
+User_b2fa71: I emailed about NS156 and NS164 since those are the only two classes I need to graduate!
+User_b2fa71: Would love if you would email also and CC so that they know it's not just me since they said it's a "highly unlikely pairing" lol
+User_97086c: Sounds good! email sent 🙂
+
+--- Conversation 3 (2022-11-10) ---
+User_26f5dd: Hey did anyone had Physics with Richard? Is he like the CS courses? what do u think about him?
+User_b5e389: + same question
+User_131a97: I haven’t had him for CS courses but he’s definitely more knowledgable and articulate in Physics. He’s strict about assignments in a fair way and he does his best in class to make the class evenly progress.
+User_0d1aa3: ++ havent had him for CS, but I think he is fine in physics. he is very picky/strict with formatting and professionalism (you need to make sure your latex is on fleek), but content-wise he knows what he's doing. He is also relatively receptible to feedback about the classes and his teaching style
+User_b5e389: So the Physics classes have been useful right? Cuz I've heard that sometimes time is wasted on random discussions
+User_0554ed: [name]
+User_0554ed: your time has come
+User_3edffc: If you're talking about NS110U then the usefulness only goes up to what can be covered in the course. Since the course itself is pretty much high school physics where the maximum you'll kinda do is reformulate stuff in terms of calculus and when it comes to covering the syllabus content, the class is good but if it's mostly stuff that you already know than you won't really be getting new stuff from it
+User_3edffc: If you're taking it as an elective I recommend going over the syllabus (https://course-resources.minerva.edu/uploaded_files/mu/00259846-1485/ns110u-syllabus.pdf) to see what gets covered. Also, if you want to do some of the more in-depth physics courses then this is a prerequisite so you won't really have the opportunity to skip it
+User_05c9eb: Also, this boi is our resident physicist who can solve any problem you have so high school stuff you already know for him might not be the same for you. Read over the syllabus.
+User_0d1aa3: i found NS110U helpful bc my high school physics were not super calculus heavy, but like Saad said it depends from person to person. i dont remember us wasting time on random discussions, but it has also been a while since i took it and it might have changed
+
+--- Conversation 4 (2022-11-11) ---
+User_e28725: Would NS110U be much harder than NS110L for Someone with very limited physics experience in general? I want to take it over NS110L because it seems like something new for me, but I also don’t want to risk getting a very bad grade
+User_8e115b: I thought I knew my physics and integrals well but towards the end of this class i was having a hard time. I would say its less about your existing physics knowledge and more math understanding heavy.
+
+--- Conversation 5 (2022-11-11) ---
+User_f0e085: How intense is NS164 compared to NS144 and NS154 (class prep, assignments,..etc)?
+User_ee710e: And what abt assignments and preparing for class? Is it about the same time or is one "easier" than the other?
+User_bf0f45: Can't speak for 110U, but 110L was a lot of work coming in without any physics background. The biweekly problem sets were long and quite consuming, as was the class prep: usually a chapter of the textbook and a bunch of problems. But if you've already taken high school physics, I'm sure it would be much easier, all depends on your level going in.
+User_b0fcc6: There's not much of a difference. In L you learn thermodynamics and some biology-relevant stuff, while U has relativity and stuff. Both are hard and both will be new to you if you have very limited physics knowledge.
+
+--- Conversation 6 (2022-11-12) ---
+User_3edffc: For people that have taken NS162, how good of a course is it in terms of content covered + real world applicability?
+User_df9f1b: How’s NS156 in terms of depth and overall structure, grading, Prof., etc? Also if someone can share more details about the assignments that’d be amazing.
+User_0d1aa3: i liked the course, but i also had Prof Howe who is really cool so idk how it will be with a different prof (i dont think Howe is teaching this year). to be quite honest i dont remember too much from the course except ✨entropy✨ and there are also some sessions on information theory (but more from a bio/chem perspective than what we have been doing in our tutorial), but i could send you the syllabus/assignment descriptions if you're interested:)
+User_3edffc: That would be really helpful :) 
+Thank you!
+User_3edffc: I love the fact that he made an entire blog for the course
+User_0d1aa3: yesssss, although beware of typos and misplaced negative signs hahah.. he also made art out of the syllabus for the first class - it was great
+User_872e7f: It is basically an intro course to atmospheric chemistry. Prof Zoogman is amazing and really passionate about it. The course itself covers a lot of material but focuses more on breath. It is not chemistry heavy and I don’t think it even has chemistry as a prerequisite. However the assignments allow us to go in depth on topics of our choice.
+
+--- Conversation 7 (2022-11-12) ---
+User_cc5822: Does anyone know if Gale will teach NS111?
+User_df9f1b: Nope she’s not teaching it
+User_cc5822: 100%?
+User_cc5822: sorry I have trust issues after 2 semesters
+
+--- Conversation 8 (2022-11-12) ---
+User_ee710e: Yes, Donnelly confirmed it's gonna be her and not Gale
+User_ce8131: who’s teaching NS110 next sem?
+User_f0e085: Terrana teaches L
+User_b07213: anyone doing double major in ns and ss has time to answer a few of my questions?
+
+--- Conversation 9 (2022-11-13) ---
+User_c43aff: +++
+User_4035d1: I feel like ns164 has a lot of prep and assignments can be complicated but overall it seems more intuitive and straightforward than ns154. I followed things more easily and less background knowledge was needed (at least for me)
+
+--- Conversation 10 (2022-11-13) ---
+User_b34e29: Is the molecular immunology the most medicine like tutorial offered
+User_d581fd: Yes, the other proposed one (evolutionary medicine) is not running
+
+--- Conversation 11 (2022-11-14) ---
+User_b2fa71: Has anyone ever had luck in getting a pre-requisite waived for a concentration course?
+User_b2fa71: Also, who teaches NS162?
+User_bf0f45: Vicki Chandler said Richard’s teaching it
+User_b2fa71: Thank you!
+
+--- Conversation 12 (2022-11-14) ---
+User_ee710e: And who teaches 166?
+User_c177ea: im assuming gale?
+User_b2fa71: yep :)
+User_ee710e: Lowkey don't wanna take it now 💀
+User_c177ea: That’s why I left NS
+User_c177ea: Not me telling Stan that to her face this week and we just sat there for a second going: “oh” “oh” “well nothing against her as a person, she’s just an awful prof” “oh”
+
+--- Conversation 13 (2022-11-17) ---
+User_3e2b50: Will taking NS110U along with CS110 be a huge mistake?
+User_51212c: death … speaking as a CS110-er
+
+--- Conversation 14 (2022-11-17) ---
+User_131a97: It’s definitely doable. Ideally don’t take them on the same day. Both have reasonable pcw if you use the time to prep. Assignment wise, NS110u has constant small problem sets, while CS110 has coding projects every few weeks. Taking the combination really prepares you for handling heavy workload in the remaning semesters.
+
+--- Conversation 15 (2022-11-19) ---
+User_fae57e: How does NS113 (chemistry one) compare to AP chem for those who've taken both? The course syllabus seems really similar, not sure how much depth NS113 goes
+User_39bf9f: Reviews of NS125 please ❤️
+User_b2fa71: Not a ton more depth but some fun activities and Gale has some interesting rocks context to bring in, it's not a super tough class but your relationship with Gale also factors into that :)
+User_f0e085: Agree 
+And ++ on the relationship with Gale. It really determines whether it'll be an ok class or hate it for the rest of your life.
+User_4035d1: I'm taking it now and I like it. It covers a broad range of topics so don't expect too many deep insights but it's very useful to think about research types and designs. It includes some very light statistics stuff in r and isn't a hard class at all imo. The last few weeks is student facilitation where pairs of students give class on a topic they're interested in so that's fun. Bc of that it seems a bit like an intro to tutorials haha. But yeah I think it's a useful class and not hard but isn't the most exciting or life changing experience.
+
+--- Conversation 16 (2022-12-02) ---
+User_4065cc: Hey! 
+Does anyone have cool pictures of NS-LBA stuff? Please do send them my way, the NS college could use some highlights for a prospective M26 NS majors presentation! 🤝
+
+--- Conversation 17 (2022-12-20) ---
+User_d3d81c: Does Minerva have a journal club?
+User_bf0f45: No! But [handle]  and I may be starting one in Hyderabad 👀
+
+--- Conversation 18 (2022-12-20) ---
+User_554123: woot!! I love journalling 😍📖
+
+--- Conversation 19 (2022-12-22) ---
+User_bf0f45: who else is in NS162? word on the street is that there are 4 of us 🤡
+User_3edffc: Bro, I want to be there but they gave me another class
+User_bf0f45: yeah this lottery is mega fucked
+User_3edffc: I swear
+User_3edffc: Minerva's playing limbo with our expectations and somehow getting lower every time
+User_bf0f45: on that same note, did anyone get NS152 lol? Finding it hard to believe that's a full section...
+User_f0e085: It might be that they changed the section time and now it's conflicting with one of your classes. I heard it happened with some people. And I agree, I don't think any NS concentration class section would be full.
+User_bf0f45: Oh that's good thinking
+
+--- Conversation 20 (2022-12-22) ---
+User_3edffc: 🤡🤡🤡
+User_cd92fd: did anyone get NS156? or was it also canceled?
+User_bf0f45: bruh so why am I enrolled in it
+User_73b3dd: Any insights on Prof. Kern?
+User_4065cc: she's SO LOVELY to work with but have not had her as a prof. Very positive, good vibes, definetely not passive aggressive like some of the NS profs. ☺️
+User_73b3dd: I was offered her class in lieu of a Prof. Gale class
+User_4065cc: no way! what class is it? what did you do to get lucky like that 😄
+User_73b3dd: I referenced a clinical trial that I'm running in January and I willingly proposed an evening class to take in lieu of an 11 am class so I wouldn't have to miss as many ;)
+User_94cad8: I also wanted to take it, what the fuck?!
+User_bf0f45: seems like there weren't enough of us :( but they'll offer it next year hopefully!
+User_94cad8: How will I graduate now? 😅 Who were the people who wanted to take NS162?
+
+When I took it last year (and dropped out in the middle of it) they were also only 4 people left 😅 it did work!!
+User_94cad8: Maybe we can convince them? It's part of my special concentration and I was really counting on it
+User_bf0f45: Yeah I'm also disappointed, I really wanted it. Rn I have none of my concentration courses, did you at least get NS152 Pia?
+User_bf0f45: yes would be down to email skern
+User_94cad8: Also why don't they tell us? I thought the lottery just got messed up and I already started summer prep and all
+User_94cad8: Yes I did. Find it also hard to believe that it is a full section. Weird you didn't get it
+User_bf0f45: ikr it's part of my concentration... what time is it at? wondering if there's a conflict
+User_94cad8: I think it's 8:30pm MW
+User_bf0f45: yeah so no conflict... okay weird
+User_bf0f45: thank you
+
+--- Conversation 21 (2022-12-23) ---
+User_b2fa71: Also cancelled, as was NS166
+User_df9f1b: I was NS156
+User_df9f1b: They are making it so hard for NS people
+User_df9f1b: What’s the minimum no. If students needed for a class
+User_3edffc: Why are they even offering NS if all the classes just get cancelled
+User_df9f1b: Ikr
+User_b2fa71: This is the only year they've been cancelled and it's mostly because there's not many NS M24s, who are the ones that are scheduled to take concentration courses
+User_b2fa71: (especially in earth system's concentrations)
+User_b2fa71: i think 5
+User_df9f1b: Okay thanks [handle]
+
+--- Conversation 22 (2022-12-23) ---
+User_c177ea: [name] [handle]
+User_4bde84: Reinstate NS162
+
+I'm contacting academic team if NS162 could still be offered next sem. NS162 is such an integral tool for systems analysis, so I'd love to take it as a grad. senior.
+
+Could you thumbs up if you would like to take it if it was offered?
+User_df9f1b: Also if there is interest to reinstate NS156 please react. It can be used for sustainability minor as well :)
+User_df9f1b: Or NS166
+
+--- Conversation 23 (2022-12-26) ---
+User_5ecaf0: Does anyone know who usually teaches NS156 and NS166?
+User_df9f1b: NS156 is taught by Zoogman I think
+User_a0e710: NS166 is taught by Gale
+User_5ecaf0: And NS146 as well?
+User_b2fa71: Yep!
+User_5ecaf0: Ah ok thank you:)
+
+--- Conversation 24 (2022-12-27) ---
+User_df9f1b: Can someone explain how are the assignments for Physics of life/universe course? Do we get the opportunity to do transfers?
+User_f0e085: NS110L assignments are biweekly homework + LBA + Final project in a group with a classmate. They're very time and effort consuming so prepare ahead and I'd recommend not taking it with other heavy classes. I think the class doesn't go beyond basic physics concepts but it really depends if you've taken physics in high school or not. Personally I found the course itself not hard (but like I said it really depends if physics is new to you or not and how much you covered before Minerva) but the assignments workload was insane. Terrana is very detail-oriented so you need to explain everything you do when you solve homework problems for example to get a good grade. 
+
+For transfer, the final specifically gives you a big chance to transfer HCs. Homework asks you at the end to discuss how you applied a specific HC mentioned in the question so I think it's not counted as transferred.
+User_a0e710: 110L: assignments are either problem sets or more applied/medical/LBA, but both have freedom to apply HCs for transfer😌 definitely the LBA which you have a lot of flexibility with topic choice and discussion
+User_df9f1b: Thank you so much guys! 
+
+I’d appreciate one more opinion. 
+I have taken intensive Physics courses in high school and I think I know most of the concepts of both physics of life and universe. 
+
+This was also the case with NS113. I knew all the chemistry concepts we learned in class and felt like I didn’t really learn anything new. Also Gale made it a Terrible experience for me. I don’t want to feel the same in this class as well.
+
+I’m a CS and NS double major and I want to learn new stuff. Do you guys recommend pushing physics courses for later years given I want to learn new things so I think a concentration course or a CS course would be better for me. 
+
+So, in short is it a good idea to not take the physics course rn and push it to a later year given it’s not a pre requisite for any concentration course I want to do in my NS major?
+User_f0e085: I'm an NS/CS double too. NS classes are hard to get (especially concentration classes that are not in the cells and organisms track) because they're only offered once per year in most cases and this year they even cancelled some concentration classes so they aren't offered at all this year. That's bec there're really few people at Minerva doing NS. Personally I got rid of all NS core classes first. I'm an M24 and finishing my last concentration class this spring. 
+CS classes are offered mostly in both semesters so it's really easy to get them compared to NS. 
+
+I believe it depends on what you want to do with the NS/CS double. I'm more into NS and I do genomics/bioinformatics internships so finishing NS first was my priority. But I'd suggest considering which classes are offered at which time besides your priority for internships/personal interest when making that decision :)
+User_df9f1b: Guys we need one more person to ask Minerva for NS156. We can do this!
+
+--- Conversation 25 (2022-12-27) ---
+User_df9f1b: Any reviews for NS164? Course load, Prof. and difficulty level?
+
+--- Conversation 26 (2022-12-28) ---
+User_94cad8: Prof Stan is the Prof. She is nice. Somehow classes were a bit boring on NS154 this semester. Hoping it's better in NS164. But I got nothing to complain about her
+User_618dde: Prof Stan is indeed the Prof. She's super nice, constructive, and really know how to give pointed feedback!
+User_f9dd20: There isn’t a second section for NS113 next semester right？：（
+User_4163f0: there is! I just dropped it
+
+--- Conversation 27 (2022-12-28) ---
+User_df9f1b: Anyone knows what’s the best way to convince Gale for a grade change without hurting her ego?
+User_73b3dd: Ask VC first
+User_986c05: Does anyone recommend taking NS111 as a non NS major? Who teaches it ?
+User_751cc5: YES 🥺🥺- Prof Donnelly is the professor (not Gale) and she is generally pretty helpful. Some found the class boring but if you are genuinely interested in the topic, it’ll be enjoyable (at least I found it quite fun)
+User_0d1aa3: Just go in with solid arguments (and i mean completely watertight)
+
+--- Conversation 28 (2022-12-29) ---
+User_df9f1b: Do you guys recommend taking NS164 in second year?
+User_df9f1b: I’ve already taken NS112 and NS113
+User_f0e085: I think it's better if you've taken ns154 already. But I also heard there's not much overlap
+
+--- Conversation 29 (2022-12-29) ---
+User_6810b9: NS164 is a lot easier than NS154, but the order shouldn’t matter I think.
+
+--- Conversation 30 (2023-01-09) ---
+User_b2fa71: NS125 (https://t.me/+G-o06maQGSAyYjQx) and NS164 (https://t.me/+aPor7PomU8g3MDVh) group chats for this semester :)
+
+--- Conversation 31 (2023-01-09) ---
+User_b5e389: Group chat for NS 110 U
+https://t.me/+GIC4pb2x25g5MmNk
+User_97915e: Anyone merciful enough to share NS110U notes 👉👈
+User_b6cf6b: Anyone have NS111 notes please, I’m in my final semester and don’t want to spend too much time on this class
+User_df9f1b: [handle]
+User_ee710e: What makes you think I made notes? Lol
+
+Use the upperclassmen notes, they are pretty detailed and good. I survived with ok grades and never did a reading
+User_df9f1b: I meant pass on the notes
+User_df9f1b: Do you really think I think you make notes lol
+User_ee710e: #selfawareness
+User_d3d81c: Can anyone share NS113 chat link?
+
+--- Conversation 32 (2023-01-10) ---
+User_8d12c7: Also anyone with NS113 notes.. ?
+User_e6d144: Is NS166 running this semester? If so, what time?
+
+--- Conversation 33 (2023-01-10) ---
+User_925e67: Any tips for NS112? There are too many readings
+User_b2fa71: It's always helpful to go to office hours and ask for advice on navigating that since it can vary by prof, but also really following the study guide is helpful
+
+--- Conversation 34 (2023-01-12) ---
+User_e6d144: Taking this as a no…?
+User_bf0f45: Yeah i don’t know anyone taking that class and couldn’t see it in my add-drop, don’t think it’s running :(
+User_b2fa71: It’s not :(
+
+--- Conversation 35 (2023-01-12) ---
+User_c9c680: hellooo! is there any chat for NS110L?
+User_751cc5: I don't believe so!
+User_3d9c3f: Does anyone have NS164 notes :)?
+
+--- Conversation 36 (2023-01-13) ---
+User_88110f: yep :) https://malias-notes.notion.site/NS164-1fdc55057d5a4562885e9c7005384fea
+
+--- Conversation 37 (2023-01-13) ---
+User_b2fa71: Research Info session happening now! 
+Link: https://zoom.us/j/92611510747
+Password: 618190
+
+--- Conversation 38 (2023-01-17) ---
+User_95d926: http://adv-r.had.co.nz/
+User_95d926: ^really good guide to r internals
+User_95d926: helping me understand why r never does what i want
+
+--- Conversation 39 (2023-01-18) ---
+User_ae646f: Hi, guys! There is a guy from Class of 2027 who is interested in biology, and asking about NS major. Would someone be able to answer his questions or jump on a quick call to help?
+
+--- Conversation 40 (2023-01-18) ---
+User_ae646f: Guys, Vicky is not an NS girl, so if you are NS girl/boy/human
+Please reach out, the guy is so amazing & needs the help of awesome minervans 🥳🙏
+User_f0e085: If you still need one, I'd be happy to chat :)
+User_ae646f: Thank you so much!
+
+--- Conversation 41 (2023-01-22) ---
+User_925e67: Is there a group chat for NS112?
+
+--- Conversation 42 (2023-01-30) ---
+User_967916: Calling all environment/tech/entrepreneurship lovers! 
+ This Thursday, 2.2 11 AM Hyderabad time. 
+
+ 🍃♻️🏞️💚🌱 
+Don't miss out on the opportunity to hear from Edo Perry, a ClimateTech entrepreneur and CEO of Elements - the climate benefit.  
+Edo has a wealth of experience in the environmental field, including working at Apple and serving as an officer for 6 years in the International Cooperation Unit of the Israel Intelligence Division.  
+🍃♻️🏞️💚🌱 
+ 
+He will share his insights on the climate crisis and the latest climate-tech innovations.  
+ 
+Join us for an engaging Zoom meeting and gain valuable insights from a seasoned expert in the field. RSVP now to get a reminder and a zoom link! 
+ 
+https://forms.gle/iwSCv8vHaZHkvsAm9
+
+--- Conversation 43 (2023-02-01) ---
+User_967916: Reminder for all environment/tech/entrepreneurship lovers!
+  
+TOMMOROW, 2.2 11 AM Hyderabad time / OR TODAY 9:30 PM PST 
+ 
+ 🍃♻️🏞️💚🌱  
+ 
+Don't miss out on the opportunity to hear from Edo Perry, a ClimateTech entrepreneur and CEO of Elements - the climate benefit.   
+Edo has a wealth of experience in the environmental field, including working at Apple and serving as an officer for 6 years in the International Cooperation Unit of the Israel Intelligence Division. 
+ 
+He will share his personal entrepreneurship path,
+Edo will also share his insights on the climate crisis and the latest climate-tech innovations.  
+  
+Join us tomorrow here for an engaging Zoom meeting and gain valuable insights:
+ 
+https://zoom.us/j/92009046366?pwd=UjZoM0ZrWDM2eTAybEZkU3c0MytwUT09
+User_967916: On a personal note- I met Edo on my visit back home because he is well known in the climatech scene in Israel and I found his story very inspiring. I felt like there’s not enough role models that we talk to in Minerva and wanted to bring some more inspiring voices. If it will go well- I’ll ask more inspirational figures to engage with us :)
+
+--- Conversation 44 (2023-02-02) ---
+User_967916: This is happening in an hour, I think it will last for like 30 min +- so pls join 😍
+User_967916: Starting now :)
+
+--- Conversation 45 (2023-02-05) ---
+User_d3d81c: What degree do NS majors get? Is it B.S?
+User_0554ed: BS
+User_d3d81c: Thank you!
+
+--- Conversation 46 (2023-02-06) ---
+User_f644b9: is 20 words over word count bad if i have gale?
+User_618dde: yes
+User_f644b9: well fuck
+User_f644b9: 18 left
+User_792c42: you've got this <3
+
+--- Conversation 47 (2023-02-15) ---
+User_792c42: "..some [professors] aren't looking for anything logical, like arguments. They can't be bought, bullied, reasoned, or negotiated with. Some [professors] just want to watch the [grades] burn" 
+- Sir Michael Caine on the dar k night he got his NS grades.
+
+--- Conversation 48 (2023-02-15) ---
+User_f644b9: ask for explanation on the grade and then say, oh i thought it was okay when i did it this way, the rubric says the same (show the rubric of the grade you want), could you explain why it does not follow the rubric?
+User_df9f1b: Become a sophomore and you’ll realise LOs are a different ball game than HCs. LO descriptions are vary short and rubric is very vague. (At least for some NS courses)
+
+--- Conversation 49 (2023-02-15) ---
+User_c43aff: does zoogman count in-text citations in the word count?
+User_51212c: yes
+
+--- Conversation 50 (2023-02-28) ---
+User_4065cc: Hello science enthusiasts,
+
+If you have participated in any research and would love to:
+1) practice your science communication 🗣
+2) present your learnings and findings to members of Minerva community🌟
+3) build a safe supportive space for science curiosity 🤝
+
+Please reach out to me to sign up for a talk or discuss! We're planning on hosting the second iteration of the Research Symposium and we would love to see both new and familiar faces 💓
+User_94cad8: 2nd? I believe there were already 2? 🙃
+
+When are you planning to host it?
+User_4065cc: Second in-person Research Symposium in Hyderabad :)). The dates are yet to be finalized but most likely the week after the break
+
+--- Conversation 51 (2023-03-13) ---
+User_b6fd7d: Hello! Is there anyone who is concentrating in Problem Solving in Complex Systems? Couldn’t find information on advising page so I’d like to ask a few questions about the overall experience and what you actually learned from that concentration!
+
+Especially how do you describe what you’re learning to the non-Minerva audience? (e.g. internship/scholarship application)
+
+--- Conversation 52 (2023-03-14) ---
+User_b5e389: Hey who usually teaches NS162?
+User_bf0f45: This year it was meant to be Richard
+User_94cad8: It was Howe the year before
+User_b5e389: Oh why not Howe anymore?😢
+User_94cad8: No idea
+User_0d1aa3: he left minerva (idk if temporarily or for good)
+User_b5e389: Oh no 😢😢😢 then Minerva needs more Physics Profs please (like Howe)
+User_b5e389: Are there any Physics profs other than Richard and Reiberio?
+User_0d1aa3: Ribeiro doesnt teach physics, only CS courses, but terrana teaches NS110L and afaik Richard basically teaches all other physics courses
+User_94cad8: NS152 is physics but taught by Zoogman and Moy
+User_0d1aa3: i wouldnt say NS152 is physics tho, which is why i left that out
+User_b5e389: Thank you guys
+User_4065cc: Is there considerable interest for the NS courses NS166, NS156? We can ask them to offer it 🥲
+User_bf0f45: There had better be interest in NS156 I need it to graduate 🤡
+User_b2fa71: Are they not offering it at all next year?
+User_94cad8: I think the course offerings are for Fall only so far? And I heard them say that all NS courses will be offered next year. So I guess those not listed in the spreadsheet will be in Spring? Should we send an email to confirm this?
+User_94cad8: I would also prefer NS156 in Fall tbh
+User_4065cc: yes, but taking all 3 concentrations at the same time seems a bit rough 🙁
+User_4065cc: I think there's at least 5 people interested, can we ask for it?
+
+--- Conversation 53 (2023-03-25) ---
+User_293f28: is ns113 taught by gale?
+User_293f28: </3
+User_925e67: Who's teaching NS144?
+User_b5d9b9: Wilkins
+User_398e9a: 🐐
+
+--- Conversation 54 (2023-03-25) ---
+User_d3d81c: Who's teaching NS154?
+User_bf0f45: Usually Stan
+
+--- Conversation 55 (2023-03-26) ---
+User_3e2b50: any thoughts on NS142?
+
+--- Conversation 56 (2023-03-27) ---
+User_618dde: Hello what are thoughts on the core courses, which one is the best one to take in seoul/second year? hehe
+User_618dde: to distribute workload
+User_0554ed: not physics hawhawhaw
+User_0554ed: saw too many ns people struggling with it in seoul :))
+User_7facf1: from SS, SS111 has the lightest courseload and from CS, CS111 has the lightest courseload as far as core courses go
+User_618dde: oh i meant ns cores hehe
+User_b07213: i made the mistake of not taking core courses for my concentration in the fall semester of second year, so i will suggest taking those first so that you have an option to take concentration courses in 2nd year as well.
+
+--- Conversation 57 (2023-03-27) ---
+User_ee710e: Yess, also, I took 3 NS cores in 1 semester and it's fun but so much work so also try to get a "fun" class as well. Like if you are taking all NS, and then doing research or sth you might feel like you need a break from ns sometimes so it's nice having other classes I guess
+User_f0e085: I took 2 in the fall (NS110L, NS111) and 2 in the spring (NS112, NS113) along with 1 CS core per each. It was fine. I didn't have much freedom of choice cuz NS courses are usually offered once a year (that might not be the case for you if you have many NS majors in your class).
+It highly depends on your background, but I found NS110L and NS112 the highest workload. I had a strong physics background but NS110L has biweekly homework with a large problem set and Terrana's expectations with the details and justification of your answer are up in the sky (so expect to spend a lot of time on assignment regardless of how much physics you know). NS112 was so much fun with Dosmann but you need to allocate some time for readings to get the most out of this best NS core.
+
+--- Conversation 58 (2023-03-28) ---
+User_bbcb04: Any thoughts on NS146?
+
+--- Conversation 59 (2023-03-30) ---
+User_5ecaf0: Asking this again: thoughts or opinions on NS146? Would be much appreciated <3
+User_b2fa71: Loved it! Great overview of geology + earth systems, accessible without a geology background, gale is so fun in class. Really changes how you see the world. 10/10 would highly recommend!
+User_97086c: Hello, I would appreciate some thoughts on ns144 as I could not find any in the chat ☺️
+User_bf0f45: Loved it, it's the most concrete NS concentration I've taken. Wilkins is a great facilitator and is very knowledgable. The course basically works through an undergraduate genetics textbook, readings aren't ridiculously long and the problem sets weren't too time consuming, I feel like I learned a lot. Would highly recommend it.
+User_e28725: Hey guys, how is NS152 in terms of difficulty and workload (for someone who doesn't have a super strong background in physics, and a medium background in chemistry)?
+User_a86ff6: relatively easy (compared to the other ns1x2 classes), medium amount of work, but sooooooo boring
+User_0d1aa3: no need to know physics, and whether you need to know chemistry or not depends on how much effort you want to put into that trainwreck of a class. The last few classes have been much better and have actually been challenging if you put in the work to understand the material, but the beginning of the course was ridiculously easy and centered around "is this a systematic or a random error?"
+User_0d1aa3: i think the prof realized how much we all hate the course, so hopefully there will be some changes for next year, but rn it has this weird duality of being simultaneously too easy and too difficult - the readings assume a lot of background knowledge and can get kinda long and technical, but at the same time i usually just skim half of the readings and do perfectly fine in class bc the classes are relatively easy
+User_e28725: Thank you! Is it Prof. Zoogman or Prof. Moy that is teaching it right now and any idea who will be teaching it next year?
+User_0d1aa3: Moy rn, but dont know for next year
+User_e28725: I hope her grading is better in this one than in the cornerstones! :D
+User_0d1aa3: not so far lol, but to be fair, i think the grades have been fair considering how i applied LOs/HCs. the problem is just that we have to tag like 9 of them in 1000 words, so we arent really given the opportunity (word count) to have good applications of them
+User_e28725: I see, maybe they will change it with the feedback
+User_c43aff: couldn’t agree more, loved it - would happily take it again 🧬
+User_94cad8: What is the undergraduate genetic book? Would love to take a look at it 😊
+User_bf0f45: you can find it in the syllabus i think :)
+User_94cad8: Ok ok
+User_bbcb04: how different is ns144 from ns112?
+User_a0e710: extremely different :) ns144 definitely builds on a few foundational topics in ns112 but otherwise almost all of the content is different. check out the syllabus!
+User_97086c: Thank you all! ❤️
+
+--- Conversation 60 (2023-04-01) ---
+User_97086c: thoughts on ns154 pleaseee
+User_bf0f45: It was somehow both the most dense and also most superficial NS concentration I’ve taken. You move through two textbooks, one about organic chemistry and one (quite shitty) one on biochemistry. Each lesson is a different biochemical process - DNA replication, protein tagging, photosynthesis etc and you also learn about the chemical reactions and properties of molecules that facilitate the process. You can get by without really understanding the chem, but if you do want to then the workload is a lot. If not, I’d say it’s medium workload. What’s nice is there’s one iterative assignment, most of the work piled on at the end of the semester for me.
+User_f0e085: Assignments are basically one big semester-long project where we do fermentation and study biochem. 
+The class itself I felt was boring and it had a lot of prep, pcw and long (sometimes complex) readings that are not covered well in the class itself. 
+The class pace was super fast...covering all undergrad biochem, cell/molecular bio in 14 weeks so a lot of things I felt I missed. 
+Stan is super nice but I sometimes felt that that Disney queen vibe didn't really suit the class sometimes and she should've digged into the material more instead of sometimes not very useful activities.
+User_97086c: This is extremely useful, thanks lots lots
+
+--- Conversation 61 (2023-04-03) ---
+User_14b9b1: heyy everyone! Does anyone has some good literature about the impact of plastic in nature? Can be either class materials or other sources :)
+Anything about it will help a lot, thanksss🥰
+
+--- Conversation 62 (2023-04-14) ---
+User_26f5dd: this was right :D
+
+--- Conversation 63 (2023-04-18) ---
+User_5a2147: any opinions on doing three NS concentrations in one semester? preferably want to see some of BA :')
+User_bf0f45: Unlikely that you will if you're taking three at once 😓. I took two, NS144 and NS154 and it was manageable but much of my BA experience was the inside of various cafés. Nice for sure, but there's more to see.
+User_5a2147: for reference it would be NS144, NS154 and NS166 so noted [handle] 💛
+
+--- Conversation 64 (2023-04-19) ---
+User_b6fd7d: Any thoughts on NS112 with Prof. Dosmann?
+User_df9f1b: Love love love! Readings will take time and Dosmann is a moderate grader in terms of difficulty. His feedback is amazing! One of the best courses I’ve taken as a NS major.
+User_97086c: agreed!!!
+
+--- Conversation 65 (2023-04-19) ---
+User_751cc5: After my cooperation assignment, I disagree on good feedback and moderate grading… definitely takes a 3 as a 4 sometimes 🥶
+
+--- Conversation 66 (2023-04-22) ---
+User_792c42: Hi any NS112 takers already/ever did the Anki flashcards for terminologies, and doesn't mind sharing the deck? Much appreciated <3
+
+--- Conversation 67 (2023-04-29) ---
+User_d3b4e3: Any thoughts on NS111 with Prof. Kathleen Donnelly?
+User_f0e085: Disclaimer: I'm very biased (I'm the TA). 
+I love Donnelly. She's the sweetest ever and will listen to you and understand and push deadlines to make it easier for students. She's not an easy grader tho but I think she's fair. She's trying to make adjustments to make the course easier to navigate. Sometimes the classes get a little boring tbh. 
+
+For the course itself, I think it's the easiest NS core and least workload. However, that heavily depends on your background.
+
+--- Conversation 68 (2023-04-29) ---
+User_e28725: It definitely is the easiest NS core and the topics covered are an interesting overview of many things earth and life related. The readings can feel a little lengthy sometimes, but Prof. Donnelly makes sure to include very helpful study guides. Overall - would totally recommend for non-NS majors. P.s. if you wait to take it in London TA [handle] might be there in person (worthy consideration) 😉
+
+--- Conversation 69 (2023-05-24) ---
+User_618dde: Helluu, are there any profs in the NS track that discuss philosophy of science? Things like epistemology, positivism, dualistic materialism, the dilemma of othering "nature", etc? If not, in AH?? U.U
+User_8e115b: I think Stein is interested in pedagogy and science of learning. She is in SS
+User_8e115b: But those do sound like philosophy hence AH topics
+User_8e115b: Ah111 goes over those
+User_618dde: awesome awesome
+User_618dde: but i guess partially my question is how are these philosophical discussions integrated in the NS syllabus, if at all? hehe
+User_8e115b: I dont think NS cares about the philosophy of knowledge. Scientists use the scientific method and thats the philosophy
+User_131a97: Yes there was a Philosophy of Science tutorial
+User_618dde: Disappointed but not surprised hahaha
+User_8e115b: Its standard to seperate those two
+User_618dde: I guess in the Global North universities, but I had hope that Minerva would put that interdisciplinary thinking and real-life applicability to teach some of the issues in science. Like for example for the earth science track, the problem of "nature" and how we study it is super relevant as it has to do with stewardship and nature-culture
+User_618dde: Is it still running?
+User_751cc5: I mean that is kinda why the school requires classes outside of major-- to get that interdisciplinary knowledge
+User_b0fcc6: AH111 and AH154 have classes that discuss the relationship with nature.
+
+--- Conversation 70 (2023-05-24) ---
+User_8e08cb: The research methods course has a section on worldviews that shape research including some of these concepts. you can check the syllabus for more info :) it’s taught by Prof Zoogman
+
+--- Conversation 71 (2023-05-29) ---
+User_dc5617: hello is there anyone here who did the mathematics concentration in cs along with ns? :,)) would love to ask a few questionsss
+
+--- Conversation 72 (2023-05-30) ---
+User_94cad8: [name] I think?
+
+--- Conversation 73 (2023-08-02) ---
+User_df9f1b: What are some NS concentrations where we can use complex system concepts from first year?
+
+--- Conversation 74 (2023-08-02) ---
+User_b2fa71: NS166 for sure
+User_df9f1b: I don’t want to decrease my grade further 🥲
+
+--- Conversation 75 (2023-08-15) ---
+User_b5e389: Are there any old groups for NS162?
+User_b5e389: And NS125
+
+--- Conversation 76 (2023-08-15) ---
+User_3d9c3f: Does anyone know what time NS154 and NS144 are offered?
+User_df9f1b: NS144 is 8pm BA time
+
+--- Conversation 77 (2023-08-17) ---
+User_efb175: Thoughts on NS166? For someone who didn't do any NS core course
+User_5a2147: Can you do it without a core course? I thought it needed NS111 as prereq
+User_df9f1b: Pre-req is waived for sustainability minors
+User_ee710e: Ns154 is 9pm BA time
+
+--- Conversation 78 (2023-08-17) ---
+User_752da4: Hello! I was wondering how much time is dedicated on average for NS111 and NS112 (per class and per assignment). Thanks!
+User_df9f1b: I think 2/hrs minimum for the first half of the course for NS112
+
+--- Conversation 79 (2023-08-18) ---
+User_52c3df: Hey guys! Do we need NS113 to minor in Cells and Organisms?
+User_b07213: i think you need ns113 for one concentration course.
+
+--- Conversation 80 (2023-08-19) ---
+User_5a2147: NS111 is the chillest of the NS classes, most of the time the prep is a chapter reading of the textbook. Depending how much in depth you want to know about it preclass work usually took max an hour, the odd class a little more
+
+--- Conversation 81 (2023-08-20) ---
+User_fdb55b: What about NS113?
+User_df9f1b: It’s the most frustrating in my personal experience. Maybe NS110U can beat that. :). content is easy, specially if you’ve done chem in high school. But there’s something about Prof. Gale that gets into everyone’s nerves. Also hardly anyone got an A in that class.
+User_97915e: x10 for NS110U 🤣
+
+--- Conversation 82 (2023-08-20) ---
+User_5a2147: While I slightly agree with shivam, I had it last semester and gale definitely had improved since ye had her. Definitely if you've any sort of chemistry highschool background you will have covered most of the syllabus and the class prep is only really longer than 2hrs if there's a problem set as preclass work
+User_26f5dd: Some professors think that giving someone an A will end their career apparently
+User_df9f1b: Well then my feedback “I really hope the next class do not feel as horrible as I felt” in the end of course survey worked for Gale.
+
+--- Conversation 83 (2023-08-25) ---
+User_b07213: Need some advice from people who interned in BA labs. Currently, M25s are facing problem with getting any response from Minerva’s recommended labs. can you give us tips or names of profs you all interned with?
+
+--- Conversation 84 (2023-09-03) ---
+User_4e0cf1: Does anyone have this resource? I can't find it anywhere :(
+Langmuir, C. H., & Broecker, W. S. (2012). Introduction: Earth and Life as Natural Systems. How to build a habitable planet: The story of Earth from the big bang to humankind (pp. 1-25). Princeton, NJ: Princeton University Press.
+User_97086c: Is anyone willing to share NS144 notes? Please dm me 🙂
+User_b07213: same for ns112 and ns113
+
+--- Conversation 85 (2023-09-03) ---
+User_3d9c3f: Any reviews on NS166?
+
+--- Conversation 86 (2023-09-04) ---
+User_efb175: do we have ns166 chat?
+User_a0e710: https://t.me/+5Y0HGktyVFUzOTEx
+User_3edffc: Is there an NS162 chat?
+
+--- Conversation 87 (2023-09-04) ---
+User_3027df: Is there a group chat for NS112 this semester?
+User_36eec3: add me too if there is one
+User_f0e085: People taking ns144, please join this GC: 
+https://t.me/+3h2bKQcHShwwZGY0
+User_466a1a: can smb add me to ns112 gc?
+
+--- Conversation 88 (2023-09-05) ---
+User_792c42: https://t.me/+txg0eCcHlAZkM2Rl 
+Telegram
+
+--- Conversation 89 (2023-09-05) ---
+User_36eec3: Is there a NS113 group for this year, can someone add me there.
+
+--- Conversation 90 (2023-09-07) ---
+User_5a2147: People taking ns111, please join this GC 🧡
+https://t.me/+O_eustgyiygyNWI0
+
+--- Conversation 91 (2023-09-07) ---
+User_5a2147: Also if anyone has good ns154 notes they wouldn't mind sharing... I would very much appreciate 🙏🧡
+
+--- Conversation 92 (2023-09-12) ---
+User_c17b3b: Does someone have notes for NS154?
+
+--- Conversation 93 (2023-09-15) ---
+User_66d67f: Guys, just hypothetically wondering, can the pre-requisites for NS152 possibly be waived if I show them I know the stuff in NS113 due to advanced chem stuff in highschool? (And I guess learn the physics material as summer prep)
+Did anyone do this before? I'm not even an NS major lol but I think I'd enjoy a more advanced chem course as an elective
+User_94cad8: Did you take NS110L/U?
+User_94cad8: It's sometimes possible to waive pre-reqs. But if there are multiple and you don't have any, I guess it's gonna be hard
+User_66d67f: No.. I'd just like one course bcs like I wouldn't have space for more with major and a minor (and being still confused about what concentration I'll end up with I might take some courses that wouldn't go towards that anyway.. so it would be quite a lot to take one of the NS110s and NS113 to take NS152)
+
+--- Conversation 94 (2023-09-16) ---
+User_05c9eb: I would suggest you reach out to Deborah and Vicki both. They usually handle these issues and will be able to give you a better overview. I know pre-reqs have been waived in the past but can't remember the specific cases
+User_b07213: I was told that for exemption of requisites I should talk to the professor who is teaching that course.
+User_66d67f: Ok thank you all I'll try that!
+
+--- Conversation 95 (2023-09-16) ---
+User_d3d81c: This is a long shot but I am making cheese for my NS154 assignment and I am currently in BA. Has anyone done it before? I would appreciate some guidance on where to find the ingredients
+User_94cad8: Check Amazon US and ask who of Minerva staff is traveling soon and can bring the ingredients 😂 Prof. Stan came and visited us. She offered that, but not sure anyone used it. No one of us made cheese
+User_d3d81c: Awesome, thank you
+
+--- Conversation 96 (2023-09-18) ---
+User_e28725: I have had conversations with the provost related to this, and unfortunately the staff and faculty are pretty adamant about not letting people skip pre-reqs. The reason is that they don't have a standardized way of evaluating whether someone knows the content or not, and they don't want to risk letting a person without the basics into a more difficult course, which might impact the entire group.
+
+--- Conversation 97 (2023-09-19) ---
+User_466a1a: Yeah it's funny that passing with a C is a concern, but not getting enough classes on time to graduate is not 😂
+
+--- Conversation 98 (2023-09-20) ---
+User_786849: Hey! I am an M27 and interested in pursuing an NS major at Minerva, probably in physics! I was wondering if there is someone with a physics Major in one of the other cohorts, who maybe could share a bit of what it‘s like and their thoughts on physics at Minerva …? That would be really helpful for me!! 🥰
+
+--- Conversation 99 (2023-09-23) ---
+User_925e67: Anybody got notes for NS144 and is willing to share?
+
+--- Conversation 100 (2023-09-28) ---
+User_792c42: Hi, anyone made a comprehensive/approachable notes for NS112 and would be open to sharing/collaborating?
+User_5a2147: There is some on the shared minerva notion page I believe
+User_792c42: I know of this one:
+https://www.notion.so/Minerva-Notes-27cb03ba680a4e2cafd751783b1a93bd
+
+Which I am so grateful for the contributors -- however, these are many years old, and so many readings (and even the sessions) have changed! 
+
+I'm just struggling quite a bit with the jargons, and primary literature, and the prep polls give me such an anxiety that affects my classroom experience. 
+So I was looking for a more current one.
+User_455221: Def understand and empathize with the anxiety experience 
+How about using AI tools for summaries?
+User_792c42: I occasionally use them; but the summaries (I much prefer Copilot from SciSpace over ChatGPT for primary readings, but still) are insufficient to
+- contribute to the classroom discussion
+-answer Prof Dosmann's very specific questions (and cold calling doesn't help either 🥶)
+- or understand/approach heavy readings.
+User_792c42: I typically struggle to focus and remember key details/nuances of the readings (eg, specific examples from readings of modes of selection, study design and methods, #dataviz) -- any tips for that as upperclassmen? 
+
+I just have to really mull over the details - which puts my class prep time for each session between 2.5 to 4 hours, and takes away the fun. So I don't know how dependent on the notes I'd be even if I were to find one. Any advice regarding that would be appreciated too :)
+
+--- Conversation 101 (2023-10-04) ---
+User_d3b4e3: [NS156]: I have some questions about NS156: Monitoring and Modeling Earth Systems. 1) Is this class python/coding heavy?? 2) Who teaches this course? 3) What is the difficulty level of this course in comparison to NS111? (ik this may vary depending on the individual but still would appreciate some comparison!)
+
+--- Conversation 102 (2023-10-04) ---
+User_14fa18: NS 156 didn’t require much coding at all. Most of it was conceptual modeling + box modeling when i took it. I had a harder time with it than NS 111 but in a more pleasant way - (i think this was bc i had Gale for 111 ans Zoogman for 156). It was pretty math and chem heavy generally - and the breakouts were always intense which made class spicy XD
+
+--- Conversation 103 (2023-11-08) ---
+User_b2fa71: PhD opportunity:
+User_b6cf6b: [name]
+
+--- Conversation 104 (2023-11-08) ---
+User_73213f: Does anyone have Prof. Dosmann's email?
+User_e02988: minerva email > compose > start typing anyone’s name > their email immediately pops up
+User_73213f: Alright thanks!
+
+--- Conversation 105 (2023-11-11) ---
+User_dc5617: hellloo is there anyone here who has opnions on the workload of ns152? curious about the density of readings, or whether the pcw is really long and stuff
+User_05c9eb: Hey, reviews on NS125? I have to take a course as a last elective and it seems like the easiest choice of the NS cores. I've done both CS130 and SS154 in the past so I feel like I have some idea about research but I might be very off with what's covered in that class.
+
+--- Conversation 106 (2023-11-11) ---
+User_0554ed: Lmao I hope you won’t end up doing regression for the 5th (?) time in a course
+User_05c9eb: 9th 😂😂
+User_0554ed: poor guy
+User_05c9eb: Wait does FA count? We had regression then too right? In the spring?
+User_0554ed: Yes!!
+User_05c9eb: That would make it 9 courses done with regression. This would be the 10th
+User_05c9eb: That's 40 credits of regression 🫣
+
+--- Conversation 107 (2023-11-15) ---
+User_967916: Would be happy to get reviews on NS125 as well :)
+I also took CS130 and SS154, but would love to deepen my knowledge in these techniques even more
+
+--- Conversation 108 (2023-11-15) ---
+User_d4695a: any physics minors I could speak to?
+User_df9f1b: [handle] [handle]
+User_7fa6b7: I personally really enjoyed NS125 - I think I learned useful skills such as how to better write literature reviews, and familiarize myself with different research methods. It was also fun to apply these concepts to SS-related topics.
+I also really enjoyed how Prof. Zoogman facilitated the class and the overall assignment structure. I think overall, this course is chill as an elective. Class prep does not usually take long and the class is very skill-focused.
+If you are already familiar with R and/or research methods, then the class should be even more manageable
+User_d5ec65: Did anybody do research in Berlin in NS (primarily physics) or does anybody have any recommendations on universities or profs to contact? Please DM me <3
+
+--- Conversation 109 (2023-11-15) ---
+User_94cad8: Check out this spreadsheet: https://docs.google.com/spreadsheets/d/1WYpAz16t-1VBrsfP4YyUbY7oQTUClMTQweuuQNk3fPg/edit?usp=sharing 😊
+User_94cad8: A friendly reminder for everyone who has done a research experience in any of the Minerva rotation cities to put it into this spreadsheet to help the younger students with our resources 💚
+User_d5ec65: Thank you so much!
+
+--- Conversation 110 (2023-11-15) ---
+User_b07213: shouldn't there be two or three more columns with lab name, PI name and if possible email address?
+User_94cad8: Go ahead and add it 😊
+
+--- Conversation 111 (2023-11-17) ---
+User_550fe0: Hello people!! Anyone can tell me how the workload for ns146 and ns156 is?
+
+--- Conversation 112 (2023-11-18) ---
+User_52c3df: Thoughts on NS112 and NS125? Especially regarding reading workload
+User_df9f1b: If you wanna do well in course I’d say it’s on average 2hrs per class. It gets easier with time later in the course. It’s for NS112. One of the best structured course at Minerva if you’re into evolution in general and Dosmann is amazing!
+
+--- Conversation 113 (2023-11-18) ---
+User_986c05: Thoughts on NS156: Monitoring and Modeling Earth Systems? 
+what did you take away from the course? Would you take it again as an elective?
+
+--- Conversation 114 (2023-11-19) ---
+User_e4d072: In NS112 we read a lot of articles and papers for the classes (so there is considerable amount of jargons). It is well structured and the assignments are focused on research design. We also talk about ecology in the last unit of the course.
+It used to take me around 3h preparing (including notes and PCW). Dosmann is not an easy grader, but a fair one.
+
+--- Conversation 115 (2023-11-19) ---
+User_b6fd7d: agreed on this. Pre-reading are dense and hard to understand on the first shot unless you have decent amount of knowledge on biology. Be sure to go through the summer prep material very thoroughly, it would help a lot to have foundational knowledge and vocabs :)
+
+--- Conversation 116 (2023-11-25) ---
+User_7ba86b: Can someone share me NS110U assignment prompt? I am thinking of taking it next semester
+User_d4695a: would anyone be able to rank matter and energy concentration courses by time required? (NS162 < NS152 < NS142??) —hate that minerva runs on rumors but i gotta know for course planninggg
+User_d4695a: thank you 💓😭
+User_d4695a: how likely is it that ns162 will be offered in the spring? no way to know for sure right
+User_0d1aa3: Yeah, your ranking seems right
+User_0d1aa3: (But ns162 has changed since i took it so idk if it is still the lightest load)
+User_0d1aa3: (And hopefully ns152 has changed since i took it in spring bc that course was trash and we told them that very explicitly)
+
+--- Conversation 117 (2023-11-26) ---
+User_36eec3: i wish i knew that before making a special concentration out of it.
+
+--- Conversation 118 (2023-11-26) ---
+User_d4695a: I’ll add it to the course review doc 😎
+
+--- Conversation 119 (2023-11-27) ---
+User_2c19b9: that's actually a great idea, we should start a cross-college doc <3
+User_318a08: There is a cross-college doc. It's just that NS courses have no reviews lol
+
+--- Conversation 120 (2023-11-28) ---
+User_3e2b50: Is Richard confirmed for NS110U?
+User_df9f1b: yes
+
+--- Conversation 121 (2023-11-29) ---
+User_f644b9: any1 know which prof gives ns112 and ns113 next sem?
+User_f644b9: *prays in pls no moy*
+User_df9f1b: NS112 is always Dosmann and CS113 is Gale most likely
+User_f644b9: yay
+User_f644b9: i think
+User_f644b9: dosmann yay worthy?
+User_df9f1b: yes vv nice
+User_df9f1b: can be tough with grading sometimes
+User_df9f1b: but not too bad
+User_f644b9: :(
+User_f644b9: ahh okay
+User_f644b9: yeah i feel like every ns prof except for donelly
+User_df9f1b: concentrations are easier actually so it gets better atleast for cells and organisms
+User_f644b9: concentrations are easier? damn
+User_df9f1b: kinda in terms of grading
+User_f644b9: good shit good shit
+User_df9f1b: or maybe we get used to the minerva system by then
+User_df9f1b: has been the case for me and a lot odf my friends
+User_f644b9: good things to look forward to
+User_f644b9: yeah i feel like LOs are also sm better than HCs when it comes to grading
+User_f644b9: compared to first year
+User_5a2147: nah stan and wilkins are nice graders
+User_5a2147: you just have to survive gale, richards or terrana
+
+--- Conversation 122 (2023-11-30) ---
+User_f644b9: which courses does Wilkins teach>
+User_f644b9: i love wilkins
+User_f0e085: Ns144. The genomics class
+User_bf0f45: He’s also teaching 162
+User_26f5dd: CS114 next semester
+User_5a2147: Damn if I knew that I'd have taken it
+User_f644b9: aahh yay
+User_f644b9: wilkins again
+User_f68c3c: it's probably one section though
+User_f644b9: I pray it’s the one I get
+User_f68c3c: ++
+
+--- Conversation 123 (2023-12-14) ---
+User_b2fa71: For anyone graduating this year looking to get more experience in research, there's a lot of post-bacc programs out there that are focused on providing a stepping stone from bachelor's to a Ph.D. -- here's a database that I've come across with a lot of NS opportunities! https://www.cientificolatino.com/post-bac
+
+--- Conversation 124 (2023-12-19) ---
+User_751cc5: I give my thanks to everyone who has made NS146 possible 🪨🌋
+User_5a2147: Anyone who is planning on dropping NS156 pls pls dm 🧡🧡
+User_fdb55b: yayyy
+
+--- Conversation 125 (2023-12-19) ---
+User_5d32f4: can anyone give reviews on NS166 again? (I have searched but there is not much)
+
+--- Conversation 126 (2023-12-19) ---
+User_3d9c3f: If anyone wants to drop ns156 please let me know! I need it to graduate ~
+
+--- Conversation 127 (2023-12-20) ---
+User_1a14e6: Hi! Happy holiday everyone ad hope you are surviving your finals! This is Changchang from M23. I'm now working at the Broad Institute of MIT and Harvard and one of my postdoc colleagues is looking for a new RA (start May/June/July 2024). The job description is already available online but please dm me for more details! I'm more than happy to make an introduction.
+
+Note: Our lab is focusing on cancer and his projects focus on ubiquitination (protein degradation, PROTAC, E3 ligase etc.) and oncology. He mentioned that he's willing to train ppl from scratch so IT'S OKAY NOT HAVING a wet lab experience.
+
+Also - not really active on Telegram so I may miss your msg - DM me on Messenger or just shoot me an email at [email]
+User_751cc5: I see NS156 on add/drop -- I know a few people are looking for it!! :D
+User_29ea3d: Thoughts on ns112 with Dosmann?
+
+--- Conversation 128 (2023-12-20) ---
+User_b6fd7d: .
+
+--- Conversation 129 (2023-12-20) ---
+User_36eec3: Also u don't need to read every pre-reading. Use notes from someone who took it before and you will be fine.
+
+--- Conversation 130 (2023-12-21) ---
+User_c177ea: Class-wise, idk how I passed that class. I hung on for dear life but the man is a gem in it and willing to answer questions and I love him. Tagged a single LO for both the final and another assignment and he somehow gave me 3s so I passed.
+
+--- Conversation 131 (2023-12-23) ---
+User_103862: Anyone who has taken the cells and organisms route with NS, what has your experience been like overall with Minerva? I have a friend who is applying for next year and is curious what the advantages are of choosing Minerva over other universities for biology in particular.
+
+--- Conversation 132 (2023-12-24) ---
+User_b07213: Did anyone do a research internship in London similar to Korea, Taiwan or Argentina?
+
+--- Conversation 133 (2024-01-05) ---
+User_487e33: Does anyone have recommendations on where to look for research grants? I am trying to be hired again this summer to work on a wildlife project in the US this summer but need grant funding.
+User_751cc5: Email prof. Dosmann-he has some wildlife science resources I believe
+
+--- Conversation 134 (2024-01-06) ---
+User_05c9eb: is there a NS125 chat?
+
+--- Conversation 135 (2024-01-08) ---
+User_dc5617: https://t.me/+a3hwrvoNh581ZmNl
+
+feel free to join if ure taking ns152 this sem
+User_cf3285: Does anyone have notes for NS156 :)?
+
+--- Conversation 136 (2024-01-09) ---
+User_514fce: any tips on how to do well in NS146?
+
+--- Conversation 137 (2024-01-11) ---
+User_b2fa71: If anyone is in SF this semester and is interested, there’s a free geobiology conference at Stanford on April 6th. Attaching email with some details!
+User_b2fa71: website: https://norcalgeobiology.stanford.edu/ (https://norcalgeobiology.stanford.edu/)
+
+--- Conversation 138 (2024-01-12) ---
+User_550fe0: NS146 group chat: https://t.me/+5pN8sPXnfVhlNDI1
+User_550fe0: NS156 group chat: https://t.me/+WuQhrJ-E4zE5NmY1
+
+--- Conversation 139 (2024-01-12) ---
+User_5a2147: Does anyone have NS110L notes they'd be willing to share <3
+
+--- Conversation 140 (2024-01-13) ---
+User_c17b3b: If someone could share them, that would very helpful
+
+--- Conversation 141 (2024-01-14) ---
+User_3e2b50: Is there an active ns110u gc?
+User_f68c3c: https://t.me/+8HaYqPlZuH85ODM0
+
+--- Conversation 142 (2024-01-15) ---
+User_5a2147: Is there a NS111 chat for this semester?
+
+--- Conversation 143 (2024-01-17) ---
+User_f644b9: is there an NS112 and NS113 chat?
+
+--- Conversation 144 (2024-01-18) ---
+User_4065cc: The NS College, with CTD is holding an internship + job search focused workshop on “Articulating your Minerva Natural Science degree”. 
+Date: Jan 22
+Time: 8pm GMT/ 12 pm PT 
+Calendar link: Event (https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2x1NzhiZmZzOGsybGxxbWtka3NtNmNjNHYgYnJpdHRpLnBhdWR5YWxAdW5pLm1pbmVydmEuZWR1&tmsrc=britti.paudyal%40uni.minerva.edu) 🍀
+
+--- Conversation 145 (2024-01-19) ---
+User_3751e6: helloo, any thoughts on the difficulty of each of the 1x2 concentration courses? and how much trauma each prof can bring? I was thinking whether it is worth it to take it all and make a minor out of it or if it's better to only stick with 142 and 152 and drop the minor (considering i would be taking them on 4th year 😭)
+User_dc5617: actually i think 162 is the least 'trauma' course along that conc! i personally found stat mech rlly interesting (even tho i found it hard at the same time lol) its also applicable in many fields, like physics, chem, bio, it, and probs more. 
+and the prof is amazing for it - prof wilkins! he absolutely prioritized for us that we enjoyed learning stat mech instead of getting things 'right' all the time, and wanted to ensure that we werent stressing abt it. one of my favourite classes so far throughout minerva!
+User_94cad8: I found NS162 with Prof Wilkins a lot better than with Prof Howe. If Wilkins keeps it, it is harmless, I agree
+
+--- Conversation 146 (2024-02-09) ---
+User_b2fa71: Summer NS internship that my grad school has been asked to advertise, unfortunately only open to US citizens/permanent residents but wanted to share in case anyone is interested! https://jobs.silkroad.com/NYGenome/Careers/jobs/708
+
+--- Conversation 147 (2024-02-10) ---
+User_ee710e: (Mostly for M24s) if anyone is interested in presenting their capstone (or other fun projects) in the London Bioelectronics Meeting, you can sign up until March 25th. Either way, if you do not present and would still like to go, you can sign up :) https://www.eventbrite.com/e/london-bioelectronics-meeting-tickets-811377591217?aff=ebdssbdestsearch&keep_tld=1
+
+--- Conversation 148 (2024-02-17) ---
+User_36eec3: Has anyone taken prof.kern or prof. moy for capstone can you plz pm me, I have a few questions.
+
+--- Conversation 149 (2024-02-19) ---
+User_f644b9: i had kern for personal ccp project
+User_f644b9: she was lovely
+User_f644b9: but like
+User_f644b9: semi strict
+User_f644b9: like she was a harsh grader but all of the things made sense
+User_f644b9: its kind of like how powers grades
+User_f644b9: not easy to impress but all commenta are super fair
+User_f644b9: comments*
+User_b07213: that says it all thank u!
+
+--- Conversation 150 (2024-02-25) ---
+User_ee710e: Anyone has had success registering for the UK biobank?
+
+--- Conversation 151 (2024-03-03) ---
+User_3d57a5: https://www.gist.ac.kr/en/html/sub07/0702.html
+Really cool program in SK
+
+--- Conversation 152 (2024-03-11) ---
+User_5a2147: Would love to hear some thoughts on Prof. Wilkins or Prof. Stan for Capstone Advisors if any upperclassmen have had good or bad experiences <3
+User_f0e085: Prof. Wilkins 💯
+
+--- Conversation 153 (2024-03-12) ---
+User_43f262: AI in Research (Professor from Oxford University + SAGE research publishing), AI in Medicine (Trusted Doctors)
+User_43f262: free lunch 🥙 , barista coffee ☕️ , and pastries for breakfast 🥐 WHERE? HOW? All of these close to the Res in Shoreditch Exchange, 16th March. - Best, AI Consensus
+User_43f262: sign up here --> lu.ma/students-ai-day2
+
+--- Conversation 154 (2024-03-23) ---
+User_b2fa71: Hey! A lab at Cold Spring Harbor Laboratory where I’m in grad school is hiring for a research technician (https://www.linkedin.com/posts/semir-beyaz-2b0a6b1b_cold-spring-harbor-laboratory-careers-activity-7177129588194447360-jo1E?utm_source=share&utm_medium=member_ios) to study metabolism and cancer. If anyone is interested, I’m happy to answer any questions or send a recommendation!
+
+--- Conversation 155 (2024-03-26) ---
+User_73665c: helloo, does anyone knows a minerva faculty that works with environmental modeling?
+User_a56433: Prof Robbins did environmental economics, he might know a thing or two about it. But I'm not sure, just guessing!
+User_73665c: he said its more related to economic modeling and use of resources :(
+User_73665c: but thank u!
+User_a0e710: zoogman!
+User_73665c: awesome thank you :)
+
+--- Conversation 156 (2024-03-27) ---
+User_d5ec65: Has anyone ever cold emailed professors for a research internship over the summer and got one?
+User_d5ec65: Potentially, and ideally with funding
+User_d5ec65: if you did could you dm me <3
+User_d3d81c: Vicki Chandler mentioned that legally you cannot work without getting paid so if a Prof accepts you the expectation is that you get paid
+User_d5ec65: You can't?!
+User_d5ec65: What if it is volunteering
+User_d5ec65: and not working per se, is it the same
+User_d3d81c: I've done that in Argentina but I am not sure about the US/Europe
+User_d5ec65: I know in Europe you can but I had never heard about the US bit
+User_d5ec65: thank you I will look into it
+User_52c3df: In Europe I don’t think they have to pay you unless you are a EU citizen 🥲
+User_d5ec65: Yeap, there are some people who are volunteering
+User_df9f1b: [handle]
+User_5a2147: he's a pro at it ;)
+User_d5ec65: I have happily realized, following in his foot steps soon I hope hahahahaha👌🏻
+
+--- Conversation 157 (2024-04-01) ---
+User_d4695a: Is pairing CS110 and NS162 taught by Wilkins doable?
+User_df9f1b: i think CS162 is chill with wilkins from what i heard
+User_0554ed: wilkins 🤝 cs162
+User_df9f1b: NS* :)
+User_b5e389: Yes he is soooo chill and sweet on ns162
+Depends who’s covering 110 hehe
+User_97915e: NS162 is a godsend, it was my chill class w NS113 and CS162
+User_d4695a: Oh no way, thanks Cass for the comparison to chem!!!!
+User_97915e: just a caveat thats also because i suck at chem so needed to give that class a lil more attention
+User_d4695a: You were so good in that class it showed
+User_d4695a: B thx
+
+--- Conversation 158 (2024-04-02) ---
+User_f644b9: How to concentration courses compare to core courses in the ns college?
+
+--- Conversation 159 (2024-04-02) ---
+User_751cc5: in terms of what?
+
+--- Conversation 160 (2024-04-02) ---
+User_f644b9: Difficulty
+User_df9f1b: did ns164 and ns144 with Prof. Stan and Prof. Wilkins and spent around 1.5-2.5 hrs on PCW. The grading is pretty easy in both courses and can be easy A. Much easier graading than ns112 or ns113
+User_df9f1b: message me if you wanna ask anything specififc
+User_b6b538: anyone with thoughts on 154?
+User_b6b538: or cool classes in the bio/chem track:)
+User_df9f1b: ns154? i heard its work but again easy on grading
+User_7fa6b7: The assigment is an iterative research project on fermentation. So you get many chances to implement feedback before the final and sth to talk about in applications for research programs
+User_7fa6b7: And I would say the work load for assigments is smaller than for other NS courses where you have separate and highly weighted assigments
+User_0554ed: #TAsourcequality
+User_f0e085: I really enjoyed the project but kinda found classes vague and unhelpful with Stan (pre class work would have many dense readings but the class would barely cover any concepts in those and I would leave the class more confused). I'm sure she has improved since Fall 2022 when I took the class so input from M25s on classes could be more helpful.
+User_5a2147: I definitely had a similar experience to yousry but I agree that the iterative assignment isn't too bad provided you start on time and stan is lovely on grading. So in terms of class content I didn't feel like I learnt the most from that class but it isn't the hardest to do well in compared to some of the cores
+User_b6fd7d: are ns142 and ns162 offered every year? trying to take those in my 4th yr (2025-2026) but was afraid if it's only offered once every 2yrs or smth because there's small number of ppl taking it
+User_b07213: It depends on your batch and how many people are willing to take those classes
+User_f68c3c: I think people in the matter and energy concentration in our class will try to take 142 next fall. After that, it’ll  probably depend on the M27s
+
+--- Conversation 161 (2024-04-04) ---
+User_84f408: Any upperclassman (I am M27) here, who is going to study Observational Astronomy / Cosmology later on after Minerva. It would be great to meet you. I am taking a double major (NS and CS), NS concentration is ofc Matter and Energy... However, I am stuck between taking "Mathematics" or "Data Science and Statistics" concentration for CS. Anyone who is studying towards a pathway in Astronomy / Astrophysics / Cosmology :: this would be a great help. Thank you!! Please DM me. It would be a great help, thank you!
+User_5a2147: [handle] 🤍🤍
+
+--- Conversation 162 (2024-04-05) ---
+User_b6b538: Hello! Anyone that has taken NS156 can advice on whether to take CS110 before or if it is not really necessary? I want to make the most out of the class:)
+User_5a2147: hi hi I'm taking it this semester and have not taken CS110! We focus less on creating models but rather understanding current environmental models and the most beneficial course to do beforehand is definitely NS113 because the course is very chemistry focused :)
+
+--- Conversation 163 (2024-04-06) ---
+User_f39ece: Hey, Sophia and I want to get Life’s Chemistry (NS154) offered in Spring 2025, bc we noticed that it wasn’t going to be offered in the tentative course offering spreadsheet and we need it for our majors! Is anyone else in the same predicament? Maybe we could team up and let the academic team know that we have enough students to squeeze that class to be offered in the spring
+User_f39ece: Note: NS112 + NS113 are prereqs for NS154
+User_36eec3: just to confirm you want ns154 to be offered in fall and spring?
+User_36eec3: As a lot of M25s need it for their major and we can only take it in fall
+User_f39ece: Yea, I can’t take it in the fall (I need to do my prereqs first), so I also want it to be offered in the spring!
+User_f39ece: that makes sense!
+User_36eec3: that was the case for a a few of us this year and that is why we are taking it in fall of senior year😅
+User_5a2147: also it is likely especially with NS to have one concentration left to do in fourth year so I wouldn't stress too much in third year <3
+User_f39ece: oh shooooot noooo
+User_777d34: Maybe M27s that need prereqs as well could take it in the spring! Since I am double majoring and I have too many classes that are only offered in the fall (and very few offered in spring!)
+User_777d34: But this is comforting, just dont want too many major requirements left over😅
+User_b07213: only stan teaches that course and it is up to her schedule too as next spring she will be teaching ns164, a immunology tutorial and she has 12 capstone advisees and I think she also teaches cs51 in spring.
+User_f39ece: Also, do you recommend taking the suggested prereqs for Solutions From and For Life? I plan to take this senior year, but a bit scared it might not be offered then
+User_f39ece: oh my, so she also has to be available oof
+User_5a2147: yeah that's what i was thinking too stan got really behind on grading last semester because she took on too much, so perhaps she needs to reduce her course load
+User_b07213: i think you can do it just by taking ns112. there are some things that might be confusing in class sometimes but you assignments won't be affected by not taking ns144 or 154
+User_b07213: i think the coming year she is increasing it not decreasing😂
+User_5a2147: also i feel like at least for the cells and organisms concentration each course is offered at least once a year
+User_5a2147: oh dearie
+User_5a2147: glad she's only a second reader for my capstone then ahaha
+User_f39ece: What about Genes to Organisms (NS144) 👀
+User_777d34: Who teaches Genes to Organisms? Is it possibly a professor with a lower course load?
+User_c43aff: wilkins!!!! i'm not sure what his courseload is at the moment because he is able to teach all of the cournerstone classes and also teaches statistical mechanics (i think) but he is an awesome professor and this is by far my favourite NS course i've taken in the c&o major
+User_df9f1b: Took NS144 last sem and oh universe I love him. The course load is alright (1.5-3hrs) readings if you wanna do good! The asiaignemta are mostly problem sets and straight forward and his grading is super generous.
+User_5baedc: Hello everyone! 👋 M27 here, we would be very very grateful if you could answer this survey for us on Sustainability 🍃 and Carbon Sequestration Technologies! (5-10 min, it’s for EA51!)
+
+https://forms.gle/kieqBtAVNYPeBrEx5
+
+Thanks in advance!!
+
+--- Conversation 164 (2024-04-08) ---
+User_ae8f23: has anyone taken ns156 previously? would really appreciate wisdom for the LBA :)
+User_f39ece: Is Dosmann the only prof who teaches NS112?
+User_f39ece: And would anyone know who’s teaching it fall 2024? 👀
+User_f644b9: yeah it s his course
+User_f644b9: he is so nice tho
+User_1be83c: Thoughts on NS111 and it being taught by Gale? I have never taken a NS core/concentration or any course with Gale.
+User_b6fd7d: I’m pretty sure it’s taught by Donnelly tho? she’s always teaching that class.
+NS111 is said to be the chillest course among all NS cores. Reading is mainly a chapter from one book that we use for the whole course and grading is very chill. If you don’t do anything crazy you’ll get steady 3/4 for class assessment and assignments. Also Donnelly is such a lovely person and even willing to move assignment deadline a few days later :)
+
+--- Conversation 165 (2024-04-09) ---
+User_777d34: I took NS113 with Gale and it was amazing!! If the people in the class give some energy she totally reciprocates it. Is she teaching NS111?
+User_36eec3: we are speculating since donnelly became head of ns department
+User_cd92fd: actually Gale confirmed herself that she’s teaching it next sem 😄
+User_f644b9: yeah its prob donnelly, very american, but very nice nontheless
+
+--- Conversation 166 (2024-04-29) ---
+User_5a2147: hi hi does anyone know if ns144 and / or ns156 is being offered next semester?
+User_f68c3c: Only 144
+User_5a2147: thank you! follow up does anyone know if ns156 is being offered in spring?
+User_f68c3c: Yup
+User_f68c3c: https://docs.google.com/spreadsheets/d/1QT7FyfHceq6nEW8HFP87IiGqhKG5Iu-HHPudfUtPgg8/edit
+User_5a2147: yes this is the handy sheet i was looking for thank youuu
+
+--- Conversation 167 (2024-05-04) ---
+User_94cad8: Anyone who took NS144 before wants to share the assignment instructions with me? Need to consider if it's worth taking 😁
+
+--- Conversation 168 (2024-05-08) ---
+User_e28725: The assignments are pretty easy - there are four problem sets, which you can basically solve by looking at the main book from the readings (I could share more details if you dm), and the final assignment is a super open-ended paper that you can write about whatever you want, it just has to be somehow related to genetics. Overall, I'd recommend the course - chill assignments, and you learn a lot because of the readings and pcw, and obv Wilkins is great
+
+--- Conversation 169 (2024-06-03) ---
+User_d5ec65: Did anyone do physics-related research in Argentina (mainly cosmology/ particle physics would be best but any would do)?
+
+--- Conversation 170 (2024-06-04) ---
+User_bbcb04: Can I talk to someone who did a completely remote research internship?
+
+--- Conversation 171 (2024-06-11) ---
+User_e28725: If someone ended up doing a science Master’s in Europe after graduation, please dm me !
+
+--- Conversation 172 (2024-06-19) ---
+User_c7fdd7: hi
+
+--- Conversation 173 (2024-07-21) ---
+User_e28725: Hi everyone, for those interested in research there is an opportunity to join a lab at UCSF and assist a postdoc with tissue culture experiments. The person is looking for at least 8  months of commitment (meaning you will have to spend your next academic year in SF), some background in biology (tissue culture preferable, but not necessary), and around 2-3 hours of commitment per day. It's a great opportunity to learn wet-lab skills and get yourself involved in some cool projects. Dm me if you are interested and would like more details
+User_df9f1b: what's the pay?
+User_e28725: They pay in prestige my friend
+User_df9f1b: wow
+
+--- Conversation 174 (2024-07-26) ---
+User_b2fa71: Sharing a 2-year position at the New York Genome Center starting in summer 2025, great for anyone graduating next year/recent grads!
+User_b2fa71: Full details here (https://www.nygenome.org/careers/open-positions-training-opportunities/post-baccalaureate-program/) - salary is super competitive for postbacs (one of the highest I've seen) and the NYGC does super cool work! It's also one of the few postbacs I've seen without residency requirements
+
+--- Conversation 175 (2024-07-31) ---
+User_777d34: has anyone had wet lab experience in Argentina / know where to look for that?
+User_d3d81c: I would recommend looking into the papers published by the universities from Argentina and reaching out to the labs' PIs directly. Now that public universities get less funding after Milei became the president, I am not sure if they have the resources to host a student so I'd try out the private universities too
+
+--- Conversation 176 (2024-08-10) ---
+User_51212c: Is NS112 the "bio" course and would it be chill for someone who has never taken bio (even in middle school)?
+User_df9f1b: It’s not a chill course in terms of workload and you’ll have to put in the effort to get a good grade (if that matters) that said Dossmann is an incredible professor.
+User_f0e085: It's more of an "evolution" course than "bio". So won't get deep into molecular bio, biochem, etc. A lot of evolution with a bit of genetics and ecology. Some assignments are flexible and you can even integrate some AH topics. I remember some people explored evolutionary biology ideas in languages, etc
+User_51212c: Wait so there's no 'bio' course in NS at all?
+
+--- Conversation 177 (2024-08-10) ---
+User_f6b302: without a bio background NS112 is doable, but as mentioned above the workload is on the heavy side (5 assignments + PCW for almost all classes). The last unit on Cancer is the most "bio"-heavy.
+User_36eec3: I would recommend taking ns111, it is fun, you learn about how earth was formed to our climate conditions. it is a chill ns class and donnelly is a great prof.
+
+--- Conversation 178 (2024-08-11) ---
+User_51212c: Thanks for the opinions guys!! It's been helpful 🙏
+
+--- Conversation 179 (2024-08-16) ---
+User_52c3df: Does anyone have Wilkins email? I can’t find it 🥲 
+
+Also, does anyone have the link for the NS144 textbook? I found one online but not sure if it’s the right one
+User_3751e6: [email]
+User_c7fdd7: Jon Wilkins <[email]>
+User_52c3df: Thanks!
+User_c7fdd7: damn i was too slow
+User_3751e6: is there an emoji reaction for late
+
+--- Conversation 180 (2024-09-04) ---
+User_0891ca: 144
+
+--- Conversation 181 (2024-09-09) ---
+User_3751e6: Is there an NS113 groupchat?
+User_52c3df: Guys, do we have group chat for NS154?
+
+--- Conversation 182 (2024-09-09) ---
+User_d54d3f: This week is the launch of the Minerva Climate Tech Coffee Talk Series! 
+
+The Climate Tech Coffee Talk Series will use the Y Combinator Climate Tech Request for Startups as the basis for a low-barrier-to-entry, everyone-welcome intro to climate startups. Imagine a cross between a journal club and a panel by discussion. To accommodate schedules across the globe as best as possible, we will meet the first seven Wednesdays at 8-8:45am PT starting Week 1 on September 11, when Phoebe Wang, the Investment Partner and the Head of the Female Founders Initiative at the Amazon Climate Pledge Fund will join.
+
+If you are interested, please join the group chat! https://t.me/+f5Gpe6I7xxpjZGM1
+
+--- Conversation 183 (2024-09-09) ---
+User_52c3df: https://t.me/+Ngsj_KNQmfhhMDZl
+
+--- Conversation 184 (2024-09-10) ---
+User_318a08: NS154? 🥺
+User_d3d81c: Hi NS students, does anyone have a list of US research early career fellowships in biosciences? 
+
+The search is taking a while and would really appreciate to have something to start with
+User_d3d81c: Following up on this, I'll be a TA for NS154 this semester ✨✨
+
+If you think it's useful for me to be in the chat pls add me. I'll use it to send OH reminders. Or clarify any assignment instruction related confusions. 
+
+This year's section is going to be the largest (20 students 🤩🤩) so a centralized communication channel can be really beneficial
+
+--- Conversation 185 (2024-09-10) ---
+User_84f408: I need to find a book but am not getting the pdf. It is called "Algebraic Geometry: A Problem Solving Approach"  by Thomas Garrity.
+User_84f408: It will be very very helpful if something can find me a pdf copy of it.
+User_ba4913: Is this it?
+User_84f408: Yesss!
+User_84f408: Thank you so much Ransith!!!
+User_84f408: නැවතත් ස්තුතියි
+
+--- Conversation 186 (2024-09-10) ---
+User_84f408: This is for the seniors who have published papers already:: I need some information with respect to journals, reputed ones specifically, especially those in Physics, Mathematics, and Philosophy will be great. Since we are a US university, I mean students from some colleges do get discount on Article Processing Charge (APC). Sometimes, they are even waived. So, is the case same for us here at Minerva??
+User_84f408: It will be great if you can refer me to someone within Minerva who is associated with this kind of thing.
+User_84f408: Thank you in advance!!
+
+--- Conversation 187 (2024-09-11) ---
+User_dffc63: Is there a NS112 groupchat?
+
+--- Conversation 188 (2024-09-11) ---
+User_84f408: ??
+
+--- Conversation 189 (2024-09-12) ---
+User_ae5647: Anyone has done NS154 before?
+
+--- Conversation 190 (2024-09-13) ---
+User_85ad86: Hey guys, does anyone have classes with Professor Donnelly and Prof Stein and/or can share the link to her office hours?
+User_8234f5: you can find all OH links here: https://forum.minerva.edu/app/office-hours
+User_85ad86: thank you!!
+
+--- Conversation 191 (2024-09-21) ---
+User_94f797: If anyone has used BioGears engine or Pulse for PK/PD modeling or adjacent studies before, please PM me. Thanks.
+
+--- Conversation 192 (2024-09-26) ---
+User_0378ef: lots of NS new grad jobs here 
+https://github.com/jobright-ai/2025-Data-Analysis-New-Grad
+
+--- Conversation 193 (2024-10-08) ---
+User_1be83c: Has anyone worked with/know of a lab doing projects on bioacoustics?
+
+--- Conversation 194 (2024-10-16) ---
+User_b2fa71: Hi Everyone! I'm sharing information for an event that a few friends from other institutions and I have been organizing on the role of scientists in policy. Please register, I'd love to see you all there!
+User_b2fa71: Have you ever wondered how scientists can become involved in shaping politics or advocating for science-based decisions?
+
+This election year, scientists have an important role to play in shaping policies and promote science at all levels.Join us for a 1-hour discussion on how you can get involved in politics, connect with lawmakers, and advocate for science-based decisions.
+
+The event will be held on Zoom on October 17th at 6pm ET.We’ll be joined by Shaughnessy Naughton (Founder of 314 Action), Sarah Smaga, PhD (Scientific Conferences Coordinator at 314 Action), and Senator Gonzalez (New York State Senate District 59) for an open conversation on science and democracy.
+
+RSVP here (https://docs.google.com/forms/d/e/1FAIpQLSfgaoUqbULr8_tBJ1Y6eLnN5wnJNfFjBWfsMuO5FRR-c9j0qg/viewform?pli=1) to get the Zoom link, which will be sent the day before the event. We welcome scientists and policy advocates at all career levels. :)
+
+--- Conversation 195 (2024-10-21) ---
+User_764489: Does anyone have Prof Kerns email?
+
+--- Conversation 196 (2024-10-21) ---
+User_b6fd7d: I don't have her email other than Minerva one but you can reach out to her via LinkedIn messaging
+
+--- Conversation 197 (2024-10-25) ---
+User_419187: Hey! Any synbio folks in the community who have experience growing and/or genetically engineering bacteria? 🧫
+
+A friend has an early-stage carbon capture/utilization venture and is looking for solid bio peeps who love nerding out about this stuff and have the capacity to explore/work on a project!
+
+--- Conversation 198 (2024-11-07) ---
+User_44637c: hello! I’m putting together the NS newsletter for this fall and I want to include a feature on the NS goings-on in Taipei. if anyone is doing an internship or cool civic project, please reach out to me so I can have a well-rounded newsletter with all the cities involved! thank you so much!
+User_8bbbff: [handle]
+
+--- Conversation 199 (2024-11-12) ---
+User_b5d9b9: Anyone has a spreadsheet or any resources for a list of summer research programs in bio?
+
+--- Conversation 200 (2024-11-21) ---
+User_fdb55b: hey guys, how is NS 156 workload?
+User_bbcb04: I think it's relatively demanding, but still doable. Pre-class readings are usually ~20 pages of a textbook, and it takes 1-3 hours to prepare (1 hour being last-minute skimming, 3 hours for taking detailed notes)
+
+In terms of assignments, took it last spring, and we had 3 problem sets, one LBA (measuring actual data + metaanalysis of online datasets), and the final is a literature review. Not a course that you can yap through, but it's realistically rigorous. Also rewarding if you put in the effort.
+User_fdb55b: Thank you so much 😊
+
+--- Conversation 201 (2024-11-21) ---
+User_069ce1: Hey, any idea who is teaching NS110U next semester?
+User_069ce1: PLEASE NOT RICHARD PLEASE
+User_4bef4f: Terrana?
+User_069ce1: She was teaching NS110L, but not next sem :(
+User_b6fd7d: it's most probably richard tho, never heard somebody else teaching that course
+User_318a08: I loved every lesson of NS110U, partly because I was interested in the material and partly because of Prof. Richard's teaching style. I'd say it's just a great course. From what I've heard and seen (had CS111 with him), he's also much more appreciated by students in physics courses
+User_df9f1b: Such a hot take 😆
+User_318a08: I liked the course so much that I'm now taking CS113 so I can take quantum as an elective
+User_df9f1b: Just to clarify. I haven’t taken the course but have a lots of NS friends who are super into physics and didn’t like him at all. Yet to find a M25 who liked him or his style. Minerva is pretty diverse so there  bound to people who like him but the general perspective of him is not the best. But if you are a NS (more specifically Physics) major there’s no running away from the course.
+User_d09730: Yeah I was going to say that also. (almost) All the M25s who loved physics and really wanted to do Quantum did a 180 after having Richards for NS110U. It was really not great in our experience.  Maybe he's becoming a new person though(?) and if so that's good.
+User_df9f1b: Also you might as well take a class with a Prof. you don’t like. It’s good for character development and an integral part of the college experience. The trauma bonding will lead to friendships that last forever.
+User_97915e: As a previous NS Major -> NS Minor -> dropping NS as a whole so I don’t have to take his last class (NS142), I am a bit upset (I think bitter is a better way to describe it) hearing that he has improved in the sense that I missed the class and the whole minor just because I was avoiding him. If it is true that he has gotten better, then that is great news for everyone else 🙂 I do think it’s worth noting though that there was a time when lots of us felt like shit in his classes (I took 2 from him, CS111 and NS110U) so it is valid also to hear that liking him is in fact a hot take hahahaha
+User_069ce1: Oh damn. I’ve heard from profs I’m close with that he’s great because he teaches rigorous calculus based physics, which is nice and I’d love that. But at the same time he downgrades for stupid and bullies students, which I don’t really like to see coming from a prof
+User_df9f1b: This did happen with Prof. Gale. So miracles do happen!!!
+User_97915e: Acceptance stage of grief
+User_d09730: Same, I changed so much in my plan to avoid this man, and now he's, good??? 😭 (my brain fails to believe it)
+User_df9f1b: I think all the things you mentioned are true at the same time.
+User_97915e: M25 Physics Bitches are still on the way to that acceptance stage
+User_f68c3c: I’ve had 3 classes with him and never seen this bullying (even in cs111). For grading, I’m his TA and I don’t think he ever changed my scores/comments.  I agree sometimes there can be confusions from his explanations, but the material is pretty heavy and he tries to slow down when people are confused.
+User_d09730: This is wild. I believe you, but it's just a different person than what I experienced lol. There were multiple times where we asked him to just repeat something, or clarify something, and we would get a rant about how we're irresponsible, not prepared well enough, ungrateful, etc.
+User_d09730: And I still twitch whenever someone is in my background on Forum because of how much shit Richards gave us whenever someone passed by 😭
+User_f68c3c: To be fair, this might have happened in 111 but definitely not in NS110 or 142
+User_d09730: No this is NS110U I'm talking about
+User_f68c3c: I mean for me
+User_d09730: ah I see
+User_97915e: /gen good for you man T.T That man has completely scarred me and maybe it is a me problem for believing the things he has called me in OH and things he has called friends IN CLASS, but in the moment they were just absolutely ridiculous and it felt more comforting to leave in the middle of the class than to finish it holding back tears
+
+On the flip side though, I have never seen him “bully” as much in 111 than NS110U
+User_df9f1b: he has indeed changed i suppose. i was not his TA for CS111 but had meetings with him for a semester (group meeting with all CS111 TAs). man used to say the exact opposite of every good thing Prof. Rena Levitt used to say. not the 30 mins of my week i used to look up to.
+User_f68c3c: That’s a big reason for me to say he changed. Half of my conversations with him are “how are you doing and how are people feeling?”
+User_97915e: holy fuck
+User_97915e: that’s all i have to say
+User_d09730: wait, Richards said that?
+User_f68c3c: He asks this question every class lol
+User_df9f1b: also i dont think he is a literal bully but he has a very big no bullshit attitude which sometimes is a little too much. i once asked him to repeat a question when he was a substiute was my ns51 class and he said "I do not repeat my questions. i do things the traditional way". which is okayyy but also you understand this is a online class and internet issues are legit sometimes
+User_f68c3c: 142 folks please jump in because I might be biased
+User_c0b244: "I do things the traditional way at this nontraditional college that promotes active learning and student engagement"
+User_97915e: I remember when we had our 2-hour call with Prof. Kern at the end of our NS110U semester, she did mention that in the past, Minerva profs do have this rule of not repeating questions just to avoid people faking internet issues. They have since changed that ofc, but she did say perhaps he just stuck to that given that he was there when that rule existed.
+User_bbcb04: I've been through both sides of Richard. My takeaway is that men can indeed be fixed.
+
+Anyways just to be clear M25s are not trying to discourage future people from taking his classes lol, the trauma is super valid and we're just reminiscing the dark days. If you genuinely want to do physics please take the courses by all means ✨✨✨
+User_bbcb04: Just to have a sense of what Fall 2024 Richard is like, he offered to slow down the course content, repeatedly emphasizing that the course is hard and we should acknowledge that we've gone through a lot, assignments are now in groups (wasn't the case back when I was taking NS110U in Spring 2023, and probably not when NS142 was taught last time in Fall 2021), actually repeats questions, guides people when they're lost, moved assignment deadlines, then removed two assignments because he's tired of moving deadlines lol.
+
+Actually these are like the general expectations of a professor, but coming from Richard it's a big deal haha. This is also Richard in NS142 (his favourite subject), may not apply to core courses though (NS110U and CS111). I also can't believe I'm writing this but yea
+User_df9f1b: i am genuinely so impressed and in disbelief (no kidding). faith in humanity is restored today!
+User_97915e: As someone who participated in efforts to talk to the NS Head about him, I feel like a construction worker not even allowed to enter the building LOL happy for y’all who get to do a class with him post-Spring 2023
+User_d5ec65: The key thing with Richard even if your class structure is bad is to go talk to him in office hours. He actually likes it very much when students care about their work. Do your work, answer questions, go to a few office hours and you are good
+User_7ba86b: I dropped my NS physics minor only because I was traumatized by Richard.
+User_76c184: Hi guys! How big of a workload is 110U compared to e.g., NS111 or CS111? I‘m thinking of taking it together with CS110 & a concentration & am worried its gonna be too much workload …
+User_f68c3c: It’s definitely more work than cs111. I think it’s doable with cs110 if the third course is chill, but a concentration will be tough (depending on which one tho)
+User_97915e: Oh… I wouldn’t do that… I’m not 100% sure how much lighter NS110U is now but when I was taking it, the weekly assignments for NS110U took me 1-2 days to complete whereas CS111 just a few hours
+User_f68c3c: If your main focus is the physics, you should take ns110 and maybe delay cs110 or the other concentration. Otherwise, you’ll have to wait until next spring and take the concentration in your senior year.
+
+--- Conversation 202 (2024-11-22) ---
+User_5baedc: what about combining it with CS114 and a concentration course?
+User_36eec3: i did cs113, cs114 and ns110L together and it was pretty hard. doable but really difficult
+User_f68c3c: I think the current model of 110U is doable with that combo because of the group homework
+
+--- Conversation 203 (2024-11-22) ---
+User_c3e517: I'm late to the discussion on Richard, but having taken 5 courses with him and TA'd once with him, he's gotten somewhat better at relating with students. 
+
+I still think he's not great at teaching, because almost every other Prof I've had/am having is better than him at that.
+
+But yes, I hope he gets even much better in the coming semesters and I think you should give him a chance if you can
+
+--- Conversation 204 (2024-11-23) ---
+User_76c184: Okay, thank you sososo much for all your answers, they help a lot 🫶
+
+--- Conversation 205 (2024-11-23) ---
+User_069ce1: Hey! How painful would it be taking NS162 as an elective? 
+
+Context: I love Math and want some more analytical applied work in my education, so I consider taking NS162. Want to take NS110U, NS142 and NS162 in total, skipping NS152
+User_97915e: Not painful! It's a lot of work around assignment times (but I wouldn't compare it to CS concentration courses' assignments kind of work) but it is fun esp w/ Wilkins :)
+User_97915e: Not all the readings are intuitive but Wilkins is a very graceful Prof and if you communicate (esp during start of the class) where you're having the most difficulty, he will slow down there and make sure everyone catches up
+User_069ce1: Is it rigorous theoretically?
+
+--- Conversation 206 (2024-11-24) ---
+User_c3e517: If you mean "does it have a lot of math" yes it does
+User_069ce1: math done correctly rather than sloppy and in a rush
+User_c3e517: The readings go into lots of depth so yeah
+Some details might be skipped in class if they were covered in the reading, but you can always go to office hrs if you're unsure
+
+Overall, I'd recommend it
+User_069ce1: Sounds nice, thank you for the review!!
+
+--- Conversation 207 (2024-11-26) ---
+User_44637c: hello! prof Wilkins is interested in possibly doing a tutorial next year on a topic like evolutionary medicine or the anthropology of genetics. if this is something anyone would be interested in, please like this message so we can make it happen!!! 🤞🏼
+
+--- Conversation 208 (2024-11-28) ---
+User_f606a0: I am an alumni but anthropology of genetics sounds fire
+User_09dde9: what are tutorials?
+User_44637c: they are smaller even more student-led classes that have specific focuses and can be requested by students. usually taken in senior year, but can be taken in junior year as well.
+User_e4d072: https://search.app/mFRd4HnoKzb2jViA9
+
+--- Conversation 209 (2024-12-03) ---
+User_3f5641: Hi! I was wondering how hard would it be to take NS112, NS113 and CS114 together. I’m not sure how hard the NS courses are, but for CS I’ve heard that CS114 is the second hardest core
+User_df9f1b: Both NS112 and NS113 are intense (readings especially) and the Profs. don't entertain mediocre work if you want 4s in assignment. CS114 can be conceptualy hard to understand at times after the first half of the class but the grading is super chill based on the Prof. and they have also reduced the load in assignmens. I took all these courses without ChatGPT so that might change things. I think it is still doable tho.
+User_d5ec65: For cs114 you will need to follow the class properly but so long as you do most of the grading is reflection or pcw. Pcw is very easy to maximize and your assignments will be problem sets so you can compare your answers with people and properly explain it to do good. 
+
+For NS ones I totally agree with Shivam, they have a good load but it is doable if you plan ahead.
+User_792c42: To add an opinion: not easy, but definitely doable! 
+
+I've taken two of the three classes you mentioned (NS112 and CS114 in different semesters). 
+
+I took NS112 as an elective (Shivam'd convinced me)-- and the class made many highlights of that semester for me-- both fun and not so fun; mostly due to workload. If you have a study/discussion group- it will definitely help. Very enjoyable topics and assignments. Readings would always make me despise entering the class (as was the case with most people taking the class), and after every session, I'd come feeling survived and learnt something new. A skill we all learnt from the course was definitely reading academic papers!
+
+NS113, although I haven't taken, I'm pretty convinced is not as bad if you have high school chemistry background. I was helping my peers around:) although professors can make or break your experience with the class material. Some assignments are fun, some are creative/quantitative, meanwhile some are just work! 
+
+For CS114, I'd say it doesn't have to be difficult at all. The workload is probably easier than CS111/113's weekly skill builders/deepdives, so long as you're diligent with class prep, practicing problems and following discussions. Sessions are cumulatively progressing, so it's best not to avoid/skip any parts you're uncomfortable with. Hands down the most fun I've ever had problem solving (in case it's something you'd enjoy too!) 
+
+Rely on cross-section/ class notes , and peer/profs/TAs. 
+
+I think it's an enjoyable set of classes to have in a semester. All the best<3
+User_df9f1b: Haha I am not a NS major anymore but NS112 was my fav class I have taken in Minerva. Very well structured and gives you a lot of perspective on evolution. If you are even a teeny bit into bio/genetics/evolution I highly recommend the class haha.
+User_3f5641: thank you all so much!! it’s really helpful
+
+--- Conversation 210 (2024-12-05) ---
+User_ae5647: Anyone is taking 164 next semester?
+User_318a08: me :)
+
+--- Conversation 211 (2024-12-07) ---
+User_84f408: One question to the Seniors: 
+
+I tried search myminerva resources but did not get it. Is there a way to get endorsement (like an acknowledgment in writing) from Minerva University that the student is conducting research and has all the designation the student has, like not a recommendation letter but a declaration from the Minervan admininstration, like an acknowledgement from the administration (not professors but like the Board or anyone who can do this)? Has anyone done this already? 
+
+I would be happy to talk to you about it! 
+
+Thank you!!
+User_84f408: (I am a member of different societies so getting an acknowledgement about those designations from my institute of education would be great)
+
+--- Conversation 212 (2024-12-08) ---
+User_7fa6b7: Hey hey! Summer internships  recently opened at stowers -  https://www.stowers.org/gradschool/summer-scholars
+
+Definitely recommend applying if you are interested in biological research:). Seniors can apply too!
+
+They have been taking 2 people from stowers every summer for the last years, so there is a better chance to get in than other places.
+
+They also give a pretty good stipend ($5000) + they cover flights and housing - which is pretty great for an internship in this field
+
+I did that internship twice and now I am a technician at a lab there. I really love it. Feel free to contact me if you have any questions about the place/opprtunity
+
+--- Conversation 213 (2024-12-08) ---
+User_0554ed: I would apply only because you are there
+
+--- Conversation 214 (2024-12-12) ---
+User_52c3df: NS154 symposium part 2 happening now! https://forum.minerva.edu/app/classes/89281
+
+Come if your curious about people’s fermentation :) or wanna learn how to make kimchi
+User_ae5647: Has anyone taken NS142? I have a question!
+User_f68c3c: 142 or 144?
+User_ae5647: 142
+User_f68c3c: Yes, I’m taking it now
+
+--- Conversation 215 (2024-12-13) ---
+User_991aa4: Hi everyone,
+
+A prospective student asked me about Minerva's learning setup, specifically for Natural Sciences.
+
+They're curious about:
+1. Whether there’s any hands-on training in the program. (this is vague but I think they're referring to lab and stuff)
+2. If it could be a pathway to medical school. And if anyone has gone this route, I could connect them with.
+
+If you have insights or know someone who might, please let me know. 🙏
+User_d5ec65: 1- There are not many, no. However, there are partnerships with universities in some cities like Seoul or Taipei. If they are dedicated and proactive about it, they can get their research opportunity through pure cold-emailing. Many people have gone through this route and succeeded but compared to a traditional university it is extra work.
+User_5a2147: I second this, a lot of students manage to have at least one lab experience but it is not guaranteed and requires you to be proactive! That saying, it is doable and minerva do try to sort some, for m25s they helped with opportunities in Buenos Aires and Taipei. And I know of a few who went the extra mile and got others through cold emailing or external networking :)
+User_5a2147: I believe there is an alum that has but I would need to look into it to find the name 😅 which I will happily do after capstone draft deadline ahaha
+
+--- Conversation 216 (2025-01-05) ---
+User_514fce: Guys! Please take NS156!! Just looked at my NS156 class members — we have 7 people… It’s a fun class, so if you have space please join our little class :)))
+
+--- Conversation 217 (2025-01-08) ---
+User_618dde: hello how much work is Physics of Life?
+User_44637c: it’s quite a bit, but I had it with terrana, Wilkins might be a bit easier. definitely easier than physics of the universe from what I’ve heard though
+User_618dde: damn
+
+--- Conversation 218 (2025-01-09) ---
+User_751cc5: My least favorite NS class by far (with Terrana)
+
+--- Conversation 219 (2025-01-09) ---
+User_36eec3: +
+
+--- Conversation 220 (2025-01-12) ---
+User_069ce1: Is there a group chat for NS110U?
+
+--- Conversation 221 (2025-01-13) ---
+User_360add: Hey guys, I am an M28 considering majoring in NS. As someone who potentially wants to go deep into biological research, how would you think the courses set you up for technical depth in your field of interest?
+
+--- Conversation 222 (2025-01-14) ---
+User_7b8666: Telegram gc for folks taking IL120 with Prof Dosmann at 1pm SF time https://t.me/+H2Hkr7AJCcwwYzhh
+
+--- Conversation 223 (2025-01-15) ---
+User_777d34: anyone who has taken NS111 already, were you able to find the 2012 version of the textbook online?
+User_318a08: not sure the person who sent me this wants credit 😅
+User_777d34: haha thank u
+User_f68c3c: A more accurate statement would be “not sure if the publisher wants their money”
+
+--- Conversation 224 (2025-01-15) ---
+User_2d5095: Is there ns111 gc?
+
+--- Conversation 225 (2025-01-16) ---
+User_ae5647: https://t.me/+XrxcPEeWissxMGM0
+
+--- Conversation 226 (2025-01-17) ---
+User_f644b9: talk to wilkins about not having labs, made me look at ns education entirely differently and he made some very good points
+User_94cad8: Now I want to know. What does he say?
+User_f644b9: is a lot of typic but essentially
+User_f644b9: all the skills you learn in the lab is also shit you can learn in a few weeks or as you go during an internship or work
+User_94cad8: (aren't you supposed to focus on the class we are in right now? 😅)
+User_f644b9: bc other programs focus so much on knowing how to put liquids in different flasks they leave out a whole bunch of theoretical education
+User_f644b9: so ns at minerva equips you better as a scientist bc time is not wasted on how to move liquid but rather on broadening the theoretical knowledge you need to be effective in the lab and the little skills you can learn as you go
+User_f644b9: its either scrolling on reels or this tbh hahahaha
+User_ee710e: I think this sounds nice and I used to agree with it but every time I had to work on a lab I feel so unprepared and useless even compared to other undergrad students. Because even then I think we arent taught properly the background of most methods, and we just mention them slightly or not at all, whereas in other universities they know exactly the theoretical background of each of these methods (or maybe this is just sample bias tbh). But yeah I feel like we dont have enough NS courses, and the ones we do are actually not so deep in the theoretical part, as they attempt to cover a very wide range of stuff. Even if you can learn how to do DNA cloning or a western blot in a couple of weeks, understanding the background, and why are you doing what you are doing takes much longer and most other universities do cover that
+User_f644b9: agreed but i do think there is a value in that
+User_f644b9: the wide but somewhat superficial does give you an anchor point to dive deeper into the stuff you acc need on the job
+User_f644b9: learning curve and stuff but i think overall for a wide range of scenarios beyond the basics that are thought in courses it is more valuable just requires more effort in the beginning agreed
+User_ee710e: Sure but it places such a big disadvantage on us trying to find jobs / internships as well, because compared to any other undergrad we are highly unprepared in the short term, because everything they have been doing for years, we have to learn from scratch
+User_ee710e: Idk maybe just biased bc of personal experience, but compared to other undergrads doing biology, I feel so unprepared and unexperienced even tho I do have equal/more experience in labs, just not the conceptual background. Another big thing is grad school applications, since they usually require at least 1-2 years of lab experience and to take practical/lab classes
+
+--- Conversation 227 (2025-01-18) ---
+User_bfb82a: i wonder if this requirement applies to dry lab students as well? since it is mostly computational skills
+User_bfb82a: https://eso.stanford.edu/programs/undergraduate-students
+
+also here are some lab opps for my fellow ns students
+
+--- Conversation 228 (2025-01-18) ---
+User_916a08: Prospective NS major M28-ling would like to thank all of the upper cohorts for acting as the sacrificial sandpaper that smoothed the edges of our profs.
+
+--- Conversation 229 (2025-01-19) ---
+User_36eec3: most other undergrad students still don't know that even after spending time in labs. often times there is a gap between when u learned that technique and when u are applying it again. even you pipetting technique degrades if you stop working on it. But essentially, most equipement you will find in labs, even protocols on things like flow cytometry will be different across labs/companies so you will still have to learn something new. but you will be learning it faster.
+User_36eec3: currently grad school applications are way more competitive. I read a linkedin post of a professor hiring for phd postions who said that especially in machine learning nowadays applicants are so accomplished that if he was in that batch of applicants based on what he had done, he would have never gotten in. That is why a lot of alumni who are at top grad schools took gap years to boost their resumes and experiences.
+
+--- Conversation 230 (2025-01-20) ---
+User_d5ec65: This is a veery long shot but anybody have a STScI referral 🤠
+User_fd5d87: https://school.wakehealth.edu/departments/biomedical-engineering/center-for-injury-biomechanics/summer-research-opportunities
+
+--- Conversation 231 (2025-01-28) ---
+User_777d34: does anyone know where to find information on what graduate programs minerva alumni have gone?
+User_777d34: Here it is incase anyone else is interested: https://docs.google.com/spreadsheets/d/1gq3PiC5_haSO9r9ex3I2jJt8COr2WllGckgL997gU6s/edit
+
+--- Conversation 232 (2025-02-04) ---
+User_4f1f7b: is there an NS113 gc?
+
+--- Conversation 233 (2025-02-09) ---
+User_2d5095: Has anyone taken NS156? Can you like this message — I want to ask some questions regarding the course and assignments
+
+--- Conversation 234 (2025-03-06) ---
+User_a4a8ef: https://www.linkedin.com/jobs/view/4174922442 very recently posted, accepts OPT and is associated with Harvard/MIT. NS friends check this out!
+
+--- Conversation 235 (2025-03-14) ---
+User_e28725: Research assistant job in Genome Engineering:
+
+https://x.com/bkleinstiver/status/1900226556569469255?s=46&t=t2l577FkOdCNZUXrQVfzCg
+
+--- Conversation 236 (2025-03-19) ---
+User_0efe05: Hellooo has anyone interned with Prof. Kinnally for neuro research?
+
+--- Conversation 237 (2025-03-20) ---
+User_92002f: Anyone took both ns125 and cs130? Which one did you find more useful or interesting 🙏
+User_5a2147: I did not but as an NS major I took CS130 and found it such an interesting class, super applicable for research and I had many of those moments where everything 'clicked' so feel as though I've learned a lot from it
+User_a036ad: Can anyone give me review on NS111? Is chemistry part of this course that hard? Especially for people who has a very very superficial knowledge about chem? appreciate a lotttt T^T
+User_b6fd7d: hi i had literally zero chem knowledge and took ns111 (i finally understood the difference of atom and molecule last year). I would highly recommend you to have a review on chemistry concepts. Especially the first unit is entirely on how different elements were formed and how those chemical reactions result in different substances. You don't need to go in details but would be helpful to follow the class. My other friends taking chem (ns113) at the same time seemed to understand the concept more.
+User_a036ad: Thank u so muchhh 
+Who usually teaches that course do u know?
+User_048800: Gale
+User_a036ad: Thankk uuuu 🥹
+
+--- Conversation 238 (2025-04-01) ---
+User_1f11f1: Hello hello!! For the person who don’t have any chemistry/biology background and who are not NS major, which class do you recommend to take, NS111 or NS112? No need to get a good grade but have to pass the course at least. I appreciate any advice especially the workload of the preclass work!! Thank youuu
+User_d1bca3: hi! From my experience, I would say NS111 as in my opinion it does not go deep into chemistry calculations or biology so no need to have a background in any of those (as long as you read the book you'll know what you need to know), and throughout the semester you are following a book "How to build a habitable planet: The story of Earth from the big bang to humankind" by Langmuir, C. H., & Broecker, W. S. (2012) so I would recommend checking it out if you want to know exactly what the class would cover and for NS112 I believe you do need to have some biology background, but still many of the classes include 'background' readings in PCW in case you do not know the concepts so if you don't know it might make PCW longer (when it is already kinda long without it)
+User_5a2147: In terms of general workload ns112 is definitely heavier (still doable) than ns111. I usually recommend ns111 for non NS majors looking to take an elective as it covers a lot of very interesting concepts and basically gives you an understanding of how the planets were formed and life came to be on earth however there is a bit of chemistry and physics in the beginning which is intimidating to look at the first read but nothing too conceptually difficult to understand. Ns112 on the other hand is more of a zoomed in perspective comparatively with a lot of definitions to remember which is where a biology background can come in useful. Still a super interesting course but more biology focused with more technical concepts.
+
+--- Conversation 239 (2025-04-01) ---
+User_12492c: Hello how is ns113 in terms of workload and content? I'm doing CS but am quite interested in chemistry. I'm also potentially considering ns111 instead but leaning more towards ns113. Alternative would be to take econs in ss111 for my breadth requirement. thankss
+User_764489: If you've taken highschool chemistry (IB, IGSCE, AP) there's nothing new to learn in this course. Only took it because it was a core requirement for NS
+User_751cc5: Agree with Adeel here. The chemistry course is a repeat of high school chemistry and presented in a more difficult way than it needs to be imo
+User_1f11f1: [handle] [handle] appreciate your advice a lot!!! I would take ns111 then!! Hope prof Gale is a chill person next semester.
+User_e6c43a: Hi! any reviews on NS166 in terms of workload and the design of the course?
+
+--- Conversation 240 (2025-04-02) ---
+User_12492c: ah thank you! do you know who teaches the class?
+User_dc5617: ns113 is taught by gale only afaik!
+User_7c255b: is there any information regarding which prof with each course?? (i think i have seen before but cant find TT)
+
+--- Conversation 241 (2025-04-03) ---
+User_982903: https://youtu.be/zOmhHE2xctw?si=krMIA2vLVbuxsTt3
+
+--- Conversation 242 (2025-04-04) ---
+User_3d57a5: Same question ^^ 🥹
+
+--- Conversation 243 (2025-04-04) ---
+User_df9f1b: https://www.sf-uap.com/uap-hackathon-biologics this can be a cool capstone for juniors
+
+--- Conversation 244 (2025-04-25) ---
+User_09dde9: review of ns111 with gale👀?
+User_318a08: As long as you do the PCW properly (usually one chapter from a book - which Gale helped write - per session; took me maybe ~2h at a time), you'll get through the classes just fine. I found the content very interesting and Prof. Gale a great instructor. You'll probably be familiar with a lot of the concepts in the first sessions if you watched Nat Geo documentaries as a child, but usually in the course you go deeper and talk about the methods/tools used to verify those theories (surprised me how smart those get).
+
+Small downsides: she cold-calls a lot. The assignments were pretty painful to go through, and the grading on those is a bit on the stricter side (but I almost never like NS assignments).
+
+Overall, the sessions really added understanding I wouldn't get from the book (most of the time). It's like a nice, relaxed book club but then you have assignments.
+
+--- Conversation 245 (2025-04-25) ---
+User_360add: Can someone please send me the current syllabus of NS112 and NS113?
+User_09dde9: it’s on myminerva
+User_09dde9: thank you so much!!!!
+User_360add: I found the course catalog, but it doesn’t include the syllabus?
+User_09dde9: go into college pages
+
+--- Conversation 246 (2025-04-25) ---
+User_8234f5: you can skim through all class syllabi here https://forum.minerva.edu/app/syllabus/ + add the course code, so https://forum.minerva.edu/app/syllabus/ns112 in this case
+
+--- Conversation 247 (2025-05-06) ---
+User_318a08: Long shot but... has anyone worked with labs in Taipei? 😁
+User_a4a8ef: [handle]
+User_751cc5: a lot of M25s did with NTU partnership
+User_318a08: Awesome! Did you reach out to them during summer or did the STL help you during the first few weeks? I'm interested in one more bio* experience
+User_e28725: For M25s, the SLT organized it for us (with some minor exceptions) because they didn’t want many people separately reaching out to NTU faculty. I’m not sure if that changed for the subsequent classes, you should ask them directly
+User_97915e: check out academia sinica for summers
+User_76c184: a lot of M27s worked with labs at NTU too last fall and we were advised to email profs we were interested in directly
+User_b2fa71: If you’re interested in science communication and new media, here's a free, once-a-week course coming up that’s open to undergrads! It’ll feature expert speakers from science, journalism, and social platforms — and you’ll get a certificate at the end.
+I’m part of the team organizing it, and we’re really excited to open this opportunity to more people.
+Applications are due May 10th! :)
+User_b2fa71: https://scopepolicy.org/new-media-course/ (https://scopepolicy.org/new-media-course/)
+
+--- Conversation 248 (2025-05-08) ---
+User_a3d8e7: Can someone PLEASE EXPLAIN THE COURSE REQUIREMENTS for the Matter and Energy Concentration?
+Or any NS concentration at all
+
+--- Conversation 249 (2025-05-08) ---
+User_318a08: You have 4 core courses: NS111, NS112, NS113 (Earth, chem, evo bio), and NS110L OR NS110U (physics of life or of universe). You can choose to do either NS110 course for most majors, but you need NS110U for the physics major (Matter and Energy). Note that NS110U needs CS111 (calculus) as a prereq (you need to take CS111 before you can take NS110U), and concentration courses such as NS142 (quantum physics) also have CS113 (linear algebra) as a prereq. These prereq maps and sample schedules for majors can be found on the NS academic advising page on myMinerva.
+User_318a08: Also, the NS college is pretty small, so concentration courses may run once per year or less (I heard NS142 didn't run for two whole years at some point). You can usually get a "this is(n't) likely to run next year" from Prof. Donnely/Prof. Wilkins before the lottery is out (college advising OH)
+
+--- Conversation 250 (2025-05-17) ---
+User_048800: I got wet lab experience by working with TMU (taipei medical university). It was a civic project partnering up with a professor from tmu but you can go a step further and work/shadow in their lab.
+
+--- Conversation 251 (2025-05-20) ---
+User_a4a8ef: https://www.linkedin.com/posts/global-south-opportunities_good-news-the-conservation-and-communities-activity-7330314628427599873-dPZH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADNXLnoBAxoCWl74Jts7CVBbt5crMQMhTqg
+
+--- Conversation 252 (2025-05-28) ---
+User_896964: Hii! I’ve been exploring some neuroscience topics on my own and was wondering if you have any journal recommendations that tend to have credible papers
+
+--- Conversation 253 (2025-05-28) ---
+User_52c3df: Depends on your area ig and also what you consider “credible” 
+These days even things published on nature are not reliable 🥲
+User_8bbbff: I feel like a lot of what is done in the psychology SS core is neuroscience, so maybe check out the syllabus and get ideas from there?
+User_51212c: This is where the HCs and LOs come in :D
+
+For human subject research, think about #significance based on effect sizes and sample sizes. Does the author acknowledge the limited generalizability of their work? Or are they trying to make claims about an entire population from a sample size of 10?
+
+Look at their methods and measures. Is the measure reliable and valid for the desired #levelsofanalysis? (SS110).
+
+Also remember that there are multiple levels of analysis when it comes to neuroscience, and that these often interact with each other, so even if you're studying the gene level be sure to look at the brain region level and psychological level (for example) (This is what you learn in SS152)
+User_896964: I think the area I’m studying is behavioral neuroscience (?) about dopamine, neuroplasticity , etc
+User_896964: Ohh great idea
+User_896964: Hmm yeah. Weird to admit but I applied some of things I learned from ss110 while studying about it !
+User_896964: Thank you guys for the tips !!
+
+--- Conversation 254 (2025-06-13) ---
+User_e28725: https://www.linkedin.com/posts/nucleatedojo_airtable-everyones-app-platform-activity-7338954501879492610-odcG?utm_source=share&utm_medium=member_ios&rcm=ACoAADRILU8BvTE57UH5I8LSRTyzFoyt0TzBuiM
+
+This program supported me throughout the last academic year. If you have any questions, feel free to reach out!
+
+--- Conversation 255 (2025-06-20) ---
+User_935186: Hi I am Merrick, I am from M27, I am a comp sci and philosophy major, but I have been recently interested in ethnobotany and genetic engineering. I was wondering if anyone in NS has tried to pursue anything related to this, including students or professors, or what classes are related to this.
+
+--- Conversation 256 (2025-06-25) ---
+User_d5ec65: Hey guys, Minerva does not have a grant for conferences right? 😭😭
+User_5baedc: Not as far as I know now, and I tried reaching out to them a couple times about this before
+User_d5ec65: yeaaaa
+User_d5ec65: thank you thank you
+
+--- Conversation 257 (2025-06-25) ---
+User_84f408: Nope, they dont
+
+--- Conversation 258 (2025-06-27) ---
+User_7c255b: Virtual Cell Challenge: Toward a Turing test for the virtual cell
+https://www.cell.com/cell/fulltext/S0092-8674(25)00675-0
+bio/CS relevant opportunity
+
+--- Conversation 259 (2025-07-15) ---
+User_d5ec65: [handle] in grad schools, how did you overcome Minerva's lesser known reputation? I heard from a graduate school admission person who has been working for over 30+ years that even with a very high GPA some admission committee members do not like applications from lesser known institutions.
+
+On a similar node, did anyone take the physics GRE and have advice?
+User_bbcb04: I haven't heard of Minerva's reputation being a problem yet. If there is an "additional information" section in the application, always use it to write about Minerva's NS curriculum structure and how it differs from traditional institutions. Don't write it in a blameful way that Minerva makes you a disadvantaged applicant, but elaborate on the extra barriers objectively. For me, I wrote that astrophysics is not offered at Minerva because we have a small physics faculty, and we don't have labs so I had to reach out to labs of local institutions to do experimental research. Contextualizing your research/teaching experiences would make them sound much more hard-earned and add value to your overall application. Hopefully it would prompt them to google Minerva!
+
+I was also told that NS professors would usually write a bit about Minerva's curriculum. I imagine they would sign off with some helpful credentials? I think all of our profs come from reputable institutions.
+
+Beyond that, I don't think there's anything much you can do, and it's kinda beyond your control so don't feel too pressured. I think if schools discriminate against other schools purely on reputation, that's a red flag to begin with.
+User_d5ec65: Thank you legend! The admission guy that I was talking to gave an example story for another institution. I think the gist of it was that for higher ranked institutions there is so much competition that they could potentially prioritize someone from another institution that they know of. 
+
+This is quite helpful though and I appreciate to hear that no one experienced this yet.
+
+--- Conversation 260 (2025-07-16) ---
+User_f1a281: Could anyone taking NS112 let me know what time it is scheduled for next semester? That would be incred helpful, thank you!!
+
+--- Conversation 261 (2025-07-17) ---
+User_39d2bb: Tokyo time: 8 am, Wednesdays and Fridays.
+
+--- Conversation 262 (2025-07-30) ---
+User_b6fd7d: how's the workload of ns144 (both pcw- and assignment-wise)? i'm thinking of taking it as my one last elective in my senior year along with cs166. I'm not super into bio but still interested in the topics on that class :))
+
+p.s. took ns112 ages ago in 2nd year
+
+--- Conversation 263 (2025-08-01) ---
+User_921ddc: hii any tips how to prepare for NS166? (it will be my first NS class for the sustainability minor) thank you🌷
+
+--- Conversation 264 (2025-08-05) ---
+User_4f2b74: Helloooo, would any NS majors/minors be happy for me to pass on your Telegram details to an incoming M29 who has some questions about lab work at Minerva?
+
+--- Conversation 265 (2025-08-07) ---
+User_6c0662: Hi!👋🏾 hi vouch for everything that Jun Qi said. Do not sell yourself short or put out Minerva down in the application. 
+
+BUT I did have two different committees reaching out to my recommendations letters writers asking their opinion  if they think I would struggle too much (they did not ask the same thing for the Minervan professor that wrote my letter). And this comes from the curriculum not being the strongest (I.e studying open college physics book in NS110U while others colleges look at griffins,Kardar etc.
+
+I would say that is the main disadvantage coming from Minerva, showing what books you used (or did not use in this case). And people judge this on your preparation. 
+
+I opened up the undergrad curriculum at my grad school, and I can say Minerva is indeed behind, and that made sense why they questioned it even though on my cv I had great research skills. For example, here the undergrad classes go from 200-400, and they do use the open physics book in the 200 level classes, so for me it made sense they questioning if I had content knowledge of the levels 300-400.
+
+
+I definitely recommend taking the GRE physics (when I was at Minerva several professors said  it was useless). I disagree, I think if you get a good score it will show that you know the basics for first year grad school. My recommendation is to give yourself time to study and practice, using the gre physics, because unfortunately some important fundamental content we do not see at Minerva ( at least while I was there). 
+
+
+Context: I am a M22 doing PhD at the university of Michigan, applied without GRE, I had two  top scientists write me rec letters, which I think helped me a lot. 
+
+Feel free to reach out (I’m not good at telegram lol), but I am happy to help with essays or advice.
+User_d5ec65: Yeah, this makes the most sense honestly. That is what I have been hearing as well! Thank you so much, I will reach out soon <3
+
+--- Conversation 266 (2025-08-21) ---
+User_a3d8e7: How was NS142 for people who’ve taken it?
+
+--- Conversation 267 (2025-08-22) ---
+User_d5ec65: Depends on your background but for me it was my favorite class, I liked the content and the class environment. The content might be a bit hard depending on what you are familiar with as it is quantum but it covers most of the undergrad QM. I would recommend reviewing CS113, you will see a lot of matrix manipulation and vectors as well as differential equations. Ideally, the course would be better understood after taking CS154 but it is still doable without (all of us did it without last year).
+
+--- Conversation 268 (2025-09-08) ---
+User_ae5647: Do we have a group for NS144?
+
+--- Conversation 269 (2025-09-08) ---
+User_52c3df: Is there a group for NS111?
+User_52c3df: And does anyone have the pdf for the main book from NS111? (“How to build a habitable planet”, 2012)
+User_09dde9: yep! let me add u
+
+--- Conversation 270 (2025-09-09) ---
+User_318a08: group chat for NS142? 🥺
+
+--- Conversation 271 (2025-09-11) ---
+User_764489: Who is the TA for NS111?
+
+--- Conversation 272 (2025-09-18) ---
+User_fd5d87: Fourth Annual NS Student Research Symposium coming soon. Did you do a research internship or project over the summer? The Symposium is a wonderful opportunity to share what you have been up to with the wider NS Community and practice your presentation skills. Please complete the form here ASAP. Prior symposiums can be found here: https://my.minerva.edu/academics/colleges/natural-sciences/student-research-symposia/
+
+--- Conversation 273 (2025-09-23) ---
+User_7d817e: Question for biology peeps: just read about an AI generating 302 candidate viruses, of which 16 were successful in killing an antibiotic resistant bacteria (https://www.nature.com/articles/d41586-025-03055-y). 
+
+wondering how much of an efficiency gain this is. like how long would it have taken human scientists to do this via trial and error with previous methods
+
+--- Conversation 274 (2025-10-01) ---
+User_b2fa71: Passing along a few opportunities at SCOPE - https://scopepolicy.org/join-our-team/ (https://scopepolicy.org/join-our-team/)! We're looking for people to host conversations and create educational opportunities at the intersection of science policy and communication to build the next generation of policy-aware scientists. They're low-commitment roles that would really help us shape our organizational vision and allow you to pursue your interests, for whatever career you're interested in. No experience in science communication is needed, and it's a great resume builder! We're hosting an information session (https://docs.google.com/forms/d/e/1FAIpQLScwfejaDCDK6jnsvDJG_qZS29Cw3aBc4qp8LOcZe0BAOoi6vA/viewform?usp=header) next Monday, 10/6 at 3 PM EST to answer any questions you might have about SCOPE & our open positions. Please also feel free pass along to people in your networks that may be interested!
+
+--- Conversation 275 (2025-10-10) ---
+User_9fdc87: Hey NS Majors and Minors! Would anyone be willing to join students/alumni panel for prospective students on October 16 (Thursday) 8 am PST/ 11 pm Taipei/ 12 pm BA/ 12 am Tokyo (it’ll be oct 17 in Tokyo)!! You can get work study hours for this, and do a good deed by aligning expectations with realities haha
+
+Please dm!!
+
+Edit: we found a person but if you really want to, you probably can :)
+User_048800: i can!!
+
+--- Conversation 276 (2025-10-14) ---
+User_b2fa71: Are there any current seniors or recent grads that are interested in graduate school in the biological sciences here? My graduate school just had some funding released from the NIH for our PREP program (https://www.cshl.edu/education/prep/), a one-year fully-funded research position where you conduct research & get mentorship on applying to PhD programs in biology. There's research areas across cancer biology, genetics, data science, neuroscience & AI, and other fields - happy to chat about my experience at CSHL & answer any questions! Unfortunately I think the PREP program is open to only US citizens & permanent residents but the summer internships at CSHL are open to anyone - will share more info about that soon!
+
+--- Conversation 277 (2025-10-26) ---
+User_bf2c9f: has anyone written their ns166 assignment about Matanza-Riachuelo river basin? would love to ask some questions
+
+--- Conversation 278 (2025-10-27) ---
+User_3f5641: Hi! Does anyone know if Kinnally will still teach NS112 next semester?
+User_764489: Stein will teach it next semester
+User_764489: According to the current update.
+User_792c42: save it for when wilkins teaches it :) 
+
+(maybe next year)
+User_3f5641: Can’t do that hahahah
+User_7c255b: where can we see the update??
+User_764489: I am the TA next semester as well
+
+--- Conversation 279 (2025-11-05) ---
+User_0efe05: I spoke to Stein this weekend, and she said that Kinnally will be teaching it (as Stein is focusing on the grad program)!!
+User_0efe05: Does anyone know who will be teaching NS110L though?
+User_76c184: usually wilkins. I think terrana is the other prof teaching it but she is only doing cornerstones now i think
+User_76c184: but u should take ns110U, its cooler 😎
+
+--- Conversation 280 (2025-11-05) ---
+User_672a2f: Prof. Moy, she said it'll be her first time teaching NS110L
+
+--- Conversation 281 (2025-11-11) ---
+User_6c0662: Applications are now open to attend APS CU*iP 2026 in Denver from March 14-15.
+
+This conference provides undergraduate students with opportunities to:
+🤝connect with peers and physicists
+💬 Attend research talks and panel discussions
+💼 Explore graduate school and career pathways in physics
+
+Learn more about the event and apply here: 
+https://go.aps.org/4qORZ1o
+User_6c0662: Hello, if you like physics and is in the US highly recommend! They help with travel expenses
+
+--- Conversation 282 (2025-11-12) ---
+User_76c184: NS advising session happening here NOW https://class.minerva.edu/classes/98464
+
+--- Conversation 283 (2025-11-15) ---
+User_dc847c: Hey, does anyone know if NS113 will be offered next fall semester?
+User_426c74: I think it'll be offered with Prof Gale teaching it afaik
+User_dc847c: i hope so, thank you
+
+--- Conversation 284 (2025-11-18) ---
+User_764489: Please like if you are taking NS111 next semester
+
+--- Conversation 285 (2025-11-19) ---
+User_e6c43a: Hi! Can I ask a couple of questions to someone who's taken NS146 before?
+User_b2fa71: If you're interested in summer research or a PhD in Biology/BioAI at CSHL, applications are open! https://www.linkedin.com/posts/cold-spring-harbor-laboratory_cshls-school-of-biological-sciences-sbs-activity-7396219294071685120-K_j6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACU1umMBKlbUcDiM5NsjnntC63GnGyz_RMc
+User_b2fa71: Happy to answer any questions about either or my experiences at CSHL, their summer research programs are also open to anyone enrolled in a US university regardless of citizenship!
+
+--- Conversation 286 (2025-11-20) ---
+User_9cb696: can i double check that ns166 isnt being offered next sem (spring 2026) but will be offered the sem after (fall 2026)?
+
+--- Conversation 287 (2025-12-11) ---
+User_e28725: https://www.hhmi.org/programs/cech-fellows
+
+--- Conversation 288 (2025-12-20) ---
+User_d3b4e3: Hi! Does Prof. Donnelly check Slack at all? Does anyone know?
+
+--- Conversation 289 (2026-01-03) ---
+User_d3b4e3: urgent - is there a way to get in touch with Prof. Donnelly asap? any suggestion is welcomed - thank you
+
+--- Conversation 290 (2026-01-05) ---
+User_dc1500: Has anyone ever pursued medical school after attending Minerva? If so, what did the process look like applying to med school after Minerva.
+
+--- Conversation 291 (2026-01-12) ---
+User_5d32f4: does anyone have NS156 note?
+
+--- Conversation 292 (2026-01-14) ---
+User_088b00: NS110L chat https://t.me/+xao85Fv0agA1ZDMx
+
+--- Conversation 293 (2026-01-25) ---
+User_3c9f09: Does anybody know Prof. Richard's email?
+User_ecc7d8: [email]
+
+--- Conversation 294 (2026-01-31) ---
+User_fd5d87: Interested in research or already involved in a lab?
+Join an informal NS workshop to discuss research opportunities at Minerva, survey results from NS students, and how to get involved in research across cities.
+
+This session will include:
+A discussion of current research opportunities for Minervans
+Insights from student survey results
+Open Q&A about finding, starting, and navigating research experiences
+A chance to connect with NS faculty and staff
+
+Especially encouraged: 2nd & 3rd year students. Open to all NS students.
+🕠 Time: UTC: 01:30 AM, Feb 7
+https://forum.minerva.edu/app/courses/455/sections/28/classes/101199.
+
+--- Conversation 295 (2026-02-01) ---
+User_6c0662: Hello!! If you like astronomy and coding apply for this: https://semaphorep.github.io/codeastro/ 
+
+It is a bootcamp open for undergraduates ( and graduates) in Northwestern sponsored by Simons Foundation (a science foundation with lots of money!!)
+
+They cover expenses!! Last year they paid for a M25 to come from the Philippines
+User_6c0662: Wolu Chuwku M22 (international student perspective). And I believe Jana Bethany M19 (American student perspective). I believe there is a recent NS panel where Wolu was talking about medical school, might be worth to reach out to Donnelly
+
+--- Conversation 296 (2026-02-06) ---
+User_fd5d87: Dear Berkeley Faculty & Staff,
+On behalf of the faculty at the Computational Health Informatics Program (CHIP) at Boston Children's Hospital & Harvard Medical School, we would like to extend an invitation for your undergraduate and graduate students, as well as alumni, to apply for the upcoming Summer 2026 internship (initial deadline of February 9).
+
+Our research at CHIP and the various faculty labs explore the intersection of medicine/bioinformatics, public health, the social sciences, and computation within a variety of fields such as AI/machine learning, natural language processing/LLMs, genomics, population health, regulatory science, technology development, data science driven social justice/political science, and more.
+
+Our faculty have been recognized by and previously advised various institutions, including the White House, the CDC, the US Department of State, USAID, NASA, and many others. Additionally, CHIP has established partnerships with companies like Uber, Lyft, Quest Diagnostics, and Eli Lily and have developed platforms, such as pioneering/inventing thefirst personally controlled health records and APIs mandated by law, that have been widely adopted by Apple, Google, Microsoft, Amazon, and others.
+
+Additionally, CHIP graduates hold leadership positions in academia and industry, both nationally and globally, that provide students access to an extensive alumni network for their professional development.
+
+The internship application and further information/details may be found at: https://www.chip.org/internship/chip-ai-internship.
+
+If you have any questions, please do not hesitate to reach out to us at [email].
+
+Best,
+
+Office of Admissions
+Computational Health Informatics Program (CHIP) | Boston Children's Hospital
+https://www.chip.org/training
+
+--- Conversation 297 (2026-02-07) ---
+User_fd5d87: Happening now! https://forum.minerva.edu/app/courses/455/sections/28/classes/101199.
+
+--- Conversation 298 (2026-02-25) ---
+User_3f5641: Hi! Has anyone been able to take NS113 (Chemistry) and NS154 (Biochemistry) at the same time before?
+
+--- Conversation 299 (2026-02-28) ---
+User_048800: Hey everyone! 
+
+NS JOB PANNEL is happening now and IT'S REALLY COOL! 
+
+https://minerva-edu.zoom.us/j/94068301551?pwd=HI2djbT3iqhHp6217QUQVieWXSWeqT.1
+
+--- Conversation 300 (2026-03-05) ---
+User_fd5d87: Rhali Attar (M24) is having his Qualifying Exams at UC Boulder this Friday, March 6. It is open to the public. Minerva students welcome! Thermal Signatures of Plume Deposits on Europa (see abstract below).
+
+When: Friday March 6th at 17:15 UTC/9:15 am PST
+
+Where: https://cuboulder.zoom.us/j/95693637229
+
+
+Abstract:
+Europa's icy surface contains a diverse set of geological features but the existence of cryovolcanic eruptions remains highly uncertain. In this study, we explore an alternative method for the detection of such activity. During an eruption, solid ice particles in plumes would be deposited on the surface and accumulate around the vent. We propose that these plume deposits have distinct thermophysical properties that would measurably affect diurnal surface temperature measurements. To explore this hypothesis, we simulate plume eruptions throughout the surface of Europa and use a thermal model to simulate their diurnal thermal variations. We then analyze the detectability of these thermal anomalies using Europa Clipper's E-THEMIS instrument. We also simulate the effects of ion sputtering on the thermophysical properties of the deposits to investigate how detectability is expected to change on geologic timescales. We find that detectability is likely constrained to plumes sourced from subsurface intrusions younger than 40 thousand years old.
+
+
+Plain Language Summary:
+Europa is one of the four largest moons of Jupiter and its surface is made of water ice, laying on top of a global subsurface ocean of liquid water. While Europa is extremely geologically diverse, we have yet to determine if it experiences volcanism. Unlike on Earth, Europa's volcanoes would erupt water vapor and ice particles; we call these cryovolcanoes or plumes. These could be sourced from the subsurface ocean or from water pockets in the ice crust, called subsurface intrusions. After an eruption, the area would be covered in ice particles which would form a plume deposit. In this study, we use models to explore whether the daily variations in temperature of these deposits would be different enough from the daily variations in temperature of Europa's surface that we could detect them. Moreover, Europa is being bombarded by high energy particles trapped in Jupiter's magnetic field which very slowly destroy the ice particles that form the plume deposits. So, we also model this process to analyze how long it would take for a plume deposit to no longer be detectable. We find that plumes sourced from subsurface intrusions would be detectable for around 40 thousand years.
+
+--- Conversation 301 (2026-03-06) ---
+User_618dde: Darlings has anyone ever struggled a lot with NS110L with Prof Terrana? Beyond the material with the structure, expectations, and style of the class?
+
+--- Conversation 302 (2026-03-09) ---
+User_8eab43: Have anyone taken lab courses in any other university and transfer those to minerva? Any college (or rotation) recommendation for that?
+
+--- Conversation 303 (2026-03-19) ---
+User_1927de: Hey guys! Is there anyone here doing the Physics concentration? (I think it’s matter and energy?)
+User_318a08: Yes
+
+--- Conversation 304 (2026-03-30) ---
+User_618dde: Is anyone interested in doing a college wide push against OpenStaxx? Those books are horrendous edited with feet!
+User_d0baaf: Really? They're pretty helpful imo
+User_d0baaf: Better than Davidovits in this physics core course, at least, and much better than abominations like Blitzstein and Cormen (booooo)
+User_618dde: Teach scientists to write challenge 😭
+
+--- Conversation 305 (2026-04-02) ---
+User_751cc5: Hey hey! the NGS + TNC marine conservation externship is open for new applicants. FULLY REMOTE & STIPEND!
+
+I did this externship my freshman year, and it is an incredible way to network and talk directly with National Geographic & The Nature Conservancy Staff (includes a route to potentially be NatGeo Youn Explorer, too!)  There is a stipend for the work & option for $2000 in seed funding for a project of your design. 
+
+
+Here's a referral link to help get you in the program :D
+https://extern.referral-factory.com/ukwnPx3w
+
+--- Conversation 306 (2026-04-11) ---
+User_d0baaf: Does anyone know who teaches NS152 and NS162? Thank you!
+User_ecc7d8: Prof. Wilkins is teaching NS162 this semester, not sure about next spring
+User_d0baaf: Thank uuu i'm thinking of dipping into NS as CS major, I already have Ns110 and prob taking NS113 next, opening up Ns152 and 162
+
+--- Conversation 307 (2026-04-12) ---
+User_f07979: ns152 is prof moy :))
+
+--- Conversation 308 (2026-04-12) ---
+User_f73e5d: How intensive is NS113 over NS112? Can I do it alongside core CS classes
+User_df9f1b: NS113 content is fairly easy (HS chem) but the expectations in assignments is very high and specific. Harsh grading.
+User_df9f1b: NS112 PCW is more time intensive (~2-2.5 hrs) and assignments are fair
+
+--- Conversation 309 (2026-04-13) ---
+User_09dde9: RA research refer opps for people interested in quantum sci and matter physics!
+
+--- Conversation 310 (2026-04-14) ---
+User_426c74: Hello. Which has lighter workload? Ns144 or NS154?
+User_ef74a6: in my opinion this is a very close competition because both had heavy workloads
+but NS154 was lighter
+User_426c74: What about assignments? Which one has easier ones? Or if you know the profs for the courses as well, that'll be helpful ✨
+User_ef74a6: I had NS144 with Wilkins, NS154 with Stan
+NS144 has multiple problem sets, so smaller than assignments but more frequent and they always closed after 1 day
+NS154 has 1 large fermentation project :)) so all the assignments are connected to this, we had 30min lab meetings with Stan every 2 weeks to discuss the project, and the final week was a symposium, everyone presented their final assignments
+User_ef74a6: not sure which assignments were easier because they were just so different and very fun!! We made a genetics meme for NS144 😁
+
+--- Conversation 311 (2026-04-15) ---
+User_751cc5: 🦧🦧 Hiiiiiiii I am starting a reading group for the book "Decolonizing Extinction: the Work of Care in Orangutan Rehabilitation" by Dr. Juno Parreñas. If you're interested in conservation, wildlife science, or gender studies intersections with all of this and would be interested in the reading group, lmk! We would love to have you :D 🦧🦧
+
+--- Conversation 312 (2026-04-15) ---
+User_97e42f: Who teaches NS166 normally?
+User_b6fd7d: Prof Gale ig
+
+--- Conversation 313 (2026-04-20) ---
+User_6c7187: Urgent! Guys do you know what time is NS166 this fall? I have sus minor but can't select it, but the time would impact my choice/rank of this course.
+User_09dde9: its all on the course offering spreadsheet
+User_09dde9: https://docs.google.com/spreadsheets/u/0/d/1JdVrlEcg8RV8MNAzJd12PGlItkR5SF2uyXFiQX6QWpA/htmlview#gid=2088188425
+
+--- Conversation 314 (2026-05-07) ---
+User_b6fd7d: For those who had interviews during PhD application - any helpful tips/advices/resources for interview prep? I'm having an interview for PhD program in a few weeks (not in US, but very similar system) and trying to see how i can prepare well for it. I'm also planning to do a different field than what i did during Minerva, so if anyone had similar experience I would appreciate your thoughts as well! i can also give more details in dm if needed
+User_777d34: https://careers.amgen.com/en/job/thousand-oaks/postbac-fellow-research-thousand-oaks-ca/87/93737258688
+https://careers.amgen.com/en/job/south-san-francisco/postbac-fellow-research-south-san-francisco-ca/87/93737257072
+The above links are for Amgen’s Postbaccalaureate Program which is currently recruiting for their San Francisco and Thousand Oaks sites.
+They are seeking recent STEM graduates who plan to pursue Ph.D. or M.D. degrees and would like to gain two years of paid industry experience to strengthen their training and enhance their future success.
+Applications will be accepted through May 15 and successful candidates will start work in late July.
+
+--- Conversation 315 (2026-05-14) ---
+User_b7a5d1: Hey guys
+I just emailed Prof. Donnelly about NS154, and she told me that it will not run this Fall because there aren’t enough students interested and it will not run again until Fall 2027.
+So if you’re interested in taking NS154 this semester, please react to this message. Maybe if enough people are interested, we can appeal together and request for the course to still run this Fall.
+
+--- Conversation 316 (2026-05-15) ---
+User_3f620b: What day and time is ns112 being offered next semester?
+User_f73e5d: NS112 - Evolution Across Multiple Scales: 08:00 WF Japan
+
+--- Conversation 317 (2026-05-23) ---
+User_ee710e: If anyone is interested in doing work for a publication on hepatitis b hmu!
+
+—-full—-
+
+--- Conversation 318 (2026-05-31) ---
+User_6d73bc: Can someone share the link to the degree planner Donnelly sent us to keep track of our credits/ courses?
+
+--- Conversation 319 (2026-06-01) ---
+User_27be99: I think u can find it on myminerva
+User_27be99: Clicking on (Degree) on top, as far as I remember
+
+--- Conversation 320 (2026-06-02) ---
+User_d3b4e3: Sharing this cool opportunity in case anyone is interested:
+
+Frontier Biodefense Fellowship
+https://www.pivotal-research.org/fbf
+
+--- Conversation 321 (2026-06-03) ---
+User_4e0cf1: Hi friends! For those who started grad school after graduation, were you able to defer the principal payment of climb loans? UAS and LAUNCH are being very sketchy. Otherwise, how are you managing the loan?
+User_b6cf6b: Yes you can defer it, I think I remember getting on a call with them to figure out how to do that, but maybe you could just do it online

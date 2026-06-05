@@ -1,0 +1,939 @@
+# Topic: Classes
+
+--- Conversation 1 (2022-11-07) ---
+User_150a45: I'm commander Shepard, and CS110 is my favorite class in Minerva [checking how it works with general chat]
+
+--- Conversation 2 (2022-11-08) ---
+User_617368: Hi has anyone tried to switch class sections just for one session? Who do I email??
+User_8e115b: I remember someone doing it in one of my classes so it should be possible but no idea who to email. You can always start with your prof
+User_617368: Thanks! Yeh the Prof is currently sleeping probably so wanted to know other point of contact that would respond b4 class. Thanks tho!
+
+--- Conversation 3 (2022-11-09) ---
+User_c177ea: here is a visualisation of the course times for next semester from the profs! note that it is subject to change (especially cp192 times) but should reflect with the spreadsheet we were sent yesterday :)
+
+--- Conversation 4 (2022-11-12) ---
+User_74a5d5: If we don't fill up the Alternates courses in the Course Lottery, then does that mean there is a chance we will be assigned random courses?
+User_b5e389: I don't think you can get something out of the ones you list; can we?
+(Based on an old convo with Reed)
+User_b07213: unless u need it for your major and they have some space for instance prof. kern said that we sometimes have 21-22 ppl in one class becasue there are some people who really need that class so for major related you might be able to get but any elective there might be a case that all the alternatives are filled so you can get random.
+User_e118cc: Yes you can :)
+Got NS110L last fall as a CS+SS major :D
+User_b07213: here i was worried that I won’t get NS110L as an NS major.
+User_b0c3cb: I got business classes too although I do not have anything to do with BZ
+User_be9083: There's still a chance of getting a random course even if you fill the alternatives, but it should be very unlikely
+
+--- Conversation 5 (2022-11-15) ---
+User_0de2a3: Can any professor be a capstone advisor?
+
+--- Conversation 6 (2022-11-15) ---
+User_56d8b3: In general, how much work are tutorials compared to concentrations?
+User_c177ea: less
+User_c177ea: (unless you're a CS major ask them specifically about their tutorials (some of which run twice a week apparently))
+User_43d3eb: All tutorials are supposed to meet twice a week, however only 1 session is with the professor and the other session can be just student led and it might be structured coworking but ideally you do some progress in covering some content for next session with the professor
+User_c177ea: or you could meet once a week and be happier
+
+--- Conversation 7 (2023-01-09) ---
+User_c17b3b: anyone took CS130 and willing to share notes ?
+User_c17b3b: i would be deeply grateful
+User_9f9a4a: yep https://finnmacken.notion.site/b1c48cfb15f940a1a0b58553519e6359?v=049a12b5337e4b41998ea3e9787aad4b
+User_c17b3b: Thank you !!
+
+--- Conversation 8 (2023-01-10) ---
+User_c17b3b: does anyone have notes for NS164?
+
+--- Conversation 9 (2023-02-28) ---
+User_346e1d: Has anyone taken IL199 twice? I already took it and passed it, but I am doing an internship this summer as well and would not mind them extra credits. I just don't know if they are cumulative.
+User_b2fa71: I did! What do you mean cumulative?
+User_346e1d: Like it is 4 credits, right? If I take it twice, do I have 8 credits to play around or do credits do not even work that way?
+User_b2fa71: Yep! You can get the 4 credits twice (so I have 8 IL199 credits) and they both just say pass on your transcript:)
+User_b2fa71: But just a note, the maximum number of credits you can use from IL199 or other courses outside of Minerva is 8, so if you're planning on using anything else you won't be able to
+User_346e1d: Ah. I see I see. Thanks!
+
+--- Conversation 10 (2023-03-01) ---
+User_b5e389: Anyone knows who usually teaches ns152?
+User_b5e389: Also ns162?🥺
+User_0d1aa3: used to be zoogman, this semester it is Moy
+User_0d1aa3: used to be Howe, but i dont think he is at Minerva anymore so who knows
+User_b5e389: I guess I'll give up minoring in atoms and molecules then
+User_0d1aa3: yes, ns152 sucks, but i think it would suck with zoogman too (the course is just bad) and the other courses in the minor are good... I did a minor in molecules and atoms, so if you are debating it and want to discuss it with someone feel free to reach out:)
+
+--- Conversation 11 (2023-03-15) ---
+User_74a5d5: If you replace a tutorial with IL99, does that mean you take another class in its stead?
+User_e0d81f: To graduate you need to meet a series of requirements (120 credits, at least a major and a concentration + breadth requirement, etc). As long as you meet all the other requirements, you’d be able to not take the tutorial and instead do the IL199 course, but you need to make sure that your IL199 credits get applied towards your major. When you sign up for IL199 there’s a field that asks which major your experience mostly aligns with, and it must be the same as your major for it to waive the tutorial requirement
+User_e0d81f: You can still take a tutorial if you want, you can also transfer credits, or take a normal class, as long as the total number of credits is at least 120
+
+--- Conversation 12 (2023-03-21) ---
+User_a6494c: Is there anywhere we can read about IL199 process and requirements?
+User_792c42: https://course-resources.minerva.edu/uploaded_files/mu/00313229-3771/course-catalog-rev-223.pdf
+
+p 52-53
+
+--- Conversation 13 (2023-03-28) ---
+User_8a6913: Has anyone failed Capstone seminar class in 3rd year cuz of more than 2 absences? Got the 3rd one cuz of late arrivals, and now wondering if it is worth being concerned. 🤔
+
+--- Conversation 14 (2023-03-31) ---
+User_c43aff: has anyone taken the mental health at levels of analysis tutorial? could i ask a few questions?
+User_b5d9b9: I'm currently taking it
+
+--- Conversation 15 (2023-04-01) ---
+User_1766cd: have the lists for m24s tutorials been released? in which semester each tutorial will be, who will be taking them, how many people they have in each, etc.\
+User_999fbb: https://docs.google.com/document/d/1lyRIa6J1cO5PG_X5fkB4EoKJP0vNamHcLkcjn8TD0g0/edit#heading=h.sp8kxteiwmdz
+User_05c9eb: They only tell which will run in which semester along with who is teaching em
+User_05c9eb: Not the number of people etc coz that keeps changing around
+
+--- Conversation 16 (2023-04-03) ---
+User_792c42: Hello, is there a document/resource compiled by upperclassmen on reviews of professors and courses? (course workload, assignments, grading, what are the main content, what other Minerva course offerings combine well, how practical it is?) 
+
+especially looking for cores in each college -> for course lottery selection. any help/guidance is much appreciated thanks!
+
+--- Conversation 17 (2023-04-04) ---
+User_c43aff: [handle] made this! (https://docs.google.com/document/d/18uryHmRM7VvvRKOVMLPjtC_19u1oZDaN6Xh_XWzdmls/edit#heading=h.64k53eqclnah)
+
+ it doesn't have info for every course but is pretty good for CS courses :)) - otherwise if you search through the telegram channels, you can normally find what you're looking for
+User_792c42: Thank you so so much! <3
+User_5a4be1: Does anyone know what a "corequisite" is? It is written in some courses in the course catalog
+User_0378ef: that means you gotta take those classes together in one semester
+User_abee87: it means that you need to take the 2 courses simultaneously, like B110 and B111
+User_5a4be1: Oh. Thanks!
+User_5a4be1: Yes I was asking particularly for that thanks. Do you know if these two courses are regularly taught in Spring as well or just in the Fall semester?
+User_5a4be1: Oh I got the course schedule for the entire year, nevermind and thanks a lot!
+
+--- Conversation 18 (2023-04-04) ---
+User_2c19b9: forwarding this question from the AH thread if anyone has thoughts 🧡
+User_2c19b9: i'm also coming in with some last minute questions for lottery 🧡 anyone has thoughts on AH113 as taught by Carter versus Powers? I'm trying to make some adjustments to my lottery and I'd appreciate some feedback hihi
+User_2c19b9: also if anyone here is in the Design track and took concentration courses before 113 I'd love to hear ya out 👀 GWP says it doesn't really matter if you take concentration classes before 113 (even tho ideally you'd take 113 first) but student input is always super helpful, so any thoughts on the matter are welcome
+
+--- Conversation 19 (2023-04-04) ---
+User_efb175: If you can, take it with Powers. He is an amazing teacher and that makes the class 100x better.
+User_2c19b9: The deadline for lottery has passed and it's Carter teaching it next sem but ty, hopefully I'll get a class with Powers at some point 👀
+
+--- Conversation 20 (2023-04-07) ---
+User_e02988: nothing happens according to what Vicki said in elevation
+
+--- Conversation 21 (2023-04-10) ---
+User_6c341a: how has the journalism tutorial been for people so far?
+User_c177ea: Great cus we don’t teach classes, but also quite useless for half the class where Kukis asks “so how’s all your work going” and we just go through one by one saying what we haven’t done
+
+--- Conversation 22 (2023-04-17) ---
+User_792c42: so umm, mighty upperclassmen, will I survive? 🥰
+User_8e115b: Why wouldn't you?
+User_b5d9b9: It's a cool combination actually
+User_792c42: because, so far with the cornerstones, I (barely) survived
+and S^4 (CS51B) wasn't fun. and CS110 i've heard can be nightmarish. 
+
+for someone who takes 2.5 hours to complete a MUW, and puts a lot of hours in preparing for every session, 
+I just wanted to know how much the workload is, and if it is distributed well. (throughout the days in the week for PCWs, and the assignments across the semester)
+User_ce8131: anyone else not seeing courses? or is it a mobile issue
+User_792c42: many students are unable to.
+
+Apparently, only the CS110 ones are visible (which the registrar team manually entered)-- but i can see all 3 of mine. idk.
+User_ce8131: ye i cannot view on desktop either ..
+User_51212c: A lot of people learn to care less as they go through the Minerva years. Not necessarily saying you BS your way through but over time you learn what's important and what's less important and are more mindful of your constraints, and adjust how much you care about academics accordingly
+User_e118cc: Also, wait for an official communication from the registrar about releasing class schedules, because until then they might get shifted here and there :)
+User_741235: I’ve only taken CS110 from this list, so can’t help much, but here’s my contribution: I wouldn’t say CS110 is difficult (as in concepts are difficult to understand, like with probability). Instead, it’s challenging because it requires a lot of effort, as in actual time spent coding and digesting how the algorithms we see in class work. The PCW will usually take you longer than average because it’s long, but if you give it the time it needs, it’s not hard to follow. Also, if you end up having Ribeiro, she’s one of the absolute best professors at Minerva.
+
+So don’t over stress about it, because CS110 can actually be very fun :)))
+User_741235: (And what Pei Qi said it’s very true. It gets to a point when you start making decision about which concepts/classes you’ll truly MASTER and which ones you’ll just have an average understanding)
+User_bb0394: Haven’t taken CS110 or NS112, so I can only comment on SS1110. SS110 is arguably readings-heavy. I was very much like you who spent a lot of time completing PCW because I wanted to go in depth. However, like what Pei Qi said, you’ll eventually reach a point where you care less or at least learn how to be quicker with your readings. For SS110, there are many readings but not all of them are used in class discussions. After a few weeks, you’ll get the hang of extracting main points from each reading and skim through everything else.
+User_4e46a0: I did the combination CS110 and NS112 and I survived
+User_4065cc: I’ve taken SS110 and NS112, both of which have a lot of readings. NS112 is especially dense and will require a sharp focus if you want to pick up concepts, spaced practice if you want to commit them to memory.
+That being said, figure out how much time you want to spend on PCW readings. I use Pomodoros of 50 minutes to time myself and usually take one pomodoro per class, rarely two. People have different approaches, I try to get through class knowing what’s going on but assignments are where I’ll fully grasp the LOs. 
+Tldr; figure out what you want from a class and build a strategy around it.
+User_7facf1: I'm one of the CS110 TAs, happy to chat over text or you can drop by my OH (https://calendar.app.google/wvLGwCv1YnKwQVfq7) tomorrow and we talk about what to expect, it's one of those courses which are definitely challenging in terms of workload but there are ways to manage it effectively in combination with other difficult courses. I took SS110 and CS110 (and CS114) in the same semester and it was doable
+User_c0b244: I agree with everything everyone is saying, but, the most important thing is how passionate you are about the courses you're taking. If you enjoy coding and algorithmic challenges, CS110 is a lot of work, but it's not crippling. Similarly, if you want to learn about the inner workings of the brain, the SS110 readings will be long but you're more likely to enjoy them. As Minervans we've labeled some classes "easy" and some "hard", but if you chose these classes and you actually want to take them, I wouldn't stress to much. That being said, you should also make sure these are classes you WANT to take. If you didn't like S^4, I'd recommend seriously considering whether you actually want to do CS110 (especially since it looks like you have interests in lots of colleges and aren't committed to a CS major).
+
+--- Conversation 23 (2023-04-19) ---
+User_b0c3cb: when does add/drop open?
+User_0554ed: "You can adjust your fall schedule when Add/Drop opens in August. We’ll be able to address any questions or concerns you may have when it opens."
+
+--- Conversation 24 (2023-04-26) ---
+User_354572: For IL199 paper submission: Is the number of HCs strictly 10 or I can go less or more than that? Also, what is the weight of the HCs (for a 4 credit internship)?
+
+--- Conversation 25 (2023-04-26) ---
+User_0beb24: You can do more 
+It is x16
+
+--- Conversation 26 (2023-04-28) ---
+User_999fbb: When do we need to apply for IL199 btw?
+User_8e115b: you can apply for it pretty much any time. you will just get assigned to the next available deadline (or a later one if you wish)
+User_8e115b: you just kinda need to do it during your last fall semester the latest if you want a paper diploma and your last spring semester if you want to graduate with it
+User_d443af: And usually the deadline is 3 days after the last assignment of the semester
+User_d443af: At least for this semester, it worked like this for me
+User_8e115b: there is no timeline to apply after your internship/research thing. You can even apply years later. Keep in mind that you will need your manager to write you a recommendation letter like thing and sign your hours though
+
+--- Conversation 27 (2023-05-02) ---
+User_4065cc: Can you do IL99/ internship credits twice?
+User_b2fa71: yep!
+
+--- Conversation 28 (2023-05-02) ---
+User_8e115b: You can do it as many times as you want but you can only use 8 total credits from it (so 2 full 4 credit il199s). The reason for it is that if you get a low grade for one you can do another one
+User_b07213: Does this mean the grades for the old il199 will be replaced with the new?
+User_8e115b: I think you choose which ones you want in the end
+User_8e115b: you can ask vicki chandler for more info
+
+--- Conversation 29 (2023-06-06) ---
+User_0beb24: Does IL199 count towards breadth requirement?
+
+--- Conversation 30 (2023-06-07) ---
+User_8e115b: Not if its related to your major
+User_8e115b: It can replace a tutorial though
+User_8e115b: Im not sure if you can do an IL199 unrelated to your major but if you do that then maybe? I would ask Vicki Chandler
+User_0beb24: Thank you)
+User_b07213: in the new course scheduler (a spreadsheet). They don’t allow us to add IL199 in the breath requirement section so I think it doesn’t fulfill breath req.
+
+--- Conversation 31 (2023-06-25) ---
+User_af01b7: Would anyone mind sharing why they would take an extra Minerva semester instead of overloading or doing an il199 course?
+User_a591e3: Because I could never manage overloading and don't want my summer to be busy so I can rest from the burnout of the semester.
+User_a591e3: Also to take more classes
+User_c7aeb3: potentially f-1 status prolongation
+
+--- Conversation 32 (2023-06-26) ---
+User_a56433: Is it possible to show the I-20 form during immigration on my phone instead of a physical copy of it?
+User_df9f1b: Yes but they might take you to secondary check :)
+User_c7aeb3: honestly just print it and sign it, secondary check is too stressful and long🥲
+User_b5e389: I have done this two times and haven't gotten secondary check
+User_d3d81c: Can we book academic advising appointments over summer?
+
+--- Conversation 33 (2023-07-04) ---
+User_bc9342: Anyone of the alumni here took the Journalism tutorial that would have some time to answer some questions?
+User_c177ea: Sure!
+User_618dde: Can we take tutorials in year 2? 👀
+User_ee710e: No
+User_ee710e: You can take NS125 (Research methods) which counts as tutorial if you are NS or SS major. I think it is an amazing class, you learn a lot, analyze and criticize lots of different papers (including Prof. Zoogman's papers), but no point in taking it if you are not pursuing a career in research
+
+--- Conversation 34 (2023-07-04) ---
+User_9f0abf: Does anyone have access to the GSheet with the up-to-date HCs?
+
+--- Conversation 35 (2023-07-28) ---
+User_482864: Does anyone know how many courses we can take in the fourth year not including the capstone/tutorials?
+User_b2fa71: Depends how many tutorials you take, but 2 classes per semester (including tutorials). You can take from 0 to 2 tutorials per major in your fourth year, but IL199 and additional concentration courses from your major can substitute the tutorial requirement
+User_b07213: maybe this info helps someone so prof donnelly told me that you can also take two tutorials in one of the 4th year sems if you want in case you want to take both tutorials and due to course schedule require to take two concentration courses in fall or spring semester together.
+
+--- Conversation 36 (2023-08-28) ---
+User_df9f1b: How is Prof. Morar for capstone seminar
+
+--- Conversation 37 (2023-08-28) ---
+User_b0c3cb: same q with Bogucki
+User_7047ef: And Shekhar
+User_c7aeb3: shekhar was pretty chill in cp192
+User_c7aeb3: also this class is pass/fail so just carefully read through assignments and you should be okay
+
+--- Conversation 38 (2023-09-05) ---
+User_b22c7d: heyy guys, can you give advice on what note apps (apart from notion)) are useful and maybe other tips on how to note-take effectively??
+User_74a5d5: I personally use Notion but also paper. I forewent paper altogether for a year and that was a major mistake, bc I love writing on paper. Depends on the subject too
+User_e04c25: Remnote. You can convert parts of your notes into flashcards. Super useful
+User_c177ea: I use obsidian and bear for organization of stuff, bear was particularly neat since it’s hashtag based sorting so I sorted according to HC/LO
+User_3edffc: man, the amount of customization that you get with obsidian is insane, there's so many plugins that let you do whatever you want and you can also write your own custom code for automation.
+User_c177ea: Yeah, switched over after graduating and am very happy with obsidian nowadays, tho I don’t really take many notes in my jobs
+
+--- Conversation 39 (2023-10-11) ---
+User_9cb696: hey seniors! m27 here. any thoughts/ opinions on using flashcards to rmb course content? i heard that even in years 3 and 4 you'll be needing to fetch content from year 1 + im already struggling to remember everything we seem to need to + i'm actually finding cornerstone content super cool, so i think i want to commit everything to long term memory as best as i can. i just have no idea how id go about structuring them, like by HC, or by session or concept... etc. i dont even know if flashcards are the best way to go about it since flashcards are a lot of route memorisation which idk if itll be useful.
+User_e04c25: Good questions you are asking. Feel free to PM me as well for a more through discussion.
+
+My questions to you:
+- Have you used flashcards before for a long period of time?
+- Is there something that worked or did not work for you in the past?
+- Could you give examples of things that you'd like to remember from cornerstones?
+
+
+My opinion.
+1. I think Cornerstones have the biggest chance of being remembered as you have to use HCs in every class. So invetiably you go back to resources and now we even have the HC handbook!
+2. Minerva is about skills. In most classes you learn to "perform on the job" through discussion and assignments. I personally forget 95% of the content and I think it's okay -- I know for sure that I can now write a better assignment in any class compared to me prior to taking this class. 
+3. There is still some content that I wish I remembered. But I think the problem is systematic. I think Minerva should incorporate spaced repetition within the class structure for at least some of the things. 
+4. I used flashcards through Anki and Rem Note. Rem Note being the most convenient. My goal was to minimazi friction because I am lazy and I can't build a new routine that easily. What worked best - I paste in questions from study guide and answer them in Rem Notes using the flashcard shortcut. I answered them not as intended by instructor but (a) in the easiest way possible eg my copy pasting from papers (b) by adding/removing info based on what I want to remember. And then before each PCW I would spend 5-10 min going through flashcards. I maintained that habit for 1.5 semesters, the rest I struggled and failed cuz there's no direct incentive to use flashcards. That's why I asked about your personal preferences. 
+
+P.S. chatgpt is great at generating flashcards based on a paper or a topic
+User_5170f0: I was thinking about the same,
+
+I made some, but it's a rocky road so far, not sure how to approach it to make it more efficient and useful
+
+I was making flashcards from summarizing readings, and the terms from FA
+User_5170f0: +1 to chatgpt for making flashcards, it's just better at eloquent phrasing than I am
+User_5170f0: [name] you might be interested in this thread
+User_9cb696: thank you so much for the highly detailed response!! i really really appreciate it 💗
+
+tbh ive only ever used flashcards when my school needed me to regurgitate literal DEFINITIONS or for stuff like language learning. which is why i wasnt super sure how to apply them to concepts in like Minerva. but im actually thinking now its totally applicable to stuff like terms (like wtf if "regime shift" or "phase space") or like what are the 4 steps to define an intial state of a problem. maybe not so much to the mc50 HCs like #audience or #context because everyone already knows what that is 
+
+thank you for the tip tho, i think the way you suggested sounds like a smart way to approach it and ill defo consider :-))!! but i also think im pretty lazy and i feel like Minerva gives me so many things to finish in a day that theres no way i could be bothered to recall something i learnt 3 weeks ago after doing pcw till 2am 🤡 so idk, if ill naturally remember cornerstone HCs just because Minerva makes me retrieve it every now and then maybe flashcards arent necessary
+
+--- Conversation 40 (2023-10-11) ---
+User_a591e3: I really really wish I had made cards throughout Minerva. Not flashcards but more of the zettlekasten type. So much so that I'm going back through old content and making them. 
+
+I would be happy to show anyone my system, but the basics are to make cards for the HCs and the key rings I want to remember from each class and then give the card a number. I'm also keeping an index across all of the cards as well as written links to connect related cards. So far the system is great and I don't think it would have taken that much time had I done it along with my preclass work. It's kind of a pain to do it now so far in the future.
+User_a591e3: I also wish I had made a code notebook for all of the code written that is now scattered around in many files.
+
+--- Conversation 41 (2023-10-12) ---
+User_05c9eb: Personally, given that you don't actually need to memorize anything at Minerva, i have found that taking good notes is much easier and more fruitful for me personally. You can always go back to them in an instant and scroll to the exact part of the readings you need information from and add to them a bullet point. Plus, since a lot of people take notes, you guys could combine notes at the end of the semester/year in order to have even better notes to access later on.
+I just take notes during the readings or if something comes up in class that was unknown before and haven't had any issues come up so far. I use my notes from previous classes all the time to go through content and use it elsewhere e.g. in Capstone.
+User_05c9eb: Also, notes are super useful if you end up being a TA in the future coz you can basically review the class from one page of a pdf rather than having to read the entire readings again
+User_05c9eb: I made these for maths classes and CS166. really useful. If someone wants these, you can dm me and i can send em to you
+User_9cb696: Hey, thanks for all the tips! I'll defo have a think about it 🤔 really grateful for the community here 💖💖
+
+--- Conversation 42 (2023-10-12) ---
+User_873098: Anki is the greatest thing ever invented. I usually only take notes to the extent that it helps me make anki cards. It is also great for self awareness because if I cannot make an anki card on a topic it means I do not understand it. 
+
+Also I highly recommend this essay http://augmentingcognition.com/ltm.html. 
+
+Also don't be afraid of making a card and then revising or deleting it later if it is poorly written or no longer useful.
+User_751cc5: I second this— long term learning rather than just long term collection of notes
+User_2c19b9: I need to follow in your footsteps and do the same 🌚
+
+--- Conversation 43 (2023-10-17) ---
+User_9cb696: Same after asking the qn intially I made flashcard and then forgot about them 🤡🤡🤡
+
+--- Conversation 44 (2023-11-03) ---
+User_2c19b9: Does anyone have the link of that spreadsheet with tentative list of classes offered this year?
+User_2c19b9: (or some more recent link that shows what classes are supposed to be offered next semester)
+User_554123: from my knowledge, these are the AH courses running next sem 🥰
+
+CORES: AH110 (morar/karl?), AH111 (yates), AH112 (bogucki)
+
+CONCENTRATIONS: AH144 (yates), AH154 (wisor!), AH152 (karl), AH146 (fiorelli), AH166 (WP)
+User_8234f5: karl said he would be teaching ah110
+
+--- Conversation 45 (2023-11-04) ---
+User_f644b9: Hey every1 im curious for the upperclassmen, im a NS CS major and am taking CS113 CS111 and NS111 rn. If i want the chillest possible berlin semester despite my majors, what classes should i take?
+User_af01b7: would advise to not combine cs110 and cs114 (heavy workload and lots of material in both), but don't have experience with NS courses
+User_f644b9: is 144 heavy?
+User_f644b9: already ruled 110 out
+User_237267: if you meant CS114, it's a lot of materials and quite fast spaced, but not super heavy (compared to CS110). If you want to do math-y concentrations (data science & ML included), you should prioritize CS114. If you want software engineering and don't have much experience before, consider CS110 first (although I assume you probably won't need)
+User_237267: CS113 and CS111 are already the chillest CS cores so you can't relive them
+User_05c9eb: wanting a chill semester is a good idea but I would recommend taking a look at the concentration you wanna do and then doing the courses that are pre-reqs. Sometimes, this can mean a bad course load but trust me, doing 3 hard courses is much better than having to spend 2 years worrying about not being able to do courses that make up your concentration or doing courses that you don't wanna do at all because you don't have pre-reqs done for the courses you want
+User_cd92fd: plz don’t take NS110L/U🙏🏼
+User_af01b7: to add on to that, some courses are not available every semester. i think that's especially true for NS courses. it may be really crappy to have to wait a year to take a concentration course (and then juggle a ton of logistics) because not all prerequisites had been completed when that course was initially available
+User_26f5dd: NS110U is a trauma, stress, and low grades course 🫰
+User_f606a0: I became an AH major after the semester I took that class
+User_f606a0: it def killed my desire to do physics in school
+User_26f5dd: Same I can relate
+User_f606a0: I am happy though, AH made me happy. If you want to do minerva and actually have some joy then do AH
+User_d3d81c: For CS cores, both of the remaining courses are heavy. For NS, NS113 is alright content wise but Prof Gale may be too demanding. NS110L doesn't go too deep but it covers pretty much entire physics in one semester which can be too much if you haven't taken physics in high school or a great review if you already know the basics. NS112 has a lot of readings but you'll be fine if you have background biology knowledge, also Prof Dosmann makes classes really enjoyable. Either way, if you are a double major, you don't have too many options.
+User_df9f1b: I would advise to take CS114, NS112 or NS113 and a elective class like NS125/CS130, the elective class can replace your tutorial class. And both of them are very chill courses. Highly advise not to take CS110 or NS110U/L because they are objectively time intensive even with background in them.
+User_df9f1b: If you’ve done IB HL level chemistry then you don’t really have to do the readings for classes. The content was less rigorous than my Indian high school chemistry classes. So maybe also check the syllabus for the courses yourself.
+
+--- Conversation 46 (2023-11-04) ---
+User_f644b9: Ah good, I’ve done highest Dutch highschool level and the whole cs111 class we learned at 15 (except for sage math which I hate with every fiber in my body) so should be the same for Chem then
+
+--- Conversation 47 (2023-11-04) ---
+User_c0b244: Honestly it sounds like you have the chillest possible semester despite your majors right now, the cores left are the hard ones :/ I'd really recommend talking to Deborah Melnick about your plans too, because double majors don't leave a lot of room for error. You should try to plan out all your courses as early as possible to make sure you're getting the prereqs when you need them
+User_f644b9: alright then giving the fact of me dying, what would make me die slower, CS110 or NS110
+User_97915e: I found CS110 more manageable than NS110 and I had the same prof for both
+User_cd92fd: which ns110 are you planning to take [handle] there’s L and U
+User_b07213: cuz cs110  has fewer assignments than ns110 plus on average each assignment in ns110 or cs110 takes about the same time. maybe cs110 a bit more
+User_97915e: ns110u had problem sets every week tho so if you take into account the whole semester, i spent at least 50% of my semester on ns110u
+User_b07213: ok that is even worse ns110L had every 2 weeks.
+User_bbcb04: if you're doing cells and organisms, what some people do is delay taking NS110L as much as possible and pray there's a revolutionary change in the NS college
+User_f644b9: yeah cells & organism
+User_b07213: but I would suggest get rid of it in the 2nd year. 3rd year is tougher with concentration courses and capstone seminars + internship hunting. So most of m25s did it in spring of 2nd year
+User_8bbbff: Should we freshmen worry about 2nd year courses at all before like the summer? If we have an idea about our major and what core courses we wanna get
+User_f644b9: No
+User_f644b9: You can change ur major any second before course lottery
+User_f644b9: And even after that u can change ur major after ur first semester of 2nd year if u want smth different
+User_f644b9: Don’t choose ns cs tho if this is the chillest semester I am not happy
+User_26f5dd: God save humanity
+User_c0b244: If you know what courses you want to take, you should check out their syllabi. Depending on your major, you may need some skills (like coding in cs) or have to read a book before the course (ah). But also, before you commit to reading a whole book, check in with a prof who teaches the course. They have a wonderful habit of changing the syllabus a week before class starts sometimes 🥲
+User_26f5dd: Agreed. Each class of my NS162 PCW gets released 2 days before it cause it's constantly changing.
+User_8bbbff: Doubt
+User_c0b244: You can always fill out the major change form, that’s true!
+User_8bbbff: No I mean I doubt it I'd change
+User_8bbbff: But yeah
+
+--- Conversation 48 (2023-11-05) ---
+User_f644b9: Wth
+User_f644b9: so then for a second opinion, planning a 1.5 week snowboarding trip next sem is not the smartest thing to do on earth>
+
+--- Conversation 49 (2023-11-05) ---
+User_b07213: I don't know if they changed the policy but I did it last year.
+
+--- Conversation 50 (2023-11-09) ---
+User_5099f8: Any thoughts on AH152?
+User_af01b7: do we know the approximate schedule of the spring 2024 courses yet or are they coming out with the course lottery?
+User_c7aeb3: i think there's only a spreadsheet with classes being offered,  but also classes should all be in european time zone next semester (so hopefully no classes with bad timing)
+User_a72438: do we have the name of the professors teaching each class next semester?
+User_b07213: no unfortunately they don't reveal that until add drop
+
+--- Conversation 51 (2023-11-10) ---
+User_af01b7: hi! i'm looking to fulfill my breadth requirements (as a cs major) with two chillest possible classes in the spring semester. what recommendations would people have?
+User_0beb24: SS111, very low workload and quite easy material
+User_af01b7: would people recommend b112 and b113?
+User_26f5dd: +1
+User_abee87: b112 and b113 are super chill courses with minimal workload and you can easily get an A
+
+--- Conversation 52 (2023-11-11) ---
+User_3751e6: hi! for people who have taken both, between NS110U and CS162, which one did you consider the hardest/most time consuming?
+
+--- Conversation 53 (2023-11-11) ---
+User_37a37d: This is a super subjective review based on my experience as a novice in both courses. The amount of time I took doing prework for both was pretty much the same - took a lot of time. For NS110U, I struggled with preclasswork but made up for it in the weekly assignments. For CS162, the assignments are pretty good but the most important thing is working on the group project, which might be time consuming based on the difficulty of the project's features and your skills/knowledge
+
+--- Conversation 54 (2023-11-11) ---
+User_4065cc: Not doing cells and organisms so NS110L is not a prereq. If I don't take it this following semester, I will have to do it my last semester (graduating sem I think). Is that fine/ recommended? [trying to delay as much as possible while not getting trouble:) ]
+User_4065cc: [handle] / others related. Is there any speculation on course redesign making it easier/ harder. Easy defined by time reqd. to do the class  prep+ assignments 😄
+User_b07213: According to prof terrana it shouldn't take us so much time but then her expecatation for even a 3 is to give detailed explanation even for the steps in math related questions which ends up taking time. If you are done with majority of your capstone by 7th semester than i think this class won't be tough but for me it was bad just bcz i was taking it with 2 other CS courses that had same of number of assignments as this class. So with another easier course it will be easier
+User_f39ece: Helloooo, I’m a M26 and was wondering if taking CS110 and CS114 is possible! (I’m also taking an AH class as my third course). I’m willing to put in the hard work but was wondering if anyone could provide some insight because I’ve heard some upperclassmen say yes it’s okay to take together and others have said strongly no 😅 so I’m not sure who to believe - any advice or even sharing past experiences with the classes would be greatly appreciated!💗
+User_751cc5: I despise this class with every inch of my body. I would recommend getting it over with and having a fun senior year rather than utter torture.
+User_74cce8: lottery https://www.minerva.edu/ (https://u15526930.ct.sendgrid.net/ls/click?upn=z4QzN9FJS8MDezRVvCgDYnmAKCOJHtp6XvH2G-2FFJ7aB7YlnQPMbBk9cd4bSDUqRHYhZz_nv7F0zt8z7VhFY-2B8-2BtcvCPbbZ0g5P6XcYwn9r2q0331P42yk-2B-2B3C9sEt-2FWRBwXXB9fW3VomHBFs8G5zdvZRKoO9p8IWI0ULgjPXW4AyIJDmu3aFMFxi0IeyUDs89ET-2FKTf0rXVX3d057tmuxIvVFnnp5WpZ5QwCyZAgv6oaxpiBaaAYfsJq-2FpmbDp0fyZYzDQYec6FjCQrPQtcOWzwp4S8yb5kMfsk5pp4ilLDgf3SA-2B4KgajIkBpTysgkltt4lJj9JakSilSHV4JFoS6o51RwuJ6TdTXuWwg1m8QxxUbFTXJU5wwj3r-2BtZ5Jt4P-2FEFGCai2-2FAs0uhMbecxNDRf34rdEhiLIUqe7u84xjkfL1Yv8DOG-2BJkdLp8OW6kzLX0ZnD5J-2F2CKpcaKwvUrb05KnxLesD7MwBqHuw5sL5rPn7jgqrpp2eo82lVBD3twDV4kSxMZnJT6-2B1fhz3A1GLhKsBftKFvLHC1WE-2B-2FfPEt8SCAA4hmlkvUd8JSQe62NXzz8c-2FiVsdpyB7gtZxOGtpciqx3zig9JGfHNk29uqTXt-2Fc96-2Fk9eWr0uvyd5G6uS1pQMhTBFUKjTfA2c-2FYfHqgOP7ClSigIzHRJCwLXVbh1VCTJPKZnL094tl2yDbCM-2FqvPcmOqOGviJEpLP4cOaC164NNFygQD-2BT6kxuA7vnMt3ut6P8hBLve0rnu7tprYA9DzDe)registration (https://u15526930.ct.sendgrid.net/ls/click?upn=z4QzN9FJS8MDezRVvCgDYnmAKCOJHtp6XvH2G-2FFJ7aB7YlnQPMbBk9cd4bSDUqRHYhZz_nv7F0zt8z7VhFY-2B8-2BtcvCPbbZ0g5P6XcYwn9r2q0331P42yk-2B-2B3C9sEt-2FWRBwXXB9fW3VomHBFs8G5zdvZRKoO9p8IWI0ULgjPXW4AyIJDmu3aFMFxi0IeyUDs89ET-2FKTf0rXVX3d057tmuxIvVFnnp5WpZ5QwCyZAgv6oaxpiBaaAYfsJq-2FpmbDp0fyZYzDQYec6FjCQrPQtcOWzwp4S8yb5kMfsk5pp4ilLDgf3SA-2B4KgajIkBpTysgkltt4lJj9JakSilSHV4JFoS6o51RwuJ6TdTXuWwg1m8QxxUbFTXJU5wwj3r-2BtZ5Jt4P-2FEFGCai2-2FAs0uhMbecxNDRf34rdEhiLIUqe7u84xjkfL1Yv8DOG-2BJkdLp8OW6kzLX0ZnD5J-2F2CKpcaKwvUrb05KnxLesD7MwBqHuw5sL5rPn7jgqrpp2eo82lVBD3twDV4kSxMZnJT6-2B1fhz3A1GLhKsBftKFvLHC1WE-2B-2FfPEt8SCAA4hmlkvUd8JSQe62NXzz8c-2FiVsdpyB7gtZxOGtpciqx3zig9JGfHNk29uqTXt-2Fc96-2Fk9eWr0uvyd5G6uS1pQMhTBFUKjTfA2c-2FYfHqgOP7ClSigIzHRJCwLXVbh1VCTJPKZnL094tl2yDbCM-2FqvPcmOqOGviJEpLP4cOaC164NNFygQD-2BT6kxuA7vnMt3ut6P8hBLve0rnu7tprYA9DzDe)
+User_321f48: can i and should I choose the same course on same day at same time as my alternatives?
+User_bb0394: The system will just tell u u need to choose a unique course for the alternative
+User_321f48: although it says alternative, but the system didn't signal me anything when I choose three same course on same time
+The only info is
+[Do choose duplicates. Duplicate course listings with the exact same day of week, and time are taught by different professors (we keep that info hidden).]
+The comma before "and" is  confusing to me that whether it's suggesting to duplicate same time or different time.
+User_7047ef: duplicate same time
+
+--- Conversation 55 (2023-11-12) ---
+User_74cce8: you can't choose exactly the same section twice. Once you submit it, you're receive an error
+
+--- Conversation 56 (2023-11-13) ---
+User_ee710e: Oop so the expectation is that this sem we will mostly collect data and try to improve the assignments to be more engaging/relevant. Next year will be more hands-on learning (hopefully implementing an online lab). I am pitching to prof Sealfon and Terrana to lower the amount of content covered and go more in depth, which would mean less readings :)
+User_ee710e: But you did not hear this from me (or from anyone)
+
+--- Conversation 57 (2023-11-13) ---
+User_f644b9: hello every1
+User_f644b9: how bad is cs114?
+User_df9f1b: For almost everyone there comes a point in mid course where everything goes haywire and you’ll be like wtf is going on but it’s a interesting course in general. The assignments were mostly straightforward problem sets but the window with stars in the last assignment can haunt you for life :)Everyone loved Prof. Tambasco. Easy grader.
+User_f644b9: ah good good perfect got my ns cs courses that allow for a 9 day snowboarding holiday compiled hahaha
+User_f644b9: thanks!
+User_f644b9: Also ur assignment of impossible to calculate derivatives also haunt me
+
+--- Conversation 58 (2023-11-13) ---
+User_74a5d5: Does anyone know how to access syllabi for classes we want to look up?
+User_74a5d5: Also, could someone please describe the main difference between CS130 and SS154 Econometrics? 
+I'd love to take one of them, but am not sure what distinguishes them
+User_ba2c04: +
+User_5a4be1: https://forum.minerva.edu/app/syllabus/<COURSE CODE>
+User_966b1b: I think this really depends on ur background in coding and probability + stats, if you kinda have a background in both, then with a chill AH course (maybe AH113?) its def doable; If you find one of these two challenging / have little background, then double think because they're the two hard cores in CS compared to 111/113
+
+110's pcw and assignments are time-consuming, but chatgpt-able; 114's are shorter and more straightforward, but the math part could take a while to understand (esp for some open ended questions in the last 1-2 assignments)
+User_f39ece: Thank you so much!! This is so helpful!! 💕💕
+User_792c42: [handle] who overloaded their 2nd year Spring semesters (or in general), is the workload and your experience of that semester VERY significantly different than the rest of the semesters? 
+
+Also, is there a difference between overloading a core course or a concentration course?
+User_0beb24: How useful tutorials are? How much do u actually learn comparing to classes? For example deep learning in cs comparing to data science track if anybody took both
+
+--- Conversation 59 (2023-11-14) ---
+User_e118cc: I didn't take deep learning in cs, but generally, tutorials are more flexible with regards to the content you are learning, so your group can decide on the topics you wanna engage with
+
+--- Conversation 60 (2023-11-14) ---
+User_2c19b9: Hey people! So I heard from a few folks that the Econometrics class and CS130 were essentially the same. If anyone has taken both of these classes, could you elaborate on the similarities/differences?
+
+--- Conversation 61 (2023-11-15) ---
+User_c43b93: Hey, did anyone ever manage to make a tutorial count toward breath requirement? Do you know if this is a very strict policy?
+User_0e9f82: From my understanding, it is a strict policy. They are very strict about breadth requirement.
+User_05c9eb: Doesn't work. Been trying to convince Dean Chandler of this for the past year but she ain't budging. She said it beats the purpose of the electives
+User_be9083: This strongly depends on what your prof allows – in terms of flexibility in course content and how much depth they let you go into – and how much effort your classmates put in (…and, to a lesser extent, the size of your class. My two tutorial class sizes were 11 and 6, neither of which felt like the "optimal" size :-D)
+In one tutorial, my prof let each student choose the topic for their session (within reason). In the other, my prof decided each lesson's topic and let us indicate our interests in which ones we wanted to teach
+User_7facf1: highly recommend deep learning. Professor Sterne runs it and keeps it very organized, we decide class schedule (picking timely themes in ML like NLP, CV, usually state-of-the-art technologies) in the first session. Everyone teaches 1-2 classes (depending on number of students). His purported aim is to leave you an expert on any given topic after a class. The assignments are flexible as well, students have significant say in determining what kind of assignments are given (including the option to drop an assignment if you don't find the topic interesting).
+
+Also, IMO, having to teach a class forces you to engage with your readings/PCW in a deep and meaningful way. Prof's expected prep time for a class you are a student in is 1-2 hours, and around 10 hours if you are teaching a class. Those 10 hours of prep will leave you supercharged in whatever you decide to teach.
+
+I would say I've learnt more in 10 sessions of deep learning than I did over a semester of CS156 which says a lot because CS156 is also a dense and great course. But at the same time, tutorials can only be this useful if you have a good foundational understanding of their pre-requisites.
+
+--- Conversation 62 (2023-11-15) ---
+User_26f5dd: Can I take a toturial as an elective not a breadth requirment?
+User_af01b7: if you have space, yes
+
+--- Conversation 63 (2023-11-16) ---
+User_668318: Hi People! Kindly asking if anyone knows which prof is teaching CS146 and CS162 in Spring 2024?
+
+--- Conversation 64 (2023-11-17) ---
+User_fdb55b: Hey guys if anyone has taken this two classes AH113 and SS 146 which one is more chill and interesting?
+User_7047ef: haven't taken AH113 so can't give a comparison, but SS146 is very chill, Kukis is very chill. The content can be a bit boring ngl, but it gives you a lot of freedom to do whatever you want to explore in your assignments (and you can do 3 assignments iteratively so u just build on previous assignments)
+User_fdb55b: Thank youu
+User_ce8131: AH113 is chill if taught by Carter, not so much Powers; there's probably previous messages discussion AH113 in greater depth but i'll just say - make sure you understand the syllabus and really want to take the class - it's very easy to be disappointed by AH113
+User_c0b244: All I know is Scheffler is teaching neither </3
+User_0554ed: Please TA 146 next sem <3
+User_7047ef: hahahaha my grades would never allow me to do it
+User_0554ed: *crying*
+User_2c19b9: hm I wouldn't say it's only a matter of syllabus - the class has potential but it needs a lot of revisions tbh
+User_140e63: I'm curious what people think are the really standout courses / profs (??) at minerva. Regardless of subject, just classes where you're like WOW that was amazing. Doing SS and there's been nothing so far which has really left me craving more.
+User_df9f1b: NS144
+User_751cc5: AH162!
+User_ba2c04: Prof Tambasco
+User_966b1b: any class with Tambasco++++
+User_455221: the social and political philosophy class, with prof perry. took it as an elective, consistently amazed and challenged my thinking.
+User_550fe0: Hello people!! Anyone can tell me how the workload for ns146 and ns156 is?
+User_05c9eb: tbh you can think a lot of profs are great and all but that's just coz you haven't had Scheffler in a CS concentration class before that. He is KING. You'll come to a class and be like prof nothing makes sense and he will break it down bit by bit and explain it to everyone and not move on until all questions are answered. Love the guy and deeply respect him.
+
+"I would do a CS degree at Minerva just to get taught by Scheffler. Could literally sit and listen to him for 6 hours at a time." (Terrana, 2023)
+User_a4a8ef: Prof Karl and Fiorelli. Whatever they teach. And I mean it
+User_c0b244: I'm literally delaying the completion of my major to wait out this man's paternity leave. Hands down the best math teacher I've ever had.
+User_66d67f: Does anyone know who will be teaching AH113 next semester?
+User_bb0394: I think Carter
+
+--- Conversation 65 (2023-11-17) ---
+User_140e63: powers said he would potenatilly teach if there was extra interest or smth
+
+--- Conversation 66 (2023-11-18) ---
+User_4065cc: What classes is Powers teaching next semester?
+User_7047ef: Cornerstones, both sections of SS142 (maybe AH113 but Zhi Zhi said no)
+User_bb0394: Not AH113 acc to what Powers told me a few weeks ago (but dont quote me tho)
+
+--- Conversation 67 (2023-11-18) ---
+User_66d67f: Yep I asked him and he said the first section will def be Carter and if there's a second section he'll teach that
+
+--- Conversation 68 (2023-11-20) ---
+User_792c42: Is there a way of knowing what professors are teaching what courses next semester?
+
+--- Conversation 69 (2023-11-21) ---
+User_7047ef: generally u can ask, and most can predict. but profs aren't allowed to say which section they're teaching, but they are allowed to say which course they're teaching. you can ask them
+
+--- Conversation 70 (2023-11-21) ---
+User_b6fd7d: is CS110 + SS110 good combo in terms of workload?
+User_e118cc: Did it 2 in Fall'21. I had some coding experience from before, and even so, CS110 would take me a lot of time sometimes (often, the Pcw was difficult  because of the amount and not as much the content). 
+
+SS110 had some dense readings, but it's overall a chill course, each pcw took me around 2-3 hrs (I would read all of it and take some notes)
+
+--- Conversation 71 (2023-11-22) ---
+User_792c42: can one petition for a special concentration for either of their double majors? has anyone done that before?
+User_36eec3: I think it is better to submit two forms as u need to explain in details your choices. Personally I did two
+
+--- Conversation 72 (2023-11-27) ---
+User_f644b9: Quick Q, people here doing 1 major 2 minors?
+User_d4695a: [handle]
+
+--- Conversation 73 (2023-11-28) ---
+User_f644b9: Resolved had a should i change my major crisis but not anymore haha
+
+--- Conversation 74 (2023-11-28) ---
+User_74cce8: [handle] would probably be one of the best to answer this
+User_209f88: Yes pls [handle] 🥰 what is the course like? And could you recommend I take it if Prof diamond is also my ws manager at the same time haha
+
+--- Conversation 75 (2023-11-29) ---
+User_7047ef: IL120 Middle East Elective is going to be pass/fail. Announcement on Community Portal linked here (https://community.minerva.edu/topics/17428/topic_feed_posts/1450925).
+
+--- Conversation 76 (2023-12-07) ---
+User_a56433: Has anyone taken the impact evaluation tutorial with Prof Diamond and can share how different are the learning outcomes from CS130? or share the syllabus for it?
+User_05c9eb: Prof. Diamond isn't teaching Impact evaluation anymore. I think Prof. Hadavand is
+
+--- Conversation 77 (2023-12-20) ---
+User_a56433: Does anyone know if it’s technically possible for a professor to change a grade from a previous semester?
+
+--- Conversation 78 (2023-12-20) ---
+User_ce8131: Definitely if it's because of a grade dispute, idk otherwise
+User_74a5d5: Are SS154 and CS130 both cross-listed as a SS/CS tutorials?
+User_05c9eb: No. CS130 is but SS154 doesn't count as a cross-listed tutorial
+User_74a5d5: Thank you!
+
+--- Conversation 79 (2023-12-29) ---
+User_a56433: Is there a deadline to signing up for IL99 for the upcoming semester?
+
+--- Conversation 80 (2024-01-04) ---
+User_a10c53: I'm getting the highest possible grades in some classes and slightly below average grades in others. I personally think this is fine as I could add some good assignments to my portfolio while the gpa averages out to be above threshold for applications. Can I get any upperclassmen thoughts on this? (I'm M27)
+User_91c9c0: From my experience I started getting better grades in the second year and then even better grades in the third year. The grades improved because my HC applications improved, as a consequence of applying them multiple times. I was skeptical when they told us the exact same thing in the first year but it ended up being true for me. The GPA improves accordingly. Keep working hard, befriend the HC handbook (no fr tho it’s an incredible resource that will significantly improve your HC applications!!), cite course readings in your assignments if relevant (and most often it is), do not worry about occasional 2s and you’ve got this 💪
+
+--- Conversation 81 (2024-01-04) ---
+User_73665c: hello I'm double major cs and ss and  I was planning on finishing my ss core courses this semester, which is my second from 2th year, but minerva kinda fucked with my course lottery and I had to get all my courses from add/drop. anyone has opinions if I should keep a class that's not my major but will help me professionally or do a concentration course?
+User_26f5dd: [handle] is doing the same combination. She can help ig
+User_b0c3cb: Yup, happy to help pls dm
+
+--- Conversation 82 (2024-01-05) ---
+User_35ee39: Who to email if your CP is at the same time as another class?
+User_bb0394: https://docs.google.com/forms/d/e/1FAIpQLSe7zTm4JS-ehw-jQDlrlCXCDHZDFOz9FTdOX7e5HtP3rmHUGQ/viewform
+
+--- Conversation 83 (2024-01-11) ---
+User_b07213: Has anyone taken computational neuroscience tutorial I have some questions can you please pm me?
+User_05c9eb: I did last semester
+
+--- Conversation 84 (2024-01-15) ---
+User_a56433: Is anyone taking IL99 this semester? I filled the form a few weeks ago but haven’t been added to the class yet
+User_7facf1: email registrar they forgot to add me once
+User_b07213: I have emailed registrar too for about a week but still no reply
+User_29ea3d: same
+User_7facf1: try deborah or linnea, registrar has been dodging my emails for 2 weeks now too, idk why
+User_c177ea: You know about the response escalation email?
+User_b07213: No can u share that plz
+User_c177ea: if anyone does not respond to you withing 2 days (i think) you can forward the email to [email] as well
+
+--- Conversation 85 (2024-02-11) ---
+User_a56433: Is it possible to overload during any semester in the final year?
+User_792c42: Spring semester
+
+--- Conversation 86 (2024-02-19) ---
+User_97e42f: Is anybody taking the new class on The Modern Middle East this semester taught by Prof Kukis? 
+What are your thoughts?
+
+--- Conversation 87 (2024-02-20) ---
+User_a56433: Whats the max number of absences allowed in a course, even in extenuating circumstances? Is it 6?
+User_3751e6: 4 without documents/any explanation and up to 6 with documentation
+
+--- Conversation 88 (2024-04-03) ---
+User_a10c53: what are the eligibility requirements for il199?
+
+--- Conversation 89 (2024-04-06) ---
+User_5c1326: For CP191 and CP192, do we get automatically enrolled in these courses in our 3rd year, just like the GL/IL courses? Also, is there ever a semester we stop taking GL courses? (From an M26)
+User_751cc5: always take GL & CP is automatic enrollment
+User_209f88: Trust me we all wish there was
+
+--- Conversation 90 (2024-04-07) ---
+User_2c19b9: Can anyone who has taken PPE as a tutorial give a smol review of the tutorial <3 ?
+User_2c19b9: A broader question for alumni and M24s — what would you say is the advantage of a tutorial at Minerva? It looks like some are more skill-building heavy than others, so I'm wondering about what you'd say are the biggest takeaways for choosing a tutorial 💙
+
+--- Conversation 91 (2024-05-04) ---
+User_354572: If you took one or both of the ACE pilot courses offered to M26s last two semesters, you can drop one or two GL courses.
+User_354572: Did anyone decide to not do IL199 and overload? 
+Is it a better use of the 4 credits or should I stick with IL199?
+
+--- Conversation 92 (2024-05-23) ---
+User_3abc22: Hey guys! I'm working on my capstone project about international spending habits and need your help. Could you please take a few minutes to fill out this survey? (pretty please)
+
+
+https://forms.gle/iwzi1AX42trWs4Zd6
+
+--- Conversation 93 (2024-06-20) ---
+User_51212c: Is NS125 typically only offered once a year?
+User_069ce1: And what about CS156?
+User_51212c: usually both semesters bc it's a popular course
+User_97915e: usually both semesters but i reckon next semester's is cancelled?
+User_51212c: Thanks!
+
+--- Conversation 94 (2024-09-16) ---
+User_73665c: is anyone having psych classes with sheskin this semester?
+
+--- Conversation 95 (2024-11-19) ---
+User_5d32f4: hi any review on NS125?
+
+--- Conversation 96 (2024-11-21) ---
+User_8bbbff: Hey, I'm a CS major (probably data science and statistics) and economics minor. I need a 5th elective, anyone has any good suggestions for another class that would fit overall with my current class choices? I was thinking either SS112 [Political Science], AH110 [Global History], or NS125 [Research Methods].
+User_c0b244: Don't take SS112 if you are hoping for the same level of statistical analysis that you get in CS. My entire SS112 experience was just frustration at the "scientific methods" employed in poli sci that seemed completely off from all the best practices I learned in my major (one time the professor analyzed correlation as causality). I'm just one person, and many people love poli sci, but do keep in mind that it will be quite different. AH110 I love but read the reviews that are already on Telegram first because it's not your typical history class!
+User_209f88: I agree not to take ss112 haha. or maybe any other politics class, but that's just my opinion hahaha. as an econ major coincidently taking ss156 now, discussions can be soso interesting, but drawing little pictures to explain "causality" bothers me like nothing else (picture for proof). would you consider cs130? it could be a good fit to what you're looking for!
+
+I took ss112 and ah110, and I'm planning to take ns125 next semester. I feel it fits well into the degree and my broader post-grad direction + goals as well, so considering that and your expected semester workload too could be helpful. I tried to get it this semester actually but it wasn't running because prof. Zoogman was on paternity leave and there wasn't enough student interest to hire a substitute to step in haha. I think having a cs background could help you a bit in 125 too.
+User_209f88: ah110 was so fun for me, but it was very polarizing; some people love it, some hate it. If you enjoy exploring historical topics, then it will be great for you, but it can be incredibly time consuming to work through the pre-class readings. But prof. Morar gives 5's, and if you are excited about something, he is excited about it with you which is so cute!
+User_8bbbff: I have to take a non CS class for the breadth requirement, that's why I'm exploring AH or other SS classes
+User_8bbbff: Do you know if prof Zoogman is coming back next semester?
+User_209f88: he is!
+User_8bbbff: I had him for CX51 it was great having him for philosophy 🤣 he was like guys I know nothing about philosophy but we'll get through this
+User_8bbbff: Maybe I'll take his class then, thanks :)
+User_209f88: yay breadth :D and im sure there are people who really enjoy the politics courses, its just not for me, but idk i feel bad discouraging you from it cause you might like it so take my opinions on it with a grain of salt.
+
+--- Conversation 97 (2024-11-21) ---
+User_dffc63: How's NS125 vs CS130? I'm particularly curious about their workload and how much practical knowledge the course gives you.
+User_95d926: I'm in a biostatistics program now and both have been useful. I think CS130 is better though. NS125 is mostly just an overview of different study design methods, mostly building on NS51. But, if you're going to be using these techniques you can just wikipedia for comparable depth of knowledge. CS130 is relatively cutting edge, and you can use knowledge of causal inference to sell yourself in an academic context (at least in my world), as many professors are interested in this but don't know much. Also, CS130 is a coding class whereas NS125 is mostly reading case studies/papers, so the skills from CS130 are more practical.
+User_140e63: thoughts on NS110u? content-wise
+User_140e63: also who teaches it?
+User_df9f1b: Richard
+User_f68c3c: It’s divided between Newtonian mechanics and EM. If you did physics in high school, you probably know the concepts but now they’re calculus based especially in EM. The workload and prep time highly depends on your physics background, but it’s doable even if you didn’t know the concepts before. The assignments are group homeworks, which takes less time (especially if you and your group mate are good at it).
+
+--- Conversation 98 (2024-11-22) ---
+User_6f6aaf: How do-able is B112 + B113 + CS110 + CS114 all in 1 sememster, would you personally recommend?
+User_c0b244: Don't overload with CS110
+User_6f6aaf: Thanks for the feedback! And so I've heard... any info on the other 3? Are they all moderate in difficulty? If so would it be better to do CS110 with any other 2? Or is there a recomended combination?
+User_c0b244: CS114 is the second most intense CS core course, so a 110/114 combo is already pretty intense and I'd say do a chill third class. I can't speak to BZ courses, but in general I'd recommend doing an elective that you don't care as much about so you don't cram all your major's cores together and not learn anything
+
+--- Conversation 99 (2024-11-22) ---
+User_069ce1: how is CS114 intense? Can you share more please?
+User_b6fd7d: PCW: CS110 >= CS114 > CS111/113
+
+Assignment: Problem sets are just a bit easier versions of Deep Dive in CS111/113
+
+Content: If you don't catch the essence behind the equation, you might fall off. There are a lot of formulas introduced in the course, but if you don't understand what is generally happening in the equation, you can easily get lost in the class and assignment. Plus probabilities and statistics generally have a lot of content that looks quite unintuitive compared to other math contents which also can make you trip off.
+User_7d7644: I haven't taken CS courses, but both B112 and B113 were not difficult I'd say. B113 had more theoretical reading and B112 was a teeny bit more practical applications. Also depends on the prof, I've found that Robbins (b113 for me) is pickier with assignment grading compared to Eberhardt (b112 for me)
+User_792c42: Who's teaching CS130 upcoming semester?
+User_7ba86b: Can someone enlighten me about tutorial courses? In the course catelog (https://course-resources.minerva.edu/uploaded_files/mu/00365054-6776/course-catalog-rev-280.pdf), it says that all majors (excluding BZ) "requires a completion of 8 additional credit units in the form of Senior Tutorials" (which is two tutorials). Some courses says that "may be substituted for a tutorial" but very few (only CS130 for CS major). However, when I look at the FAQ in myMinerva (https://my.minerva.edu/academics/academic-advising/academic-advising-faqs/), it says that "Students are not required to take tutorials, as other concentrations or major-relevant IL199s can provide the additional 8 credits needed beyond the required core and concentration courses." Which interpretation is corrrect here?
+User_237267: Tutorials is the default for last year, but you might not get some even if you sign up since the class size is small (8 ppl). However usually you take 2 tutorials for one major (yes if u double major u have to take 4, or sign up for cross-college listed tutorial). BZ is kinda outlier of my knowledge tho.
+Alternatives are
+- take concentration courses in ur major (but not ur concentration)
+- do IL199s (internships, research exp, etc) and specify that ur submission will replace tutorial (which need approval). Otherwise ur IL199 is just an elective u get 4 free credits 
+- take CS130 or NS125
+User_7ba86b: Thanks Chiffon. Different question. Does the IL199 (as an elective) have to be major related? If so how much? It does say "IL199 research/internship experiences approved for this Major" but I'm not sure what "approved" means.
+User_237267: It has to be major related if you want it to substitute a tutorial. By “approved”, they mean u submit the IL199 form, tick the box that says something about tutorial, and wait for the college head to approve u.
+Otherwise IL199 is just a 4-credit elective, you can do things outside of ur major too
+User_7ba86b: thx!
+
+--- Conversation 100 (2024-11-22) ---
+User_c0b244: Diamond, always
+
+--- Conversation 101 (2024-11-28) ---
+User_631ade: guys, can we still declare a different concentration in december of senior year???
+
+seems like cources for my concentration aren;t offered🥵
+User_0554ed: yes! I did it
+User_631ade: may i ask if in business?
+User_0554ed: in cs
+
+--- Conversation 102 (2024-11-28) ---
+User_3751e6: to declare a special concentration that already exists, do you also have to discuss with the college advisor or just fill out the form directly?
+
+--- Conversation 103 (2024-11-29) ---
+User_237267: No, you still need to talk to college head, to explain why you need that special concentration and not the offered combo. It’s a chiller conversation tho
+
+--- Conversation 104 (2024-12-02) ---
+User_896964: Hii! Did anyone overload their sophomore semester before ? If so, is it worth it ?
+User_2ec113: Hello hello, I did, but how worth it is depends on a lot of things like course choices, your future/internship plans, the work-life balance you wanna have etc.
+User_896964: I’m thinking to take 2 cs and 2 electives this semester , so I can take fewer for my third and fourth year. But I’m not sure if that actually minimizes the my third and fourth workload. My concentration is data science
+User_fdf769: Hellooo does anyone know who is in charge of game dev tutorial?
+
+--- Conversation 105 (2024-12-03) ---
+User_0554ed: Watson
+
+--- Conversation 106 (2024-12-03) ---
+User_ba2c04: If you’re on F1, I think you can only underload once
+You can also underload if you do 2 IL199s so there’s other ways to reduce your future workload without overloading
+
+--- Conversation 107 (2024-12-04) ---
+User_a961f0: didnt know visa has something to do with overloading?
+User_3f5641: not with overloading, but with underloading, cause you have to keep your full time status to have f1
+
+--- Conversation 108 (2024-12-05) ---
+User_bdf9c2: heya - has anyone taken cognitive neuroscience class (SS152)  and / or comparing histories and societies (AH152) and could answer a few questions for me - thank youu
+
+--- Conversation 109 (2024-12-06) ---
+User_97086c: who teaches SS111?
+User_8234f5: digby or sometimes robbins
+User_d4695a: Everyone sign up for the new AH110 time slot!! Let’s make sure it doesn’t get cancelled
+User_d4695a: Take it to take AH162…. I’m often told it’s one of the most perspective shifting classes at Minerva!
+User_a4a8ef: Amen!!!
+
+--- Conversation 110 (2024-12-07) ---
+User_f07979: hii, has anyone taken IL120.02 Global Sustainability Exchange? 
+would you have a review on how hard/how time-consuming it is? how are the assignments? 🥰
+
+--- Conversation 111 (2024-12-07) ---
+User_66d67f: I think this is the first time it's offered! Not 100% sure but quite likely.. but having taken a similar 2 credit course IL120.03 (a policy, SDG focused course), also designed by Prof. Odera and Prof. Dosmann, it really was half the work of a normal course. The assignments directly related to Sustainability Lab work study but you could totally do them without being in the work study too, this just made it easier and quicker.
+
+--- Conversation 112 (2024-12-10) ---
+User_04eb8b: This was offered last Spring for the first time, unrelated to Sustainability Lab WS. Though they probably updated the syllabus & improved the course since. Afaik [handle] [name] [handle] took the course and could say more.  
+
+Minerva sustainability newsletter also shared some of their deliverables from last year.
+https://open.substack.com/pub/tellusmater/p/minerva-sustainability-newsletter-7fe?utm_campaign=post&utm_medium=web
+
+--- Conversation 113 (2024-12-14) ---
+User_5e8323: Is it possible to take 1 majors and 2 minors?
+
+--- Conversation 114 (2024-12-15) ---
+User_a961f0: yes, im currently a CS major with ss and ah minors
+User_c7fdd7: is it possible to have a triple concentration?
+User_a961f0: i believe so
+User_a961f0: your total credit shouldnt exceed 120
+User_a961f0: otherwise you have to pay extra tuition
+User_df9f1b: I don’t think so
+User_3f5641: I also don’t think you can, you won’t have enough class space to fill all the requirements to graduate
+User_c7fdd7: unless i’m being delusional, i think i can (given that the concentrations share classes)
+User_af01b7: technically you can (two horizontal + 1 overlapping vertical or 2 verticals + 1 overlapping horizontal) but it would be very hard bc of prereqs.
+
+Sample pathway:
+
+y2 sem 1: 3 core classes
+y2 sem 2: 1 core class, 2 concentrations (2/7) OR 2 electives
+
+y3 sem 1:  3 concentrations major (5/7)
+y3 sem 2:  2 concentrations major (7/7), 1 elective (1/5)
+
+y4 sem 1: 2 electives (3/5) OR 2 concentrations
+y4 sem 2: 2 electives (5/5)
+User_c7fdd7: yup, this is what i had in mind
+User_af01b7: also like guaranteeing that you get the classes you want every time, esp if you're ns/ah
+User_c7fdd7: but do you know if this would be “official”?
+User_af01b7: no idea, i barely had 1 concentration lol
+User_af01b7: but i don't see why not
+User_9fdc87: What is the source for this? I think you have to pay extra tuition if you have to take an extra semester (don’t get 120 credits in 8 semesters)
+User_a961f0: im not sure, but i believe if you overload, like i was considering overloading with two other courses and i was told that given my current major and 2 minors, i will be exceeding the required credits and will have to pay extra
+User_a591e3: You don’t. Due to reasons, I have been underloading my last 3 semesters, but had to pay full tuition. However, next year when I’m over the 8 semesters, all I have to pay is the student services fee unless I go over 120 credits. Got this directly from Melissa when I was arguing about having to pay full tuition.
+User_df9f1b: But also it’s like “wow I did one more course than a person with double concentration and now I have triple concentration”. What’s the point?
+User_c7fdd7: that i like those 3 areas
+
+and would want that reflected in my transcript (?)
+User_df9f1b: go for it
+
+--- Conversation 115 (2024-12-15) ---
+User_8bbbff: When will they release the lottery results? I forgot how it was last time.
+User_51212c: the correct answer is always: "At some point"
+User_8bbbff: Before or during 2025 - in your opinion?
+User_51212c: Add/drop might happen slightly before Elevation so I think it'll be first week of 2025
+User_8bbbff: Makes sense, thank you!
+User_d09730: I technically satisfy triple concentration (with overlap of courses ofc) and talked to Tambasco about having all three on my transcript, but he was essentially "that's silly, more words on your transcript really doesn't matter much, just pick two and chill" (but said in the kind Tambasco way)
+User_d09730: But yeah, perhaps they'll let you do it. Worth asking!
+
+--- Conversation 116 (2025-01-14) ---
+User_7b8666: Telegram gc for folks taking IL120 with Prof Dosmann at 1pm SF time https://t.me/+H2Hkr7AJCcwwYzhh
+
+--- Conversation 117 (2025-01-22) ---
+User_358af9: https://t.me/+q-BtQ2caxwNjMTc1
+
+--- Conversation 118 (2025-03-21) ---
+User_52c3df: Thoughts on CS130 vs NS125?
+User_d09730: Those classes cover quite different things. Are you wondering about how they compare in workload? or how useful/interesting the topics are? (which is ofc very subjective and depends on your personal goals). Both of these classes can also replace a tutorial, depending on your major I think, that can also be a reason to take these courses.
+User_d09730: You might also find more information in this Minerva Courses Student Feedback doc (https://docs.google.com/document/d/18uryHmRM7VvvRKOVMLPjtC_19u1oZDaN6Xh_XWzdmls/edit?usp=sharing)! (cred to the creator [handle]). It's not complete, but a good place to collect thoughts and feedback.
+User_09dde9: we shall keep adding to it!
+User_52c3df: I heard that CS130 is kind of a mix of study design from EA and stats from FA, while NS125 is just the EA “review”. Do you agree? 
+Or do you think they are just very different?
+User_52c3df: Ohh nice! Thanks for sharing :)
+User_d09730: I haven't taken CS130, but for NS125 I wouldn't quite agree that it's a review of EA. NS125 is about how to read papers, how to analyze papers, how to write a literature review, how to write papers. It's a great class that teaches you valuable skills if you plan to do research in the future. But there are many things in EA that is not in NS125.
+User_52c3df: I see! Thank you for the review :)
+User_c0b244: I think that is actually a pretty fair explanation of CS130, except of course the material is very different from cornerstone courses. But that combination of themes is spot on. It’s about how we can prove causality in observation studies, which in FA and EA we are told is impossible!
+User_09dde9: I've added this qna to NS125 (which wasn't a heading on the doc before, maybe it's a new course)
+
+--- Conversation 119 (2025-03-30) ---
+User_04eb8b: Prof. Zoogman teaches NS125, and the course workload isn't much if you are already comfortable with R. It is mostly just reading research papers, discussing methodology, writing lit reviews, and R.
+
+I personally enjoyed the course because the prof is very fun and engaging. He is strict with grades though.
+
+--- Conversation 120 (2025-03-30) ---
+User_7ffcd4: do we know if NS125 will offered in the spring 2026?
+User_09dde9: https://docs.google.com/spreadsheets/d/1Xcl8JK-t9gtViSWR4KTjpO1cTPRixWGEapYsUyOpc8A/edit?gid=1162321712#gid=1162321712
+
+according to this no
+User_7ffcd4: Yet NS125 is offered the exact same time as NS154, which is offered once a year....
+User_7ffcd4: should I take Econ or Poly sci? whats the opinion on the two classes?
+User_7ffcd4: “As of now, we think it will only be in the fall. Do you know of other students who want to take both NS125 and NS154? If there are several of you, we might be able to shift the time for NS125.” - Prof Wilkin
+Does this apply to anyone?
+
+--- Conversation 121 (2025-03-30) ---
+User_c70149: thoughts on taking cs162 and cs164 together? (looking to understand the course content and load better for both of these)
+User_237267: They’re very different classes in terms of content. CS162 is swe, so it’s programming heavy even with AI, had 3 assignments and a semester-long group project when I took it (spring 2024). CS164 is optimization, so it’s pretty mathy and you only code to solve optimization problems. It had 4 personal assignments (2 projects, 2 problem sets), each took me 1-3 days to do (Fall 2024). 
+I wouldn’t rec doing them tgt, but if u want to fast track your CS&AI concentration then maybe. It’s not my concentration + I didn’t take 166 so I’m not sure about pairing/planning
+
+--- Conversation 122 (2025-03-31) ---
+User_5d32f4: Do the CS164 assignments applicable to real-life scenarios? Or are they just mathy math?
+
+--- Conversation 123 (2025-03-31) ---
+User_237267: Quite applicable to management science (when you need to optimize tons of variables subject to many constraints).
+I’m interested in Machine Learning so the unit on unconstrained optimization is more relevant to me.
+You can search cs164 in CS chat for other ppl reviews
+
+--- Conversation 124 (2025-03-31) ---
+User_b6fd7d: i think it was quite mathy except for LBA and final project. Final project you can basically do anything you want so you can choose something more relatable to your context 🙂
+
+--- Conversation 125 (2025-04-02) ---
+User_935186: does anyone have a copy of that PDF with all the majors, minors, and courses listed?
+User_e40a5d: https://course-resources.minerva.edu/uploaded_files/mu/00376438-6600/course-catalog-rev-330.pdf
+
+--- Conversation 126 (2025-04-03) ---
+User_2d7394: What happens if your 5th absence is a result of two late arrivals? What is the excuse?
+
+--- Conversation 127 (2025-04-04) ---
+User_e40c81: Hey yall. Can anyone explain how the add/drop works for someone who did not complete the course lottery?
+User_abee87: If you did not fill the lottery you are initially not assigned any courses and have to wait until add/drop. Once it opens, actively lookout for the courses you want and add them and coordinate with ppl who are dropping the courses you want.
+
+--- Conversation 128 (2025-04-05) ---
+User_c8bfe7: add/drop will appear at your forum page when it opens, so keep an eye out for that
+User_d56a50: Do we have any exact date/time courses are released or is it sometime random in august
+User_a591e3: Even if we had a date and time, it wouldn’t matter because Minerva never releases them when they say they will.
+User_8bbbff: Wait it's in August? Huh so long
+
+--- Conversation 129 (2025-04-06) ---
+User_51212c: it has always been like, one week before class starts or smth
+
+--- Conversation 130 (2025-04-08) ---
+User_bc9342: Can I submit the overload course form after submitting the course lottery? or when is the deadline to submit it?
+User_048800: yes, you can and it can be approved
+User_048800: and i think you can add a class during the add/drop period
+
+--- Conversation 131 (2025-04-13) ---
+User_bc9342: Can we petition to change our capstone advisor?
+User_7047ef: I think only if both profs agree
+
+--- Conversation 132 (2025-04-13) ---
+User_bb0394: Make sure both profs agree, then email Hadavand.
+
+--- Conversation 133 (2025-04-19) ---
+User_d4695a: Has anyone ever graduated Minerva early?
+
+--- Conversation 134 (2025-08-26) ---
+User_2d7394: Guys what?
+User_2d7394: Can anyone confirm this^?
+User_8234f5: heard this from other profs from other colleges as well (tho that’s not super solid „confirmation“)
+User_2d7394: From when has this been a rule? With the new academic policies or from before that.
+User_6c3fbc: Just so you know, we have never had concentrations stated on our diplomas. They are only mentioned in the transcript - which is probably what Prof. Volkan meant instead of diploma here. But regarding this new policy idk
+User_2d7394: Ohhhh thank you
+User_2d7394: But can we not even declare them anymore?
+User_2d7394: That seems kind of counterproductive seeing as we have a maximum of 6 preset concentrations per college
+User_6c3fbc: Yeah I don't understand that part. It seems like it's not possible to have a special concentration anymore?
+User_8234f5: pretty sure it’s new, i assume they will say sth abt it during elevation
+User_2d7394: Is there anyway to… protest?
+User_6c3fbc: They also say "you are not required to apply and justify" instead of "you are not allowed to declare/take" which is the confusing part to me. Maybe you can still take a special concentration but then you won't have any concentration stated in the transcript?
+User_8234f5: i am not sure if this will be the case for the other colleges but in ah you can now just do your special concentration without anybody minding (if you get your major requirements ofc but ur not bound by the concentrations anymore). both your transcript and diploma will just say „arts and humanities major“ rather than specifying the concentration on the transcript additionally
+User_2d7394: I don’t mind the transcript part as long as it’s a legit concentration and not some random courses I took and slapped a name over.
+User_2d7394: She made a point that most things only care about the classes you take and you can justify the requirements about them, but we already have to justify so many things about Minerva (lack of labs, online forums, flipped classroom, yada yada), I don’t want a special concentration to be one of them.
+User_2d7394: I just want to say I’m a CS major concentrating in _ you know?
+User_8234f5: if u wanna be able to say that then i think you need to take one of the designated concentrations…
+User_2d7394: Yeah it seems like it now
+User_2d7394: But the thing I want to do isn’t one of them, but would be possible with a special concentration.
+
+--- Conversation 135 (2025-09-17) ---
+User_d4695a: Do I need to be enrolled in an IL(or EL)199 forum class to submit internship credits or has that changed since last semester? Do we just need to email materials to registrar now?
+
+--- Conversation 136 (2025-09-17) ---
+User_a72438: Yes
+User_a72438: As in you need to be enrolled
+User_8234f5: there is a form on registrar, you can still enroll for fall i think
+User_d4695a: Thanks!
+
+--- Conversation 137 (2025-10-09) ---
+User_52ac9c: Hey guys! After graduation, do we keep our access to Forum? Can we access our previous assignments and classes?
+
+--- Conversation 138 (2025-10-21) ---
+User_f644b9: What is the absolute most meme class given as a core at Minerva?
+User_f644b9: I finished ns cs double at the end of this sem but im remote so need some extra credits
+User_f644b9: And after 3,5 years of minerva I don’t feel like making that hard
+User_df9f1b: take cs tutorials? with watson its usually easy and fun
+User_f644b9: I have done enough cs
+User_f644b9: Just smth where i can bs and leave my brain alone
+User_f644b9: It needs rest
+User_51212c: max out IL199?
+User_a56433: SS111 is a pretty easy core econ class (if prof digby is still teaching it, not sure if it'll be as easy if morgan's teaching it)
+
+--- Conversation 139 (2025-10-21) ---
+User_f644b9: Already did
+User_5a2147: I can vouch it is easy but very boring if morgan is teaching it
+User_8bbbff: psychology core was easy but boring for me
+
+--- Conversation 140 (2025-10-22) ---
+User_af01b7: Depending on the professor, business cores can be extremely chill
+User_af01b7: Not sure if you're able to take one at a time rn
+
+--- Conversation 141 (2025-10-31) ---
+User_939f73: Has anyone successfully transferred external course credits? How difficult would it be?
+User_bcbd83: For me it was fairly easy but they don’t replace minerva courses. Regardless how many credits you transfer you get 2 extra credits , in my experience,
+User_939f73: Thanks! So it's only something you could use to fulfill your 120 credit requirements, but not as a replacement of electives or something?
+User_bcbd83: Yes unfortunately only help is you don’t need to select an elective if you don’t want to. Even i transferred 4-5 college credit classes I got 2 credits but classes shows under your transcripts  after minerva classes
+User_939f73: Ahh I see thanks for your information!
+
+--- Conversation 142 (2025-11-05) ---
+User_84f408: Which Prof. teaches NS162: Statistical Mechanics: Theory and Applications?
+User_f68c3c: Prof Wilkins
+
+--- Conversation 143 (2025-11-06) ---
+User_92002f: where can I see the spring/fall course offerings?
+User_8234f5: https://docs.google.com/spreadsheets/d/1Xcl8JK-t9gtViSWR4KTjpO1cTPRixWGEapYsUyOpc8A/
+
+--- Conversation 144 (2025-11-12) ---
+User_ee16ce: Hi I know that we have a kind of course review or prof review something at Minerva? is anyone having that link 🙏🙏🙏
+User_a10c53: why not just ask in the channel
+User_a10c53: of prof reviews
+User_3751e6: its more course based but it has about profs https://docs.google.com/document/d/18uryHmRM7VvvRKOVMLPjtC_19u1oZDaN6Xh_XWzdmls/edit?tab=t.0#heading=h.esn7ktny5er9
+
+--- Conversation 145 (2025-11-12) ---
+User_ee16ce: Oh this is what I meant
+
+Thank youuu!!!
+
+--- Conversation 146 (2025-11-14) ---
+User_a5c89c: any recs for the CHILLEST classes?
+User_3f4518: cs152
+
+--- Conversation 147 (2025-11-14) ---
+User_50db50: New ah111 gonna be lovely I promise
+User_8234f5: ah113? (not sure abt the new version tho)
+
+--- Conversation 148 (2025-11-14) ---
+User_ae375b: Who's going to teach that next semester?
+User_c63129: Carter
+
+--- Conversation 149 (2026-01-10) ---
+User_52ac9c: Groupchat for IL120.02 - Global Sustainability Exchange: https://t.me/+GGrM901J6F0xM2Ex
+
+--- Conversation 150 (2026-02-04) ---
+User_f644b9: how many absences do you get in tutorials?
+User_a72438: 2
+User_f644b9: wowow
+User_f644b9: that is great news
+User_8234f5: tho the second one gets a 0 on class participation
+
+--- Conversation 151 (2026-02-04) ---
+User_52ac9c: Does tutorials run only once a week? And the credits are 4 or 2 credits?
+User_3751e6: it runs once a week (4 credits) but for most tutorials you still have to complete extra stuff to compensate for the 1h30 in the week since you dont have another class session (requirement for the tutorial to be 4 credits but some profs just ignore so you dont have to complete anything, depends on the tutorial you choose)
+User_52ac9c: Wow that's so good, so in some way it's less work? Depending on the prof
+
+--- Conversation 152 (2026-03-19) ---
+User_29896b: hey! for GL 2 is the passing grade now right?
+User_8bbbff: 2.0

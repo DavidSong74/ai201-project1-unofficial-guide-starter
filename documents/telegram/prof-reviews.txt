@@ -1,0 +1,1083 @@
+# Topic: Prof reviews
+
+--- Conversation 1 (2023-01-01) ---
+User_792c42: Hello, following up on amazing [name] 's idea.
+User_792c42: Also curious to know how Prof. McAlister is as a faculty, SS51 instructor and human in general?
+
+--- Conversation 2 (2023-01-02) ---
+User_94cad8: I had Prof McAllister in SS152 last semester and I found her great! She is a great Prof, gives a lot of targeted extra information in the Slack channel (which you don't have to engage with but it's super useful), she cares about students (once asked me on slack if I am okay after missing two classes in a row), and gives pretty good grades! I got my very first 4-only assignment with her 🥳
+She is just very nice and wants the best for all!
+No idea how she is in cornerstone
+
+--- Conversation 3 (2023-01-04) ---
+User_668318: Hi people! Is prof.Odera strict with grades? I am considering add/drop her capstone seminar and I'm only looking for an easy-grader, nothing else.
+User_7facf1: He is quite strict with grades, not so much with CP but he isn't the easy-grader you are looking for
+User_668318: thanks!!
+
+--- Conversation 4 (2023-02-20) ---
+User_56d8b3: Has anyone had Odera as a capstone grader?
+
+--- Conversation 5 (2023-02-21) ---
+User_1105f1: How's Hadavand as a capstone grader? (in terms of easy/strict grader, help and support hahha)
+User_5099f8: Does advisor == grader?
+User_8d6ca3: I have Hadavand as my advisor and would definitely recommend him! He’s a fair grader and is very clear about his expectations (and the expectations are reasonable). I would say that I push myself in my capstone more than he pushes me (but of course that would change person to person)
+User_e150d3: Any feedback on Sterne as a capstone advisor?
+User_7facf1: + any recommendations on a capstone advisor suitable for a ML/SS focused (even split) project
+User_be9083: Anything ML-related, I would recommend Prof Watson
+User_1f3697: Watson, Hadavand or Wilkins would be my best guesses
+User_74cce8: oh yes http://ahadavand.com/ has almost perfect background i think...
+User_455221: Anyone had Prof Powers grade their capstone? Specifically AH-oriented capstone
+User_872e7f: Watson from my experience has not been that helpful, he has 15 students (typically profs has 2-4). You definetely get a lot of freedom but it comes at the cost of guidance. He also puts very little effort into capstones, he barely read mine capstone draft while providing only 2 short comments (usually 10-22 comments are given).
+User_17d585: Has anyone had Kukis or Digby or Goldemberg as advisors haha
+User_8a6913: I talked with Goldemberg two weeks ago, and she said she isn't taking any capstones this year cuz of the baby. 🥲
+User_17d585: noooooo
+User_c177ea: Kukis is as chill as you can get
+User_17d585: amazing! thanks
+User_be9083: Ah, I see. So maybe instead of as an advisor, use him as more of a domain expert?
+User_17d585: Has anyone had dollie davis as an advisor?
+User_8b0e21: I know an M22 who had Davis, and she said she was amazing and super nice
+User_17d585: Thank youu 🙏
+
+--- Conversation 6 (2023-04-08) ---
+User_1be83c: Anyone know of a professor with a research background in ethics and computer science?
+
+--- Conversation 7 (2023-04-19) ---
+User_b5e389: How is Prof. Wilkins in terms of grading?
+User_751cc5: in FA50 he was pretty chill
+
+--- Conversation 8 (2023-04-19) ---
+User_d12c6e: Hi. Anyone used to have NS125 with Peter Zoogman? How was him in terms of teaching and grading?
+User_bfd47a: LOVE HIM! I was unsure in the beginning bc people were kinda quiet in class, but he really grew on me and by the end I'm like ❤️❤️❤️❤️ As for grading I think it's pretty fair, good comments
+User_ae5647: How is prof. Levitt with cs111?
+User_562584: Any thoughts on Prof. Phillip Sterne (specifically for CS162)?
+User_562584: Or Aaron Lawry for business/B144? :)))
+User_562584: If you’re talking about Rena Levitt she was amazing! So kind, very very gentle grader, and created a really good environment in class. A little slow with getting grades back but overall highly recommend (especially if the alternative is Richard…)
+User_f28ef1: literally my nemesis but some people like him. i do not find him to be very good at facilitating or teaching anything at all. he’s a good teacher if you already know what you’re doing but not otherwise
+User_da8a35: I got prof Richard for cs111 and I read a lot of «everything is wrong with him» messages so I am kinda worried now
+any more details on him as a prof?
+User_752da4: Hello! Did anybody have Prof. Florin-Stefan Morar for AH110?
+User_2c19b9: I did! Anything specific you want to know?
+User_752da4: How is he at facilitating the class? Is he a fun or serious prof? How is the grading? Thank you!!
+User_2c19b9: Hmmm he's an AH prof, which in my experience usually means chaotic and fun more than serious (it does apply to him as well). He's very supportive and super sweet but there were times I wished I was challenged to think deeper and more seriously about stuff I was saying in class. Grading was pretty chill on my end!
+User_52c3df: How strict is Odera with word count?
+User_cd77ec: People have very mixed opinions on him. My theory is he teaches better in his afternoon but worse in his morning. I thought he had a pretty enjoyable class and I learned a lot (although I learned little from him, more from the readings)
+User_cd77ec: When I asked him this, he just laughed
+User_73b1fc: Most of the complaints with Richard are in regards to him teaching stuff he doesn’t know (ie past CS110s, I had him this semester and no real complaints from my end). CS111 is basic content, so he should be a good professor for that
+User_bb0394: Polarising. He’s not particularly good at making content accessible (i.e. he assumes everyone understands the readings). One time, someone asked him how to do a good primary source analysis, and he replied, “you would know if you’re a good historian” 🤩🤩🤩 
+
+My class was not a big fan of him because of how frequently he interrupted everyone while we were speaking and his jokes were sometimes offputting. However, there are classes that really really vibe with him. 
+
+I guess it’s not the end of the world if you have Morar, but yea it’s probably a hit or miss!
+
+--- Conversation 9 (2023-04-19) ---
+User_a591e3: Very. At least he was when I had him for SS51.
+
+--- Conversation 10 (2023-04-20) ---
+User_c88a39: Anyone know how is Prof. Shekhar for CS152?
+User_370fd9: he's great, and so is the course:)
+
+--- Conversation 11 (2023-04-21) ---
+User_73b3dd: Prof. Nikki Eberhardt21:00 TTh
+B110
+Market Dynamics and Product Analytics
+Prof. Mark Sheskin10:00 TTh
+SS110
+Psychology: From Neurons to Society
+Prof. Engin Volkan17:00 MW
+B111
+Financial Planning, Budgeting and Modeling
+User_73b3dd: Thoughts on this stack?
+User_e0d81f: I had something similar back in 2021 and it was manageable. B111 is the most time-consuming one of those three, and B110 is very chill. I haven't taken SS110 but heard that it's also very chill.
+User_e0d81f: I was taking B110, B111, and SS112, and had all the three classes the same two days (Tues, Thur), with 2.5-hour breaks in between each class, and did well. SS112 was my last class each day, and I didn't like it because it was boring, but from what I've heard SS110 is much better.
+User_0554ed: SS110 is better structure-wise than any SS core/concentration but you will spend a lot of time trying to understand scientific articles :))
+User_73b3dd: Thank you [handle] [handle] for the great feedback! I'm planning to attempt to switch B111 to TTh to have all my classes in one day, but how is Prof. Volkan? I don't want to risk losing a good Prof. in the process
+User_e0d81f: Is someone else teaching the other section?
+User_e0d81f: As far as I know Prof. Volkan has been the only one teaching B111 for some time now, but this might have changed
+User_73b3dd: This is most likely the case then, I'm not aware of the other sections yet
+User_62c728: Marthur used to also teach it but if you can stick with Volkan
+
+--- Conversation 12 (2023-04-25) ---
+User_26f5dd: If you can change it you better do it. I have seen ppl suffering with CS111, CS110, and even physics NS110U
+
+--- Conversation 13 (2023-04-25) ---
+User_1be83c: He wasn't the worst for CS111. He definitely knows what he is teaching but sometimes he made things too complicated and didn't seem overall interested in engaging with students. Office hours might have been better, though.
+
+--- Conversation 14 (2023-04-26) ---
+User_f68c3c: He's already teaching 3 out of the 4 available sections :(
+
+--- Conversation 15 (2023-05-13) ---
+User_792c42: Thoughts on Prof. Sheshkin? How's he as a faculty, SS110 instructor and human in general outside the classes?
+User_bfd47a: I love him, great instructor, improved the class based on feedback during the semester (which was a first to me) and really REALLY loves science of learning hahahhah I find him pretty funny, not the easiest grader but helpful in OH as well
+
+--- Conversation 16 (2023-05-15) ---
+User_209f88: I liked him! He was in a different country like every class and that was really cool. He gets excited about random things which I think is cute, and if you are also excited about something then he's very encouraging about you pursuing it. He laughs a lot and loves it when you bring in your own knowledge about history, e.g. things which happened in the country youre from or anything to add to the discussion and perspectives :) use those topics for assignments too! Class facilitation was a little chaotic and sometimes class was a bit boring so take the class sitting with friends also in the class! (This was lifesaving advice from [handle]:) things are a bit slow at the start where you just learn about historical analysis, but it gets more interesting throughout the semester! grading is perfectly ok, I didn't know what I was talking about in a lot of polls and was totally fine, also most prep polls are about things directly from the readings and the reflection polls are directly from class discussions, and the readings are like a hundred billion pages long so definitely section out time for this and what worked best for me in the end, was reading the chapters like a story. Think of it as happy little story time 💗
+User_209f88: Show him you are interested :)
+User_209f88: And its going to be fine
+User_752da4: Thank you so much for the detailed review ))) I think it'll help a lot <3
+
+--- Conversation 17 (2023-08-23) ---
+User_792c42: Hii, how is Prof. Ribeiro  as a faculty, CS110 instructor and human/mentor in general aside from the classes?
+User_7facf1: Amazing i love her! Had her as my CS110 instructor and later manager, application recommender. What I like about her is the high standard and discipline she models for you to follow, and an insistence on high quality work with great feedback along the way. I will die on the Ribeiro hill
+User_834bbe: you will die alone there
+User_f28ef1: she’s an absolute girlboss and she’s incredibly observant. high standards yes but she notices when you care and she honestly cares even more. for graduation (literally 2 years after i took her class) she wrote this super specific and incredibly sweet note. i am a ribeiro apologist
+User_f28ef1: not if i have anything to say about it 🫡
+User_05c9eb: She knows the stuff but you will remember the "lovely" grades she gives you till your grave
+User_a56433: I would like to support this opinion. I had her as my CS110 instructor as well and found her to be quite supportive (especially when I reached out for support in office hours, as someone without much CS background). I found the grading as well to be mostly fair, neither too easy nor too harsh. Overall, I had a pretty good time in the class!
+
+--- Conversation 18 (2023-08-24) ---
+User_d12c6e: Hi. How is prof Diamond (CS130) in terms of facilitating the class and grading?
+User_df9f1b: He’s not very structured in terms of following the lesson plans. At some point we were one class behind. But the things he teach are better than the lesson Plan tbh. Easy and fair grader and listens to students requests.
+User_05c9eb: The most funny and interesting class you'll take in your four years
+User_d12c6e: lol thank youuu
+
+--- Conversation 19 (2023-08-28) ---
+User_b0c3cb: how is Morar?
+
+--- Conversation 20 (2023-08-29) ---
+User_ce8131: ah110 experience: easy-ish grader, usually defaults to 3s unless you do smth terribly wrong; has favourites in class but it doesn’t undermine others’ performance
+
+--- Conversation 21 (2023-08-29) ---
+User_bb0394: Someone asked about Morar before for 110, and my opinion remains unchanged
+
+--- Conversation 22 (2023-08-30) ---
+User_209f88: Same!😍
+User_209f88: I enjoyed his class <3
+
+--- Conversation 23 (2023-09-09) ---
+User_1105f1: Not prof, but is there anyone who worked in a role similar to Brand & Creative intern at Minerva Project? Or anyone who has worked with Amber Mason? pls react to this I wanted to ask how's the work commitment and about the job in general :)))
+
+--- Conversation 24 (2023-09-11) ---
+User_ee710e: Hii! Has anyone worked with Prof. Sealfon as a WS manager? Never heard abt her so I would appreciate reviews in general :)
+User_d3b4e3: I had her for NS50 in my first year; generally a nice person but not a great professor; she tends to be critical with feedback so they are helpful
+
+--- Conversation 25 (2023-09-13) ---
+User_ea1a15: I’m M27 and have her for EA50 (maybe they renamed it?) any tips on doing well in her class?
+User_d3b4e3: I would say you should participate actively in class, ofc do pre class work, and visit her office hours to ask additional questions. Also, when writing an argument, always back it up with an evidence and cite the source (#evidencebased is key!) Other than that, just read the instructions carefully for assignments and start early! You got this :)
+
+--- Conversation 26 (2023-09-13) ---
+User_350299: hi everyone! im also M27 and wanted to ask about Prof. Robbins (FA50). how strict is he with assignments and do you have tips to do well on his class?
+User_e118cc: Is Prof Sterne a strict grader? :)
+
+--- Conversation 27 (2023-09-13) ---
+User_cd77ec: I’ve had prof Robbins 4 semesters now (although I didn’t choose that, but I didn’t add/drop just to avoid him). He’s a fair grader and a kind human, but his feedback isn’t the most useful. He’s also wrong about a lot of things (like how he “doesn’t believe in r^2”) and he’s an economist, not an expert on CS, so take everything with a grain of salt. He seems to like dryer assignments than some other profs(eg he wants just the answers and justification and nothing fancy). My biggest problem is his voice makes me fall asleep and lose focus — so I’d definitely say focus on actually staying alert and active in his class (he may genuinely be the reason for my caffeine addiction).
+
+--- Conversation 28 (2023-09-14) ---
+User_350299: omg thank you so so much!!! 🫶🫶
+User_df9f1b: I think he’s the most boring Professor at Minerva. I think he’s a moderate grader but the main thing is he doesn’t care about students’ learning . If you literally don’t show any engagement in class, don’t prepare well or do bad in assignments he will not bother you. So you gotta build motivation yourself.
+User_792c42: this is the most Ethan Willick response I've ever read from Ethan Willick.
+User_df9f1b: Also he brings his brother a lot in his conversations in class.
+User_7047ef: omg ya his dodgy brother
+User_df9f1b: Oh well that’s morally questionable for me but my brother might do that jajajaja
+User_c518af: what did he do to be classified as dodgy lmao
+
+--- Conversation 29 (2023-09-14) ---
+User_8bbbff: Any info on professor Bentsen? He is my FA professor this year, mainly about grading
+User_bb0394: If my memory serves me well, I believe he is a new professor!
+User_a8cae1: Heyy, any information on prof. Klein? He's my EA50 professor
+User_562584: Any tips about Prof. Sterne’s grading style?
+User_8bbbff: Oh okay, then IMO he's really good, don't know about grading yet as I've received only one grade from him but classes are super fun w/ him
+User_792c42: Also fair disclaimer: the grades you receive from TAs (who usually grade your 1x class polls/assessments) do not ALWAYS map to the professors' grading style. (in assignments)
+
+*For better or worse*
+
+--- Conversation 30 (2023-09-15) ---
+User_c0b244: I agree with the "he likes dryer assignments"!!! Do not be creative with Robbins, you will suffer
+
+--- Conversation 31 (2023-09-19) ---
+User_419187: Omg Klein is like a mixture of Phil Dunphy from modern family and Dr doofenshmirtz (iykyk). Also a very peculiar dude, and not a huge fan of the growth mindset lol.
+User_c518af: 😂🤧 Phil from modern fam & Doofenshmirtz, danggg what a combination =))
+
+--- Conversation 32 (2023-09-20) ---
+User_8bbbff: hahahahah
+
+--- Conversation 33 (2023-09-20) ---
+User_752da4: Can anybody please tell me what Prof. Dosmann focuses on when grading? Does he like creative approaches? Or does he prefer it when students just follow the instructions? Thank you!
+User_792c42: From EA at least I can tell, he's definitely a checklist grader. Like meet all the requirements, get a 3. Do more =4. 
+
+But his level of feedback is unmatched by any other professors I have had so far. Very detailed, very helpful.
+User_df9f1b: + Go to OHs and take feedback on your work and see your grades jump :)
+
+--- Conversation 34 (2023-09-21) ---
+User_8bbbff: Can we do that even though he's not our prof? Or how does that work? Since he wouldn't know our work
+User_7047ef: you can go to any prof's office hour even if they dont teach u (but sometimes they designate separate one's for ppl they're not teaching)
+User_df9f1b: i think yes. you can email him and ask. in general he really cares about students and is very nice to talk to. i would suggest going during not so busy weeks because then he wont have students coming from sessions he's teaching.
+User_8bbbff: Alright thanks!
+User_8bbbff: Thanks
+User_bb0394: Not a student of Dosmann, but i think if you want advice for improving your grades, going to a different prof’s OH may not be the most ideal because the ones grading your polls will be your TA and prof! But if you just want to know more about him, then visiting his OH is defnitely good)
+
+--- Conversation 35 (2023-09-22) ---
+User_751cc5: building on this-- profs have very differe qualifications for what a strong paper is, so if it is a matter of maximizing grades, go to your specific prof. If it's a matter of general advice based on a different prof's interests, then go there
+
+--- Conversation 36 (2023-09-22) ---
+User_95d926: how is gale on word count?
+User_bb0394: Strict. E.g., she downgraded my #professionalism because i was 5 words over, and I was dead sure it wasn’t because I checked many times but I didn’t bother arguing.
+User_95d926: gross
+User_95d926: i will be careful then thanks
+
+--- Conversation 37 (2023-09-24) ---
+User_74a5d5: Faculty expertise and interests spreadsheet, in case M27s haven't seen this yet
+https://docs.google.com/spreadsheets/d/1_o4lbs8R4X0RUK55AUUOab2ken9QI7o_tJiQgj8-w9g/edit?usp=sharing
+
+--- Conversation 38 (2023-10-04) ---
+User_b896cb: Has anyone had Prof Wisor?
+User_e150d3: best prof ever!! i had him for AH50 in first year and he was AMAZING but he’s a bit of a strict grader with high expectations
+
+--- Conversation 39 (2023-10-06) ---
+User_d3b4e3: [Recommendation Letters]: Does anyone have experience getting a recommendation letter from Prof. Eberhardt? Could you please react to this message or DM me? Thank you!
+User_74cce8: [handle] ?
+User_d3b4e3: [Recommendation Letters Pt.2]: Does anyone have experience getting a recommendation letter from Prof. Robbins? Could you please react to this message or DM me? Thank you!
+
+--- Conversation 40 (2023-10-13) ---
+User_1be83c: Is it possible to request a specific professor as a capstone advisor?
+User_e04c25: you create a priority list and then profs choose you. If you talk to prof beforehand and agree about them being your advisor, most often a guaranteed way.
+User_05c9eb: if you really want someone in specific, I would advise that you talk to them beforehand. Sometimes, profs aren't taking on advisees or not many of them e.g. Digby and Scheffler this year so talking to them beforehand could be really helpful.
+User_1be83c: Thank you [handle] [handle]
+User_8e115b: but keep your expectations low. Before my advisor pick AND my second advisor pick I talked with my first pick both times and in both times I got someone that wasnt even on my list :P
+User_8e115b: but at the same time your capstone advisor dont matter. Even if you dont get a prof you can always talk with them during office hours or arrange meetings. Sometimes its even better to not have your first pick as your advisor, because profs may not give you certain advice when they are the ones grading you.
+User_05c9eb: Well you could still get a super shitty grader and then destroy a whole years worth of work. Bad grades on assignments sound like the worst possible feedback loop during Capstone
+User_05c9eb: I think more than just talking, you want to sell your idea to them and get them invested in the project. Send emails when you make progress during the third year or when you're ideating, ask for their input just to get them hooked
+User_8e115b: yeah. I should also add that most of my prof picks were super popular profs which is why I didn't get them. so be aware of that too when picking your prof.
+
+--- Conversation 41 (2023-10-15) ---
+User_d2ac50: random question but has anybody asked mcallister for a letter of rec? ❤️
+User_7fa6b7: I have
+
+--- Conversation 42 (2023-10-16) ---
+User_5170f0: what's his brother doing?
+User_5170f0: On the note of professors, any tips for Kate Donnelly (EA50/NS50)?
+User_5170f0: The lack of discussion is evident compared to my other classes, and it just feels very surface level, 
+
+Especially compared to the huge readings,
+
+Her audience management also seems weird, as she cuts discussions or like, doesn't  start them
+
+--- Conversation 43 (2023-10-17) ---
+User_752da4: I have had Prof. Donnelly in NS50 and have her right now in NS111. Honestly, she is such a sweetheart! Her grading is very lenient. My tip would be to use a lot of sources. She's really serious about source quality and evidence-based. Don't mess up your references. She double-checks those very thoroughly. During class, she can be slightly chaotic, but in my opinion, that's just because she's very passionate about some of the things she teaches (especially when it comes to rocks ahaha). Cutting discussions is quite common for many professors and sometimes understandable. I think Prof. Donnelly does it when a student's answer is wrong, too long to save class time, or when she wants to add something to your point. Don't take it personally. If you feel the need to clarify some stuff from class go to her office hours! Again, she's super sweet :))
+User_f644b9: celebrate the coming semester that u have donnelly instead of moy thats my tip
+User_321f48: Whats wrong with Moy?
+User_f644b9: Moy even more than gale depends on how much she likes u
+User_f644b9: And if she doesn’t be prepared to get fucked over big time
+User_f644b9: Unless u grade appeal which I did which rolls back some of those problems
+User_f644b9: Ive had 2s changed into 4s during grade appeal on moy
+User_321f48: I had a moderately good experience with her last year in class but not on grades😅
+User_f644b9: it also happens often when she just doesnt know what she is talking about
+User_f644b9: like in ns50 she did not know how to create a graph in class in code
+User_f644b9: just those basic things
+
+--- Conversation 44 (2023-10-17) ---
+User_5170f0: wdym my rocks? ahahah
+User_5170f0: A lot of people agree with you, so I'll pay more attention to my own perception, 
+
+But if I want to bring up the topic of the class being passive.
+
+Should I just go to her office hours and talk about it?
+
+I don't want to be disrespectful
+User_514fce: She is a geologist
+User_514fce: Idk it’s your choice. But I would just try to get to know prof Donnelly better through office hours. Maybe then the class will seem less passive. Or talk to your classmates about it.
+User_5170f0: I mean, I have another 3 classes to compare with, I'm pretty sure I'm not being delusional :D 
+
+but it's a whole other thing to try to address it, or at least open the meta-conversation about it
+User_5170f0: Oof, my decision either way, 
+
+Thank you for the info, Daria! :)
+User_751cc5: I think both Donnelly and Moy are great soo 0_o
+
+--- Conversation 45 (2023-10-24) ---
+User_f644b9: yeahhh donnelly is a gem :)
+User_f644b9: she is also super open in oh and willing to agree with tyou when you think smth different (unlike moy). I got a three, explained why i thought it should be a four and why i did enough for a 4 and she changed it to a 4
+User_f644b9: if moy were to change anything she would make it a 2 for taking up her time
+
+--- Conversation 46 (2023-11-02) ---
+User_84d3eb: Hi everyone, I want to ask about Prof. Terrana (FA50) how strict is she with assignments and any tips to do well on her class & assignment? also will it be okay to ask about the grade she gave me?
+User_7facf1: She has strict grading guidelines but thats useful because its always clear what the difference between a 3 and 4 is, all you have to do is ask her in OH. She appreciates thorough work, clear explanations that directly answer the question, and in my experience she especially appreciates analysis which gives insight beyond what the question asks. Do the optionals completely and its a guaranteed 5 with her. She will be open to review the grades she gave but if you want to ask her to change you better be ready with several compelling reasons with evidence.
+User_84d3eb: thank you so much 🙂
+User_5170f0: Thank you for the answer, I'm more content with her class now,
+
+Live classes are the most challenging, but it's a bit better now,
+
+I wish our class was more active in EA tho,
+
+update: Didn't realize I answered once, but this one is from a retrospect
+
+--- Conversation 47 (2023-11-02) ---
+User_e150d3: ++ to Raphael. Also she always uses the rubrics /grading guides when grading. So my advice is to open the HC handbook and make sure that your applications are covering all of the relevant questions for a strong HC application in case you missed something and you’re guaranteed a good grade
+
+--- Conversation 48 (2023-11-05) ---
+User_73fcef: Anyone had Prof. Hadavand as capstone advisor? How’s his grading?
+
+--- Conversation 49 (2023-11-05) ---
+User_455221: Fair 
+That's all I can say
+But I had him for my cp in sem 3.1 so idk what the difference would be for cp in senior year
+
+--- Conversation 50 (2023-12-19) ---
+User_792c42: Robbins review.
+
+It's his first time teaching SS111, but would appreciate general insights, class vibe, grading and as a human/instructor/academic
+User_cd77ec: Here is my Robbins review
+User_a56433: Probably the update here would be that now he’s teaching an actual economics course. Prof Digby (who has been teaching SS111 so far) was amazing but I’d expect him to be a good professor for the course nonetheless. In terms of grading, I’d say that Robbins is similar to Prof Digby with grading, maybe relatively harsher but still very fair.
+
+--- Conversation 51 (2023-12-28) ---
+User_a3d8e7: Does anyone know anything about Prof. Volkan?
+User_5170f0: besides the fact that his last name is badass, at least in Russian, no
+User_df9f1b: her*
+User_5170f0: oops, sorry for that
+User_a3d8e7: Any reviews on her?
+User_c0b244: Depends on the course. In general she’s a lovely person, but more on the strict side with grading. From my experience she isn’t always the best at explaining concepts, but she cares a lot and will put in effort to help students. So go to her OH and ask lots of questions
+User_a3d8e7: Sheesh. 
+
+Thank you. 
+I have her for FA51 (CS51 formerly, I guess).
+User_c0b244: That’s what I had her for! She was new when I had her, so I’m sure she has a much better grasp of everything now. But yes, I’d just recommend forming a connection with her early in the semester because she really is a lovely person. I have her again this semester and that’ll be my strategy at least 😁
+User_a3d8e7: Thanks!!
+User_764489: Reviews about Prof. Moy please.
+User_764489: Would really appreciate it.
+User_8d12c7: She’s the absolute best. ♥️
+User_bc9342: Totally Agree, had her for 2 classes. Try to establish a connection with her and always ask her how to get a 4 because she has some sort of a checklist criteria that determines your score. Her grading is systematic somehow so if you "crack the code", you should be fine. Also, don't hesitate to discuss the assignments feedback with her because she is a really diligent person who works on several assignments everyday, so sometimes she misses up the grading "I received a 1 with her and after discussion she raised it to a 4".
+User_a3d8e7: Wow. 
+
+Thank you
+
+--- Conversation 52 (2023-12-29) ---
+User_a72438: Love her as a person. Def not an easy grader but fair. Had her for both CS51 and B111. For CS she could be confusing at times but because she tries to have you initiate the thought process by asking you open ended questions. For B111 she also does that but overall she's better as a BZ prof than a CS prof cuz I feel like she's more comfortable with BZ content.
+User_a72438: Fair grader and nice person. Had her for NS51 and the class was kind of boring but coming from having Dosmann for NS50 I appreciated the change of pace lol
+User_f644b9: depends heavily on how much she likes you tho
+User_a3d8e7: Thank you
+User_26f5dd: run
+User_26f5dd: real talk, my experience with here wasn't good at all. I felt like she didn't read my assignments at all. She wasn't sb who can admit that they did mistakes. I didn't feel that she was invested in the course. Also, many of us felt she was compensating the effort of reading the assignments by heuristics like who are you as a person and how good she thinks u are.
+User_26f5dd: ppl said she changed since then (2021) but I am not sure. for me, it was the worst course experience at Minerva BY FAR. I hope she changed fr.
+User_764489: Thank you!
+User_26f5dd: GL!
+User_e02988: took ns50 with her 2022 and can confirm she changed... to the worse👌
+User_df9f1b: I agree with the reviews above. I don’t think she is a bad person tho. I took NS50 with her and it was her first time teaching at Minerva. She can be confusing in class sometimes and her grading is on the harsh side but still not too bad. I would suggest going to her OHs to get feedback on your assignments I heard she’s nice there.
+User_9cb696: HOW
+
+--- Conversation 53 (2023-12-29) ---
+User_455221: When did you take ns50 w her? Bc i did in 2019 fall so if you did later it was NOT her first time teaching minervans
+
+--- Conversation 54 (2023-12-29) ---
+User_b6fd7d: Great as a person, definitely not an easy grader. I had her for NS50 last year and a lot of students had negative opinions on her especially regarding her not answering student’s question. 
+
+But what I’ve heard from other students is that she used to be an easy grader but then Minerva told her to be more harsh and give more constructive feedback for students to grow. Also she was teaching an evening class for my section and maybe that’s why she was kinda pissed for the whole time.
+User_764489: Thanks
+User_f644b9: believe me hatem and I were in a morning section that wasnt a party either. She used to manually put my hand down so i could not ask any questions... make sure u get on her good side or ur doomed
+User_df9f1b: Oh lol I though 2021 fall was her first time
+
+--- Conversation 55 (2023-12-30) ---
+User_321f48: i like her and i always stay in her OH right after the class.  I don't feel she is negatively different from average prof. However, often times, the assignment feedbacks are lacking: I got 3 wihtout knowing what I did wrong.
+
+--- Conversation 56 (2024-01-02) ---
+User_a3d8e7: Reviews about Prof. Gale and Prof. Kukis, please 🥺
+
+Class schedules changed
+User_0554ed: I had SS166 with Kukis and loved it. He is very straightforward about what he wants to see in assignments, flexible and understanding regarding deadlines (if appropriate), and isn’t boring
+User_ba4913: Does anyone have reviews about Klein, please? Would appreciate very much!
+
+--- Conversation 57 (2024-01-02) ---
+User_f644b9: I love Kukis he is incredible and a super super chill grader (at his previous uni they called it kukis inflation when ppl in his class got higher grades)
+User_f644b9: Gale depends some ppl don’t like her some do. I personally like gale although she can be harsh. She is a strict grader and strict in class often but still a very nice person bc despite all that I love the class
+User_a3d8e7: Thank you very much [handle] & [handle]
+User_239eba: Personally, I loved Klein...Had him for B110. Can be a bit dry sometimes, but definitely knows his stuff. A fair grader for sure, used to leave good feedback too!
+
+--- Conversation 58 (2024-01-03) ---
+User_764489: Reviews about Prof Lawry (MC)?
+
+--- Conversation 59 (2024-01-03) ---
+User_ba4913: Sounds good, thank you!!!
+User_a10c53: good and funny professor. grading is standard
+User_a10c53: easy to get level 5 if you try
+User_a10c53: any tips for being in Sealfon's EA class 🤡 people seem to dislike her
+User_764489: Thanks
+
+--- Conversation 60 (2024-01-03) ---
+User_b6fd7d: I had him for MC51 last year. His grading is okay and class is chill. He somehow extends class time almost every week (max 10min elongation) which was quite frustrating. Got super interesting background before coming to Minerva so OH recommended :)
+
+--- Conversation 61 (2024-01-04) ---
+User_9611e8: Hey! I am looking for opinions about prof Kinnally. I am supposed to have with them SS110, and wondering whether to switch to the section with Doyle.
+User_36eec3: +
+User_a4a575: i had her for cx50 and the only thing i can say is that she’s the sweetest person ever and super generous w grading idk about her other classes
+
+--- Conversation 62 (2024-01-07) ---
+User_4cc7e7: Hey! Can anyone provide reviews for John Levitt for FA?
+User_e118cc: The CS chat has a lot of reviews on JLevitt and RLevitt
+
+--- Conversation 63 (2024-01-07) ---
+User_c0b244: ok yes many reviews available but I will never pass up an opportunity to express my love for JLevitt, he's super chill and good at explaining things. Also he reminds me of Woody Harrelson and it's fun to have Woody Harrelson as your prof. 10/10
+
+--- Conversation 64 (2024-01-09) ---
+User_4cc7e7: Reviews on Carter for MC?
+User_df9f1b: She’s super chill and easy grader. Just make sure to expand on HC applications in footnotes or appendix thoroughly
+User_9e66b7: She is amazing🤩
+The way how she teaches is smooth and very clear. Classes are funny and her grading is not harsh, just follow the guidelines and work on HC’s
+
+--- Conversation 65 (2024-01-09) ---
+User_8bbbff: Any idea on Robbins grading? Heard he likes it straight to the point without unnecessary stuff
+User_2d7394: I love her.
+User_2d7394: Good luck.
+User_c110f1: Yeah Goran have fun 😭😭
+
+--- Conversation 66 (2024-01-09) ---
+User_239eba: Literally follow the assignment instructions to the T, with no deviation whatsoever. Do not try to be creative or venture outside of concepts taught in class. 
+
+I know this sounds sarcastic but it's honestly your best bet.
+User_209f88: But also, don't reference from the readings (in-class) - you may think that whatever the readings said was right, but actually, you'd be wrong because HE didn't do the readings, and he literally will not know what you are talking about, despite you literally having the readings open and thorough notes about the concepts.
+
+he to your face, will tell you the readings did not cover that. and you will not know what to do. because he is wrong.
+User_562584: for me, what helped with Robbins (taken 3 classes w him) is to get your loose ideas formed for assignments, then go to OH and ask his input/feedback, then implement that feedback in ur paper! I thought he was a totally fine grader honestly u just have to learn how to game it a bit
+User_04eb8b: +++ Robbins seemed to appreciate students' effort & process. My best assignments were the ones where I discussed loose ideas, asked for tips/feedback, and incorporated them in the final paper. He actually remembers what you discussed, notices and appreciates how you developed those ideas. 
+
+Also, if you are taking extensions, it is good practice to let him know of your plans. He seem to wait until everyone submits and start grading (not confirmed). So help him plan a bit.
+User_c0b244: Yes also if u go to his office hours looking for help coming up with a topic and he suggests something, it's not a suggestion, do it. Otherwise if you choose something else after the OH the first comment on your assignment will be "I thought we agreed you were doing X?"
+User_8bbbff: Lmaoooo
+User_8bbbff: Okay thanks everyone!!
+User_6f8774: recommend him classical music, and talk about plants and songs and you will be on his good side :)
+User_4cc7e7: Any reviews on Moy and Zoogman's classes and grading style?
+User_35ee39: How’s Prof. Doering? Any option on his teaching style, grading, etc?
+User_f68c3c: Prof Moy is a bit strict in class comments and assignments grading, but if you join OHs to discuss her feedback on past assignments and your ideas for future assignments, she will give you some tips, and if you follow them, you’re likely to get better grades, and she’ll be nicer to you in class. Her class management was not the best tho, and she didn’t really discuss questions, so if it’s not that urgent, you can just avoid arguing in the class and talk to her in OHs
+User_f644b9: Moy okay if she likes u strict if she doesn’t
+User_35ee39: If you not her fav student and she will make you feel dumb when u get anything wrong or don’t know
+User_f644b9: Big talent of her
+User_f644b9: Only prof I rly dislike
+User_5170f0: That sounds good, but that's literally being graded on how much your assignment aligns with his approach and opinions, not on HCs or the content of the assignment :) 
+
+Well, I never had him, but I wouldn't call that fair grading, that's just knowing how to get the grades you want out of him.
+User_562584: No no, not like you ask him his opinions on the content, more on the HC/LO applications. Sorry if that was unclear. I went to OH with a bullet point list of how I planned to address every aspect of the LO rubrics, and he would tell me where he thought I could go deeper and how to get to 4 level applications. And sometimes helpful advice from his biz experience (like try using x website or y tool)! Overall, I enjoyed every class I had with him and thought every grade I ended up with was fair!
+User_f644b9: Ur first paragraph is minerva grading in a nutshell
+User_5170f0: That sounds different from what I assumed. I'm sorry tho, I jump to conclusions rather quickly.
+
+--- Conversation 67 (2024-02-14) ---
+User_c0b244: Hey M24s, any profs you wouldn't recommend for CS capstone advisors? M25s have our form due this week! I've searched the chat history and seen a few general things, but talking to upperclassmen made me want to double check if there are any particularly intense or harsh advisors to avoid.
+User_c7aeb3: watson👀🫣
+User_c7aeb3: i personally don’t have him but he tends to have a big group of students so may not be super helpful
+
+--- Conversation 68 (2024-02-16) ---
+User_487e33: Anyone had Connolly for class/as a capstone advisor? Didn’t know who he was until looking at a professor spreadsheet, would love any insight
+
+--- Conversation 69 (2024-02-16) ---
+User_7d7644: I have a few questions about Capstone advisor selection, if anybody could help or redirect me :))
+
+1. What does Herveen Singh teach? She's not on the faculty page nor in the interest sheet, but is an option to select
+2. What does Derisa Grant teach? Same issue
+3. Is it possible to get an advisor that's not on the google survey list of options?
+4. If anybody has opinions about the following profs in regards to grading Capstones (or generally vibes), would appreciate! Volkan, Robbins, Mathur, Eberhardt, Doering, Ozluk, Davis (I haven't had classes with the last three so no clue at all)
+
+Thank youuu <3
+User_8bbbff: [handle] i got no idea about capstones (freshman) buut singh taught CX50 and now CX51
+User_8bbbff: shes nice
+User_2c9523: I think Derisa Grant teaches two Cornerstones - MC50 and MC51 (previously AH50 and AH51)
+
+--- Conversation 70 (2024-02-16) ---
+User_af01b7: 4. I'm a CS major with a product capstone and have Ozluk as my second reader and AI lab mentor. 
+
+He is such a kind and encouraging person. If a personal issue comes up, he will do his best to understand and work with you. He really cares about your success and wellbeing. At the same time, he always sees potential improvement points in your work. This means he can be [slightly] on the stricter side of grading and will push you to do better, but it never seems unjustified. In short, I super recommend.
+
+--- Conversation 71 (2024-02-22) ---
+User_5170f0: Singh is consulting and has an extensive background in a lot of things, but it's mostly social justice, politics, and SS-y things (I guess?) 
+
+She taught at Zayed University (Minerva Project Partner) before and joined us this year.
+
+Bio (https://www.domainacademy.edu.mt/about/employees/dr-herveen-singh) + LinkedIn (https://www.linkedin.com/in/drherveensingh/?originalSubdomain=ae)
+
+She's amazing as a professor. (CX50 + CX51)
+
+--- Conversation 72 (2024-02-22) ---
+User_7d7644: Thank you!!
+
+--- Conversation 73 (2024-04-04) ---
+User_84f408: How is Prof. Ben Richard? Are there any other professors who teach NS110U??
+User_df9f1b: 🏃
+User_84f408: so, there is no one else who teaches NS110U?
+User_84f408: I mean I have looked at Richard's papers on de-Sitter space, ingenious but it looks like he cannot teach (that's what I have heard from other M27 students who have EA51 under him....
+User_e150d3: yeah he’s bad, last time I had him was in fall 2021 I think, but I haven’t heard great things about him since then either so just prepare mentally that he’s not great
+
+I think he’s the only one teaching ns110U
+User_293f28: i’ve heard he’s much better at teaching physics tho since it’s his main thing. some ppl in that class right now definitely like it
+User_0d1aa3: Hi, alumna who is procrastinating on her work here! I can't find the long paragraphs i have written about this in the past, but here is my take: 
+I never had him for CS classes or EA, but I liked having physics (NS110U and NS142) with prof Richard. I found him knowledgable in the field, and as long as your formatting is on fleek (and I mean literal perfection) you'll be totally fine. He shoots down any bullshit, which I found refreshing, and his grading is fair; you put in the work, you get good grades. If you have a problem with him, the class, or the way he is teaching, he is open to feedback if you bring it up outside of class. 
+I totally get why he has a bad rep - he will make you work a lot, can be strict/demanding, and will say that "you should know this, this is trivial" to the most nontrivial shit ever - but I got more out of his classes than most courses at Minerva. 
+(side note: he is also very helpful in writing grad school rec letters)
+User_318a08: I've had him for both CS111 and NS110U. For CS111, you might be better off with Levitt (it was ok for me after a 'calibration' period, but I was already familiar with much of the material - classmates had some bad things to say, though). I'm just finishing NS110U, and it's been one of the best classes I've taken. Maybe I just vibe with his teaching style, but I loved assignments, interviews, and the way classes go. It's also one of the classes where I learned the most.
+User_df9f1b: is it one of your jokes 😭
+
+--- Conversation 74 (2024-04-05) ---
+User_5170f0: sounds similar to Gale?
+User_3751e6: I think the vibes are pretty different between prof. Richard and prof. Gale. My perspective is that Richard does not care that much about what you do as long as you are putting effort and being honest (like don’t bullshit him), while I think Gale has more personal ties with students, although she can be pretty sarcastic and plain simple ignorant, but Richard is just rude sometimes
+User_5170f0: personal ties, like almost personal grudges?
+User_3751e6: yes ✨🤡
+User_5170f0: I enjoyed Gale's style a lot in general, and it was refreshing like Ingrid said about Richard, but at certain points, I felt like a boiling kettle because of her attitude to me and the entire class.
+User_5170f0: And she seems to be at odds with me because of absences but might be a far-fetch. An interesting experience for sure.
+User_0d1aa3: No i can’t stand gale
+
+--- Conversation 75 (2024-04-05) ---
+User_f644b9: i love gale
+User_f644b9: but you have to get on her good side for sure
+User_0d1aa3: i was on her good side and still hated every second, i would run from any class with her
+User_751cc5: when did you take her course?
+
+--- Conversation 76 (2024-04-05) ---
+User_0d1aa3: Spring 2021
+User_f644b9: took some getting used to for me for sure
+User_f644b9: but now i like her
+User_f644b9: prof moy on the other hand
+User_f644b9: if i ever get her again ill drop the course
+User_751cc5: Yeah I think she’s much better now. I think the amount of bad feedback made her readjust. I think I like her overall
+User_f644b9: she just has this odd vibe overall i feel like
+User_f644b9: she is the only prof where even though i feel like we're on good terms there is still smth weird in the contact sometimes
+User_f644b9: but overall once u see past that she is very nice and fair
+User_5170f0: cuz she's probably finding some demons inside, 
+
+she's just good at fighting them, so the final result can come off as good, haha.
+
+--- Conversation 77 (2024-04-06) ---
+User_4e46a0: Definitely agree! I can see a lot of improvement and I see that she is trying hard
+User_bfe025: How is Mathur as a Capstone grader?🥲
+
+--- Conversation 78 (2024-04-07) ---
+User_73b1fc: He’s pretty good, but it is what you make of it. If your project is more dedicated finance/econ, that’s more his wheelhouse. Overall though, he’s quite lax and lets you do whatever you want with your project within reason
+
+--- Conversation 79 (2024-04-14) ---
+User_d3b4e3: [TA for B145, B155]: Heyy could anyone who are/were TAs for Prof. Mathur share some honest reviews on the workload?? I like the idea of being a TA but kinda scared about the workload...esp since I am entering my last year im sure ill be very busy and don't want TA to an obstacle to my academics...any thoughts on this is appreciated!
+
+--- Conversation 80 (2024-04-18) ---
+User_ab64f8: Hi guys, anyone know if Prof. Levitin is still teaching at Minerva?
+
+--- Conversation 81 (2024-05-03) ---
+User_069ce1: Hey, I hope you are enjoying the break. Did anyone have proff. Scheffler for CS111?
+User_0554ed: I did
+User_0554ed: Don't drop him
+User_0554ed: He is absolutely amazing
+User_0554ed: My fav prof in the whole CS department
+User_0554ed: I swear there are so many students who love him and ready to write him love letters
+User_df9f1b: Yup he is! I got CS164 with him for next sem
+User_069ce1: That sounds great! Thank you, now I'm feeling optimistic about the next semester
+User_9fdc87: Anyone know anything about prof that is to be announced for cs110? Is it going to be somebody new or are they just unsure who’d take another section?
+User_8bbbff: Any idea about Rios for Calculus?
+User_069ce1: Rios is a great prof for anything Maths related, honestly the love of my life
+User_8bbbff: Oh that's amazing!
+User_5170f0: Rios is kind, calm and kind of boring, in a nerdy technical way
+User_5170f0: prolly a great ns prof, but i only did fa51 w/ him yk
+User_5170f0: loved him, but couldn't focus in class ever
+User_5baedc: Anyone else has thoughts on (John) Levitt for CS113?
+User_f68c3c: He’s the only teaching it afaik, and he’s so nice in class and a chill grader
+
+--- Conversation 82 (2024-05-04) ---
+User_d54d3f: Agree! I had three classes with Gale so far, and will have another class with her in the next fall. I can always expect constructive and timely feedback from her. She is more like friend than a professor. She might not be an easy grader, but if you do your assignment in her way, you will get very high grade.
+
+--- Conversation 83 (2024-05-05) ---
+User_b0c3cb: How is Yates and specifically the AI Ethics tutorial?
+User_2c19b9: Yates is the best human being in the world. Idk about AI Ethics tutorial tho
+User_2c19b9: great class facilitator, cares so so much about students, very knowledgeable
+User_37a37d: She's amazing for real for real
+The tutorial was student focused/ student led so as a class you'll decide what you want the syllabus to look like. She gives you as much autonomy as possible on the material, and she'll chip in ethics stuff cause thats her background. She values student contributions, and its one of those classes where you genuinely feel like your contribution is meaningful - no right or wrong responses. It's generally a very wholesome class, and its AH/CS cross-listed so maybe that can give you a sense of the vibe. Classes were very conversational, not super technical
+
+--- Conversation 84 (2024-07-09) ---
+User_d3b4e3: Are any of our profs from SF or currently living in SF??
+
+--- Conversation 85 (2024-08-17) ---
+User_66d67f: Any thoughts on Prof. Doyle for SS162 and the course in general? I heard opinions that it's just an expanded version of #persuasion and #carrotandstick, do you agree?
+User_52c3df: Is prof McAllister still teaching this semester?
+User_f6b302: It's an easy course, and Prof. Doyle is sweet. But yes, in terms of content, I did not feel like I got much out of it.
+
+--- Conversation 86 (2024-08-17) ---
+User_8234f5: she left Minerva, so no 🙊
+User_0554ed: what!!!
+User_9c1b1a: McAllister left Minerva????!
+
+--- Conversation 87 (2024-08-18) ---
+User_51212c: Lost her to WASC (our accreditation organization)
+
+But she became a VP there so it's a huge gain for her
+
+--- Conversation 88 (2024-08-18) ---
+User_8bbbff: nice now we can never lose our accrediation!!!
+
+--- Conversation 89 (2024-08-23) ---
+User_db5f04: Any thoughts/opinions/advice for Ozluk for B156 or Morgan for SS144?
+User_cd77ec: You’re in such luck because Ozluk and Morgan are two of the best professors I’ve ever had. I’ve never took SS144, but I can say that B156 is one of the best classes I’ve ever taken (although I’m biased as an ops major), and it’s even better if you plan to take B166 after it (the two classes flow together so perfectly). And Ozluk himself is such a warm person and a somewhat nice grader but he will push you to some extent
+User_3ae1c0: Any thoughts or opinions on prof. Goldemberg for SS164?
+User_62fedd: any opinions on Prof. Folkinshteyn and Eberhardt?
+User_2d7394: Prof Subasic?
+
+--- Conversation 90 (2024-08-23) ---
+User_c4d6c1: How is Prof. Lawry at grading in business courses? 😊
+
+--- Conversation 91 (2024-08-24) ---
+User_df3bd7: Guys, any opinions about prof. Eberhardt and prof.Doering?
+User_cd77ec: Prof Doering is wonderful! He can be very to the books about things, and going to his office hours really clarifies his expectations. But he’s also quite funny and makes the class enjoyable while still learning a lot. He’s also super clearly an expert on operations and I trust his (and prof Ozluk’s) opinions on operations way more than any other business profs I’ve had.
+User_df3bd7: Thanks! that is helpful. And how is he in grading?
+User_bfd47a: for b110 as not a business major I'd say doering does not take it very seriously and class it's mostly joking around, while eberhardt will cold call, actually take the class seriously and refer to readings etc (we had a couple classes with her during the semester, but I'm unsure on her grades). doering was a very chill grader, feedback was clear and going to OH to figure out what he wants to see per LO made it an easy grade
+User_209f88: Maybe he has improved since student feedback, but Morgan for ss144 was probably my least favorite class at Minerva (and I'm an econ major!). I took his class first, out of the 3 econ concentration courses, and almost switched out of the major because of this class - had it not been for other students telling me how bad this econ course was in comparison to the others. There were other students in my class session that disliked his course even more than me, actually including the TA we had for his class 👀 and in terms of coursework, we talked about and used a lot of models that are both confusing and no longer considered effective or informative anymore. If you can take any other econ class, (or.. any other class) maybe consider that instead.
+User_209f88: (i know im so sorry to give a harsh review😭)
+User_db5f04: Is it better to take ss154 or ss164 before ss144, if ur an econ major? Or does it not really matter?
+User_bfd47a: I would say it does not matter and there's little to no overlap/connection. but I dropped my econ major (for a political economy special concentration) bc I hard such horrible things about ss144 and didn't like the syllabus
+User_bfd47a: ss154 has a lot more workload then ss164, so take that in consideration when picking other classes
+User_209f88: hmm im honestly not sure if it matters too much, ss154 is definitely more technical, as in it will have you learn R, work with datasets, and is geared a but more towards research and analysis. it has more of a learning curve, but you come away having learned a lot! and prof is really nice, he's my capstone advisor now, and his course was maybe my favorite. definitely make sure you have enough time for it tho! ss164 has the sweetest prof, exposes you to a lot of information about macroeconomics + geopolitics, is not very technical, and has an easier courseload like Maju mentioned. they are both very different, maybe start with ss164 if you want to get more comfortable and knowledgeable about econ as a more general field. both imo are really good courses, even though their content doesn't overlap much. i took ss144 first, and then ss154 + 164 together the next semester and they all just felt like very different topics. you'll be ok either way you go!
+User_a56433: As someone who also took this course last year, this is a pretty fair assessment of the class. Prof Morgan seems like a great person, but the course and the grading just isn’t great
+User_df3bd7: Thanks! That is helpful!
+User_db5f04: thank you so much!!
+User_792c42: Opinions on SS112 as a course. 
+And Kukis as instructor.
+User_0554ed: 3(!) years ago SS112 had a lot of readings that were mostly irrelevant in class discussions etc. but a lot might have changed since then 
+
+I had Kukis last year for a whole academic year and loved him. He is a better facilitator than some other PoliSci professors (imho) and is very flexible with deadlines
+User_8234f5: i didn't really like the class with him. i had him for ss50 and loved him there but really didn't enjoy ss112. there are so many readings that were totally irrelevant for the class sessions and assignments and the polls often asked for one super specific thing from the reading that usually wasn't indicated as a priority in the study guide. i think the class has a lot of potential cuz the concepts are interesting and relevant but to me it felt like we only talked abt definitions, briefly discussed, and then rambeled the rest of the class/listened to kukis ramble. like it wasn't horrible but i also didn't love it.
+
+--- Conversation 92 (2024-08-24) ---
+User_66d67f: Yea, the readings can be cool but Kukis' facilitation really wasn't engaging, we would literally have a breakout to discuss the reflection poll and that's it.. like it could have been so much more interesting but everyone got bored of the class so no one raised their hand.. not the best prof in my opinion. It ended up more a lecture than a Minerva class and even so, surface level, just defining terms.. the only redeeming quality is that his grading is super chill
+User_dffc63: I took SS112 with Prof. Odera, and as much as I agree with the content of the class being focused on basic definitions, I think there is really a lot of potential depending on who you took them with. Once the definition part of the course is set, you get to discuss specific case studies with the class (that is about half of the course material), and I found that part insightful, especially with a diverse class like that of Minerva. The assignments are also cool, you can choose to do your own case study analysis and if you are interested in you can do basic level data analysis and connect it to a country’s history/current political status, which I also found engaging and fun. If you were to take SS112, I would recommend to take it in the fall semester, because that is when the folks interested in polisci will gather— you will have juicier discussions :)
+
+--- Conversation 93 (2024-08-24) ---
+User_c4d6c1: Anything about Prof. Lawry?
+User_321f48: hello, I don't see discussion around prof Folkinshteyn, any opinions on him?
+
+--- Conversation 94 (2024-08-25) ---
+User_562584: Prof Lawry is awesome! Super fair (easyish) grader, so fun in class, overall 100% recommend
+User_c4d6c1: I believe prof. Folkinshteyn is new
+User_c4d6c1: When he did a seminar for us (as part of his interview) he seemed very nice and kind, listened well to everyone
+User_321f48: Thanks, sounds like a good prof
+
+--- Conversation 95 (2024-08-26) ---
+User_3f4518: he is cool and I agree about his grading. but so fun in class?😭 ig he didnt like our class because it was super boring tbh
+
+--- Conversation 96 (2024-08-30) ---
+User_209f88: hi again! so sorry to pull back to this conversation, but i just found out i'll be a TA for ss164 for fall and spring and im super super excited because again i loved this class and professor so please feel free to reach out to me about it for anything 🥰 literally would light up my day to talk about the class and what to expect from it
+
+--- Conversation 97 (2024-08-30) ---
+User_792c42: Tambasco for 114? (I only wanna hear praises).
+User_97915e: LOVE HIM
+User_97915e: like just absolute love for that man (and i waited for slow mode to finish just to send this again)
+User_97915e: he is very patient and gentle bc i know sometimes i get confused over the simplest things and he will slow down for you (esp during office hours) and make sure you leave understanding everything you need <3333
+User_97915e: If Prof. Tambasco has a million fans, then I am one of them. If Prof. Tambasco has ten fans, then I am one of them. If Prof. Tambasco has only one fan then that is me. If Prof. Tambasco has no fans, then that means I am no longer on earth. If the world is against Prof. Tambasco, then I am against the world.
+User_04eb8b: Copy pasting my review from last year, cuz it’s still my favourite SS course I’ve taken at Minerva.
+
+Love SS112!!! I especially loved the assignments. Class was highly theoretical with Odera, so the assignments were great opportunity to apply the frameworks & theories. As well as got to use the beloved CX HCs in a ✨meaningful way✨.
+
+I think the concepts I learned (or at least remembered) & the experience of analyzing political situations are useful now as I visit other countries and try to grasp the sociopolitical environments.
+
+The common complaints are:
+- The readings are loooong and old (with ChatGPT and upperclassmen note, hopefully it wont be too bad).
+- It heavily focuses on democracy and the US. Any mention of non-democracy is Russia & China (occasional North Korea). I wished more countries & political systems were covered. Depending on the prof, the class discussions will give students a chance to share examples from home countries and the assignments will let you venture outside those countries. 
+- The workload is relatively heavier compared to SS111 & SS110 but study guide questions will help you be more efficient.
+
+--- Conversation 98 (2024-09-07) ---
+User_2d7394: Prof riberio?
+
+--- Conversation 99 (2024-09-07) ---
+User_792c42: Is accurate, [handle] . 
+
+Make sure to join Office Hours. Classes will Ribeiro are fun, the more work you put in, the more you gain is especially true for her because she will keep giving you more to lean and grow
+
+--- Conversation 100 (2024-10-03) ---
+User_792c42: How are Tambasco 's gradings? 
+How detailed explanations does he expect? I would love to be as thorough as he is, but worry about concision and #composition.
+
+--- Conversation 101 (2024-10-05) ---
+User_09dde9: not really a prof but ops on coach rebecca?
+User_9fdc87: She’s not my coach, but from in-person interactions in Korea I think she’s a really good person and takes her job very seriously and does what is in her capacity to help you. We had this really nice vice versa mentorship (it’s probably on CTD portal somewhere), and afaik it is was largely her doing. Depends on what kind of value you expect from coaching tho
+User_d09730: In general he's a kind grader. (what class btw?). He'll try to see reasons for giving a good grade, rather than reasons to give a lower grade. So concise is good as long as it covers all the points, you don't need to bend yourself backwards to be mega thorough like with some profs. He'll also be very clear with expectations if you ask him, so join his OHs and straight up ask and he'll be super kind and helpful!
+User_f07979: she was my manager for workstudy (i was CTD class rep) and i can wholeheartedly say that Rebecca is not only a lovely lovely coach, but also just an amazing person to have in your network, especially if you’re interested in entertainment/business generally. she’s really objective with goals and whatnot and grounds you when you need it, but also super supportive. 
+
+i’m very subjective because i love rebecca dearly, but i think if you have the option to try out a session with her — 100% recommend :))
+User_792c42: 114
+
+--- Conversation 102 (2024-10-05) ---
+User_09dde9: also perry is kind of scarring me sometimes in class. i love how he is always listening to people’s statement and call out any yapping behaviours though. if anyone has tips to do good on his class please spillll🥹✨
+User_09dde9: she sounds amazing!!! she’s our ccp coach 💗
+
+--- Conversation 103 (2024-10-05) ---
+User_97915e: just cry thru it tbh, u haven't met worse yet
+User_bb0394: for real hahaahaha, like yea Perry is scary, but it’s not a punitive kind of scary!! He gives credits and compliments when well deserved, and really pushes you to do better. I always felt the need to be on my best behaviour in his class. He’s quite nice to talk to, so go talk with him if you feel like just seeing him in class setting is terrifying you!
+
+--- Conversation 104 (2024-10-06) ---
+User_bdf9c2: If anyone has had Odera as a grader (maybe for SS156 specifcally) could you DM me - I have a question about the formatting for ADICO and AIM rules classifications 🙂
+User_c09143: well, he seems scary and straightforward in class but he won't be hesitant to give you really good grades if you put in the efforst. i had him in my 1st semester of freshman year. i was rather shy and could not think on the spot in class for the first few weeks so my in-class assessment grades were not really good and because of his teaching style, i was really nervous going to class 🙁 but i ended up receiving 5s from him on my assigments : ) so if you're like me, i'd say spend time on your polishing your assigments as best as you can and go to his OHs frequently. best of luck! 💗
+User_8234f5: the 5s was that semester though, he has gotten stricter in terms of giving out 5s since then
+User_09dde9: that’s so sweet! thank you thu than🩷🩷🩷🩷
+
+--- Conversation 105 (2024-10-22) ---
+User_3751e6: Does anyone have insights on how Prof. Sterne is at grading?
+
+--- Conversation 106 (2024-10-23) ---
+User_237267: He's both strict and lenient. Strict/fair since you need to show your real efforts, he will read your write-ups, and you shouldn't over rely on ChatGPT or external sources; you must show that you learned the things. Lenient since once you pass the bar it's easy to get 4s (compared to Prof Watson who mostly gives 3s unless you excel)
+
+He also prefers succinct and clear write-ups (who doesn't?). For the code, it seems he glances at your organization of modules and comments, which means taking seriously #seperationofconcerns, #abstraction and #documentation
+
+For reference, I had him for CS162, CP192, and now as a second reader for my Capstone.
+
+--- Conversation 107 (2024-10-29) ---
+User_94cad8: I just interacted with Prof. Eberhardt for the first time. What do people think of her? I need a 2nd opinion 😂
+User_321f48: what's your opinion😄
+User_94cad8: I am afraid to say it publicly. But let's say she confused me. That's why I am here. I think I did not get the whole picture
+
+--- Conversation 108 (2024-12-21) ---
+User_c63129: Review of Sealfron for FA please :))
+User_12492c: and Ozluk
+User_cd77ec: Ozluk is teaching FA?!?
+User_cd77ec: ^
+User_12492c: ahh thank  you!
+User_12492c: yep FA51
+User_12492c: Any thoughts/feedback?
+User_09dde9: i love bogucki 😭💗
+User_939f73: I don’t know why but I got bogucki again
+User_939f73: Whoever your previous professor was your MC grade will likely be better
+User_df9f1b: same for CS51. Kukis is amazing.
+User_237267: I think ppl have hate hate relationship with Gale, you could search her name here or in NS chat. I never had her tho
+User_a11b3c: hate hate relationship is crazy
+User_9cb696: i had her for EA50 last year and myself and my class generally loved her and were confused why there was so much gale hate in the chat. so it could be that she improved or if shes fine in just EA
+User_5a2147: A lot of people do....but I will say she has improved so much (I had her in my spring 2023 and then fall 2024). She grew on me and genuinely seems to want to try to be better 🤍
+User_9cb696: had her for fa50 last year and although she was very nice her teaching was objectively confusing and the class hated it. from those who i’ve heard got her for fa51 the subsequent sem tho said she improved a lot
+User_6e527e: LOVE her
+User_6e527e: If you don’t bullshit and actually do the pcw, she’s love you too
+User_098171: oh no..
+User_466a1a: we suffered so you don't
+User_466a1a: I wouldn't dismiss other's' experiences like that. All the past generations suffered and took the time to leave reviews and fight her to the point where she just had to change something. Be glad you have her now
+User_466a1a: she was bad in all the courses she was teaching to the point where ppl cried in class and literally quit their Natural Science major
+User_710c4b: Damn. What was so bad?
+
+--- Conversation 109 (2024-12-22) ---
+User_466a1a: not answering questions, being mean, grading...
+
+--- Conversation 110 (2024-12-23) ---
+User_84f408: Who teaches NS142 and CS154? And Prof. reviews for those courses. Thank you!!
+User_df9f1b: CS154 is by Prof. Tambasco. Absolutely amazing. Just take it haha. All the assignments are problem sets but they are interesting.
+User_f68c3c: NS142 is by Prof Richard. He’s nice, but the course is the hardest in the physics track, which is expected for a quantum course. The assignments are problem sets in pairs except the final. Overall workload, the assignments don’t take up much time but the readings can take 3-4 hours per class.
+
+--- Conversation 111 (2024-12-31) ---
+User_d3b4e3: any reviews on prof. Daniel Folkinshteyn for B165 or any other courses??
+User_d3b4e3: any reviews on prof. Herveen Singh on SS112 or other courses??
+User_792c42: People's experience with Scheffler. (Have him for CS)146.
+User_354572: Love him!!
+Had him for CS114, he’s a really easy grader. He doesn’t cold call a lot, knows what he’s teaching and makes sure you don’t leave the class as confused as you came in.
+User_a961f0: any reviews on prof robson for ss111? economics
+User_23bd15: Hey, how is prof hadavand for cs114?
+User_792c42: You're gonna have a fun time! I think it's his first time teaching the course. 
+Very personable, a lot of fun to be in his class (depends on the classmates too), and fair/easy grader.
+User_f68c3c: He’s great and does an amazing job explaining the topics and answering questions. It’s  also one of the few courses at Minerva where a prof teaches his area of expertise.
+User_069ce1: How is Morgan for SS111?
+
+--- Conversation 112 (2024-12-31) ---
+User_4cc7e7: Reviews on Subasic for CS110?
+User_4cc7e7: Should I be scared?
+User_5baedc: More ppl can jump in, but I think the general impression is: last semester was his first class, ever, in Minerva. He was not used to the class dynamics (i.e class was ending too much over time, no eye rest breaks, inconsistent poll times). He would try to make class interesting with jokes and his infamous “word games”, but it turned out making it worse for the explanations. I found it hard to get more useful, in depth information after class too. He is very, very picky on his grading, you need to follow the CS110 guide to the minimal details
+User_a10c53: Highly knowledgeable prof, and as Marina said, new to the Minerva system
+
+--- Conversation 113 (2024-12-31) ---
+User_e6bd4d: review on Nikhil Mathur for B112/ generally?
+User_cd77ec: In my opinion (which I’m not sure is universal), I didn’t have a great time. I felt belittled for asking questions, and it was like he graded as if he was rolling a dice, and it seemed as though me coming to his office hours was a great burden. Maybe others have had different experiences and I’ve only had him for B199 and CP192 so maybe if there’s content he’s different
+User_cd77ec: I’ve only had Prof Morgan for B112 but he’s one of my favorite professors I’ve ever had. He especially likes if you’re exploring more interesting/weird topics with your papers, and appreciated me coming to office hours. He can be very dry sometimes, but has a good sense of humor and energy if you get him going in the right direction. This is also just my opinion and I know I’ve heard some people find his classes boring.
+User_710c4b: Damn
+User_2d7394: Guys
+User_2d7394: It’s bloody new year
+User_2d7394: We can depress about profs later
+User_131a97: Quantum computing researcher here 🤓, I took NS142 Fall 2021. Not gonna lie, even with quantum mechanists and tutorials I struggled with understanding quantum mechanics in the context of SOTA QC algorithm research. Lots of stochastic math and analysis. If your intention is to get into quantum, then this is a good filter course for understanding if you can advance further academically. Getting straight 4s is only a baseline for doing research, let alone preparation for doing quantum physics research. Nevertheless, fun course and definitely the one that challenged me the most out of my CS/NS courses. Richard is probably the nicest quantum physicists  that you’ll meet, compared to quantum physicists I’ve met in academia. They’re hella more intense.
+
+--- Conversation 114 (2025-01-01) ---
+User_afd6e6: Any thoughts on Prof Robson Morgan?
+User_cd77ec: ^
+
+--- Conversation 115 (2025-01-02) ---
+User_a72438: Loved it! He will push you to further elaborate on your answers in class so you can not really bullshit and he expects you to apply very clear frameworks in assignments, which makes it "harder" but I learned a lot and he's very willing to chat and clear up any confusions or whatever
+
+--- Conversation 116 (2025-01-03) ---
+User_35ee39: I think SS144 w/ Morgan is great! Been his TA for that course too. Wait till the session reach his specialty in happiness
+User_35ee39: How’s prof Wisor?
+User_354572: “Scott Wisor will be teaching it!. it looks like he has a lot of cool publications and his background in ethics & poverty studies looks super interesting! it seems like he is regularly involved with minerva too so he likely wont be learning how-to-forum in class haha. i think he will be good! 
+
+https://www.minerva.edu/blog/a-conversation-with-minerva-faculty-member-scott-wisor-ph-d/
+“
+From [handle] :))
+User_710c4b: Ribeiro?
+User_710c4b: What’s the take?
+User_540c39: Demanding but very good from my perspective
+User_b6fd7d: amazing. She has pretty high expectation on how you should explain your algorithm/code but once you clear that you can get solid grades. Especially for cs110 she knows very well where students are likely to get confused/make mistakes so you can clear up most of the questions while in the class.
+
+--- Conversation 117 (2025-01-04) ---
+User_3b0a72: Is Folkinshteyn new in Bz? Never heard of
+
+--- Conversation 118 (2025-01-04) ---
+User_52ac9c: Hi guys! Does anyone have insights about prof. Mathur vs prof. Folkinshteyn?
+User_df3bd7: Prof, Folkinshteyn is new. Last semester was his first semester. He is amazing tho. He is well rounded in the subject. Knows how to explain in simple terms, and his grading is good.
+
+--- Conversation 119 (2025-01-04) ---
+User_52ac9c: Thank you for the insights! =)
+User_52ac9c: Hi guys, any insights on prof. Mathur?
+
+--- Conversation 120 (2025-01-05) ---
+User_4cc7e7: How is Fiorelli?
+User_a036ad: She’s 💯
+User_a036ad: Fair grader, her class is so engaging and fun and she’s very supportive iwnsnsd I LOVE HER SO MUCH💗
+
+--- Conversation 121 (2025-01-05) ---
+User_792c42: Has Kinnally taught 152 before? How does she fare in comparison to McAllister?    
+
++ What's prof Diamond like? As a facilitator/vibe/human to talk to? And grading in cs130
+
+--- Conversation 122 (2025-01-06) ---
+User_51212c: The people who were taught by Kinnally likely weren't taught by McAllister too (McAllister only taught Science of Learning and SS152 before she left last summer)
+User_a72438: [handle]
+User_52ac9c: Thank you sm!!
+
+--- Conversation 123 (2025-01-07) ---
+User_53e78e: hey, what is prof. Koever like? did anyone have her?
+User_7047ef: has anyone had Prof. Singh as a workstudy manager before?
+
+--- Conversation 124 (2025-01-07) ---
+User_09dde9: Has anyone had Donnelly for FA before👀 My prof list just got changed 3 times.
+
+--- Conversation 125 (2025-01-08) ---
+User_59246b: Has anyone had Prof Sealfon for FA? Any reviews? 😊
+User_764489: Pray
+
+--- Conversation 126 (2025-01-08) ---
+User_3e3b0c: NOOOO why is that the only response I keep getting 💀
+
+--- Conversation 127 (2025-01-08) ---
+User_8bbbff: I thought she was no longer a Professor!  Damn
+
+Your grades will suffer 🥺 but she tries to be nice I feel like
+User_3e3b0c: Nooooo 💀
+User_f5cf68: I had 2 classes with her, both fa and ea🥲, and I think as long as u talk to her about ur concerns or ask questions she tries to improve. Afaik for her second semester last year she was much more better, and her grading for FA is not that harsh as for EA(from my own experience)
+
+--- Conversation 128 (2025-01-10) ---
+User_d31481: Let's pool our reviews and survival tips for each professor here (https://docs.google.com/document/d/1YDyc2hPKRBSF702olBS1NyhGEc1r_ET9cRbQtL3hnIw/edit?usp=sharing)!
+This way, we can know what to expect of the upcoming semesters and better prepare for it. This would also be a great opportunity to start conversations, as you can tag yourself on anything that you want people to ask you about.
+Credit: [handle] and [handle] gave me this awesome idea.
+
+--- Conversation 129 (2025-01-10) ---
+User_df9f1b: I remember there was a doc like this. Maybe we should update that one. Don’t know where it is rn.
+User_a56433: you mean this (https://docs.google.com/document/d/18uryHmRM7VvvRKOVMLPjtC_19u1oZDaN6Xh_XWzdmls/edit?tab=t.0#heading=h.iz6q31dahg1f)?
+
+--- Conversation 130 (2025-01-15) ---
+User_d31481: Oh my! This is wonderful! Thanks for showing it to me.
+
+--- Conversation 131 (2025-01-16) ---
+User_069ce1: What is Prof Morgan's grading like?
+
+--- Conversation 132 (2025-01-16) ---
+User_b6fd7d: pretty chill, if you're doing right things in decent quality you'll have solid 3/4s, might get 5s if you give outstanding analysis
+
+--- Conversation 133 (2025-01-17) ---
+User_f644b9: yes lovely grading (had him for cornerstone might vary for other courses but idk)
+
+--- Conversation 134 (2025-01-29) ---
+User_3f620b: Does anyone know what classes prof kinnally is teaching this semester?
+User_f115a7: I have SS110 with her
+User_792c42: also SS152. Perhaps cx51 as well
+
+--- Conversation 135 (2025-02-06) ---
+User_53e78e: How harsh prof Sealfon is on word count?
+User_2d7394: “You exceeded the word count by 76 words”, Sealfon, 2023 on my 1076 word assignment.
+User_e8cb6f: isn't there like a 10% leeway on assignments usually
+User_e8cb6f: also if you lie on the word count does she like actually check
+User_2d7394: Tell her that
+User_04eb8b: There is no universal leeway range, and flexibility with word count is highly dependent on each prof.
+
+Afaik prof. Morgan & Gale are quite strict with the limits.
+User_e8cb6f: thats wild. i have my first gale assignment due tmrw I'm terrified
+User_04eb8b: Don't worry, just make sure to run through Grammarly & be mindful of your word count 🙂 Gale has gotten gentler these years
+User_e2ed64: I asked in OH, she was semi-vague about it and said something like "it's a team decision" and "maybe my TAs will check but if you're not massively over the word count, I won't notice"
+
+--- Conversation 136 (2025-02-07) ---
+User_792c42: There's a 10% chance you might be fine with Word-count + 10 words
+User_e2ed64: I'm like 150 words over but also did one of the optional parts, so yaaa, we shall see🥲🫡
+
+--- Conversation 137 (2025-02-07) ---
+User_53e78e: how is prof gale about the tables in terms of word counts - normally teachers do not count it but you lowkey scared us yesterday?
+User_04eb8b: Just be intentional with your table content; make sure it serves a clear purpose and is well-constructed. Add a proper table title so it’s easy to understand. Keep it concise and to the point—don’t overdo it with too much info. I personally never had any issues as long as it’s thoughtful and not overly lengthy!
+
+--- Conversation 138 (2025-02-09) ---
+User_05dd45: does anyone know if prof gale is strict about page numbers I forgot to add it GAAAA 😭😭😭😭
+User_2dffa2: omg same 😭
+User_069ce1: I don’t think page numbering is an essential part of #professionalism so you should be fine (I don’t even remember we had to put them, and I never got downgraded for it.)
+
+--- Conversation 139 (2025-02-10) ---
+User_3751e6: Hi guys! I wanted to ask [handle] if you have any reviews of profs as potential capstone advisors? especially in terms of grades, expertise, and feedback, thank youu
+User_bb0394: It very much depends on your project, so giving some contexts here could be helpful
+User_3751e6: immediate panic attack ahaha, but let's say that the idea is basically gamified storytelling. I was thinking of having Prof. Watson (cs major) and influence him to have Prof. Karl as the second reader for ah content, but havent heard anything about them as advisors
+User_209f88: I have nothing to add abt these profs but a friendly reminder that even if you don't get a certain prof as the advisor, you can always talk with them about your project for advice and keep them updated too! and when the final committee meeting comes with multiple profs in different fields this is also really helpful to have done this (so says hadavand haha)!
+
+--- Conversation 140 (2025-02-11) ---
+User_c0b244: Prof Watson is a very popular capstone advisor, and he usually has huge groups. I can't comment on what he's like bc I don't have him, but you'd likely get much less 1-on-1 time with him and less detailed feedback on drafts. He's amazing, he just has a lottt of students. Also, I think [handle] did a very similar capstone, if she's still active on telegram might be helpful to reach out to her!
+User_df9f1b: His feedback on my draft was 2 lines 🙄
+User_3751e6: so… you’d not recommend? 😶‍🌫️
+User_df9f1b: Depends what you want out of your capstone. If you are passionate about it and want someone to push you to do it. Ribeiro is better. But if you want someone more chill and more control on your side then Watson is good choice.
+User_c0b244: there's also a middle ground of profs who don't push you by default, but will if you ask them to. My advisor is Tambasco, who is super nice and supportive, but when I told him I was worried about my progress and needed more of a push, he started following up with me more, and he had the capacity to do that because he has fewer advisees
+User_53e78e: hey, does anyone know when are Prof Digby’s OH?
+User_09dde9: if it's not here :https://docs.google.com/spreadsheets/d/1WIe6OCPeKnwauLbMBTPib8A8c4gsy-koj1EKDE5VR3o/edit?gid=0#gid=0
+
+email her to book appointments.
+User_53e78e: yea thanks Linda! I did email her but she hasn’t replied so idk
+
+--- Conversation 141 (2025-02-11) ---
+User_53e78e: one more question, how does prof Gale want the tables/pictures to be formatted? there is nothing about it in APA guide, and different Profs seems to care differently about it, so I am very confused rn
+User_76c184: dont think she has anything specific. i formatted regularly, just w/ captions & co and she never left a comment
+
+--- Conversation 142 (2025-02-13) ---
+User_e150d3: It's my feedback doc. Everyone has access with their minerva email and should be able to add to it and keep the doc updated! :))
+
+--- Conversation 143 (2025-02-27) ---
+User_c63129: Could anybody send me the syllabus for B110 and B111? I'm doing course research and Minerva doesn't provide syllabi to non-takers :(((
+User_09dde9: they do though, it's in myminerva
+User_c63129: oh thank you!
+User_a72438: Also you can access any syllabus by using this link and adding the course code: https://forum.minerva.edu/app/syllabus/<COURSE CODE>
+User_764489: Who's teaching the neuroscience course this semester? Can someone please share their email?
+
+--- Conversation 144 (2025-03-01) ---
+User_3839b3: Would love a gdoc for this one! 
+
+I also want to know which advisor is on the chiller side apart from Watson*. Anyone have recommendations/stories to share? Tysm!
+
+My project: inner speech (da voices in yo head 🧠) to general computer use. 
+
+__
+1 I already consume Watson's 30 mins every after class, so he's basically alr advising me 🤣
+
+--- Conversation 145 (2025-03-02) ---
+User_2ec113: Hello good people, is there any Prof that you would recommend as a Capstone advisor with finance/quant knowledge that is in the business college? (Or Profs with experience in building SaaS products also count)
+
+--- Conversation 146 (2025-03-19) ---
+User_060b9b: does anyone take the courses by prof. Klein before
+User_e150d3: Prof Sterne was chill
+User_d3b4e3: hi! does anyone know any Minerva profs who were or are currently based in the UK?
+User_c0b244: Scheffler moved there recently!
+
+--- Conversation 147 (2025-03-20) ---
+User_59246b: Digby
+
+--- Conversation 148 (2025-03-29) ---
+User_d3b4e3: hihi
+
+any reviews on prof. Carlos Antonio Galeano-Rios? how is he like as a prof/person?
+User_5baedc: he’s amazing both as a person and Prof! I took CS111 with him and his teaching style is more focused on explaining the concepts with many examples and in a very comprehensive way. It’s good to follow the explanations from beginning to end so you don’t get confused in the middle though. 
+
+His grading can also be more strict because of this, but he is very helpful and kind in office hours! Always good to take class with him
+
+--- Conversation 149 (2025-04-12) ---
+User_7ba86b: Anyone had capstone with professor Wilkins? I will pm you.
+User_982903: Prof. Carlos Rios
+
+--- Conversation 150 (2025-04-12) ---
+User_8bbbff: And professor digby
+
+--- Conversation 151 (2025-04-25) ---
+User_6f8774: thoughts on professor goldemburg?
+
+--- Conversation 152 (2025-04-25) ---
+User_52ac9c: Hey guys! Any insights into Robbins for B110 and Folkinshteyn for B111?
+User_50db50: robbins just generally terrible
+User_50db50: the most interesting things about his classes was the music during eye rest breaks
+User_52ac9c: Oh no :((( how is he on classes?
+User_50db50: boring
+User_7bbd29: He is chill, he is very easy at grading
+User_df9f1b: vv boring
+User_069ce1: Oftentimes he feels like he doesn’t know what he’s talking about
+User_df9f1b: but but….“aS aN eViRonMeTal ECoNomISt”…..I think….
+User_50db50: wow
+User_50db50: very universal experience
+User_069ce1: Another iconic phrase is “I only teach this class so that they let me teach econometrics”
+User_2a3dbf: quite professional and straightforward. She is part time in Minerva full time in Havard i guess
+User_cd8c33: How is prof Lawry? I got two classes with him/her
+User_562584: Incredible! Highly recommend his classes - fair (borderline easy) grading, so knowledgable, and very kind
+User_a72438: Robbins sucks, Folkinshteyn is very knowledgeable but the pace of the class is also a bit slow lol
+User_cd77ec: One of the best profs at all of Minerva! Super nice guy, great facilitator. Would also recommend talking to him in office hours he has so so many good insights to anything marketing-related
+
+--- Conversation 153 (2025-04-26) ---
+User_150682: Robbins is a very kind and nice guy with easy gradings and also quite boring classes :) but if u wish to learn u definitely will THO B110 is absolute bs (as well as the half of Biz classes) UNLESS you are an experienced entrepreneur or corporate manager. Biz college aint no for young green students for sure; tho some good courses exist - for biz college related u guys can dm me too; esp finance and operations
+User_150682: It's like most of the time I didnt know what to say when he cold calls on some artificially made up questions; he is not gonna leave you peacefully doing ur stuff and gonna cold call u in the most lost moment of urs :)))
+
+--- Conversation 154 (2025-04-26) ---
+User_cd77ec: My Robbins review ^
+User_792c42: At this point, someone just pin it.
+
+--- Conversation 155 (2025-05-07) ---
+User_52c3df: Does anyone have Prof. Singh’s email? And information/thoughts on her area of expertise? 
+(Context: she will teach the Science of Learning tutorial)
+User_e40a5d: [email]
+User_52c3df: Thank you!
+
+--- Conversation 156 (2025-05-09) ---
+User_a591e3: I took that tutorial with her this year and it was great. She was a bit unorganized but clearly cared. She was also pretty flexible in terms of groups and projects. I bet the next time it runs it will be even better bc my semester was her first time teaching it.
+
+--- Conversation 157 (2025-05-19) ---
+User_d3b4e3: hii does anyone know any minerva prof from EU?? i know some are from the UK but im looking for ppl from the EU—thank you in advance!
+User_9cb696: i think prof morar is romanian?
+User_e2ed64: Prof Köver is also somewhere from Europe I think
+
+--- Conversation 158 (2025-05-20) ---
+User_a72438: Prof Ribeiro is portuguese and currently based off of Lisbon
+
+--- Conversation 159 (2025-07-23) ---
+User_d56a50: Bumping this up for Upperclassmen for their input. An incredible recourse for course selection : https://docs.google.com/document/d/18uryHmRM7VvvRKOVMLPjtC_19u1oZDaN6Xh_XWzdmls/edit?tab=t.0#heading=h.esn7ktny5er9
+
+--- Conversation 160 (2025-08-21) ---
+User_8b93bb: Is prof Tam new? I've never heard of her. Anybody knows anything?
+User_2d7394: It’s just [handle] got an upgrade
+
+--- Conversation 161 (2025-08-27) ---
+User_3751e6: guys, can someone give me an honest review of Prof. Watson in terms of having all classes with him in senior year? 😭 Never had a class with him before so a bit concerned about that (tutorial, class and capstone)
+
+--- Conversation 162 (2025-08-27) ---
+User_9fdc87: I really liked cp seminar and cs156 with prof Watson! I think he is great in class, and in assignments he really wants to see you improve. He also likes to organize things, and overall all his communications are very structured, which I appreciated
+
+--- Conversation 163 (2025-08-31) ---
+User_4d70cc: Hey! Does anybody have any reviews on prof Kenney for SS50?
+User_4d70cc: and prof Grant
+User_2a3dbf: both of them are amazing
+User_2a3dbf: very jealous of u getting them
+
+--- Conversation 164 (2025-09-06) ---
+User_59246b: any thoughts on Odera?
+User_4d69fa: Hiiii, does anyone know prof. Tam’s email please?
+User_b6fd7d: Very lovely as a person, goes straight on point (cold calls quite a lot ig?). Assignment instructions are quite heavy for some reason (often ask for way too many thing to fit into the word limit)
+User_2c19b9: This man is a walking encyclopedia. Be ready to learn a lot! I had him for SS51 and he was a pretty harsh grader, but also the type of harsh grader you get feedback from and you go "yeah man that was kinda shit, I deserved that 1"
+
+--- Conversation 165 (2025-10-25) ---
+User_35ee39: Hi, is prof Powers still at Minerva?
+User_2d7394: as of a few hours ago yes
+User_2d7394: but a lot can happen in that time here
+
+--- Conversation 166 (2025-10-25) ---
+User_09dde9: thank god he is, i will fall apart otherwise
+
+--- Conversation 167 (2025-12-24) ---
+User_2a3dbf: Hi folks, how's prof subasic grading for software engineer course (CS162)?
+User_2a3dbf: i had him for cs 110 and it was painful. Not sure if that's becuase of cs110 or his preference
+User_09dde9: Reviews on Prof Kinnally for NS112? 👀
+
+--- Conversation 168 (2026-01-04) ---
+User_d3b4e3: What happened to Forum’s Office Hours? Does anyone know? because I don’t see any office hours available
+User_76c184: i think profs usually set them at the end of the break, so they should show up next week or so
+
+--- Conversation 169 (2026-01-05) ---
+User_cd8c33: Is Prof.Tam (business) a harsh grader?
+
+--- Conversation 170 (2026-01-06) ---
+User_7bbd29: In my opinion, she is not the best grader for sure. I had her for B144 and I don’t think all the grades were really justified. But I think different people have different opinions about her
+
+--- Conversation 171 (2026-01-07) ---
+User_39d2bb: Knowledgable in the topic due to research related to evolutionary studies in her lab at Davis. It might be her first year teaching this course as she adjusted some of the assignments last semester. Overall chill. Doesn't cold call, loves when people asks questions, even if she doesn't have an answer on the top of her head.
+
+--- Conversation 172 (2026-01-12) ---
+User_ff817d: Is Prof Tam (CP) harsh grader?
+
+--- Conversation 173 (2026-05-14) ---
+User_d31481: Does anyone know how Prof. Brown is? Compared to Prof. Doyle, which one do you think would give the better experience?
+User_fe07e8: I think Prof. Brown is new. Prof. Stan said she's no longer teaching SS152 so maybe she recommended someone from Stanford ig.
+User_d31481: Nooooooo. I was soooo looking forward to having Stan again😭.
+User_d31481: Thank you for the information! I'll see how Prof. Brown turns out.
+User_b84af7: WHAAAT Prof Stan is out of minerva???
+User_09dde9: no she's just no longer teaching that course
+User_b84af7: Oh my bad I read that as *Prof Brown is the new Prof Stan" 🤦‍♂️
+User_8eab43: I worked with him, he's super chill and super knowleadgeable, also he says he is an easy grader. but he was a professor at columbia before coming to minerva so it's his first minerva course
+
+--- Conversation 174 (2026-05-19) ---
+User_d0baaf: Hello, does anyone have experience with Prof Odera?
+
+--- Conversation 175 (2026-05-20) ---
+User_a591e3: Incredably wonderful human. Very hard grader. I've never felt more considered in a class than with Odera, but both of the classes I've had with him have been some of my lowest overall grades.
+User_d0baaf: Oh great, cp191 gonna be fun then...
+
+--- Conversation 176 (2026-05-20) ---
+User_53e78e: i didnt feel like he was that harsh but hes not easy either; the good thing is that he states his expectations very clearly when giving feedback
+User_df3bd7: [email]

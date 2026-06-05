@@ -1,0 +1,120 @@
+# Topic: Tutorials
+
+--- Conversation 1 (2024-04-04) ---
+User_1766cd: Hey, thought this would be useful to have a chat just for tutorials since questions seem to be asked across many different channels.
+User_1766cd: Could people share their experiences with different tutorials they have taken so it would be easier for newer generations to make their decisions
+User_1766cd: I have quite a few tutorials that I am interested in (Dist Sys, Networking & OS, Deep Learning, Quantum Information, AI Lab, Startups & Big Ideas) and am having trouble making my mind. Would love to hear reviews from people who have taken them
+User_c7aeb3: Dist Systems was pretty good intro to the topic:) esp nice for ppl interested in swe
+
+--- Conversation 2 (2024-04-04) ---
+User_ce8131: are tutorials pass/fail or do they have their own LOs? trying to figure out how they are graded
+User_e150d3: they have their own LOs and have actual grades (like other concentration courses)
+User_e150d3: yess! If you want to work in tech or SWE related job, you WILL have to learn tools like kubernetes, maybe Kafka at big tech companies, different databases, how to build microservices architecture. It’s super useful to know these concepts even if you’re building your own software based business so would recommend. But also realistically you’d be able to learn these tools on your own or at your job anyway. The tutorial is very much intro level to the concepts, nothing in depth
+
+--- Conversation 3 (2024-09-04) ---
+User_a591e3: So if the time our tutorial is assign conflicts with a class after the time changes, does this make it a requirement to drop it? Can we even drop a tutorial at this point? I really need both the tutorial and class. And the overlap is only after Nov 1 (stupid daylight saving time)
+
+--- Conversation 4 (2024-12-06) ---
+User_1d9ddb: anyone did Deep Learning tutorial and can share their experience_
+
+--- Conversation 5 (2025-01-17) ---
+User_b0fcc6: I did it and I enjoyed it. It was well-structured, I found the things I learned useful, and we were focused which is something that isn't true for all tutorials
+
+--- Conversation 6 (2025-01-21) ---
+User_5d32f4: does anyone have review on AI Lab tutorial?
+
+--- Conversation 7 (2025-01-23) ---
+User_3d57a5: Hi, I wonder if anyone would be interested in a Urban Planning tutorial?
+User_c88a39: Only been through 2 classes so far, but it seems like a pretty chill tutorial with good opportunity to build your portfolio. You basically work on any AI/ML project you want, and Watson is just there to give you advice and feedback. You dont have to "teach" materials like other tutorials, and you rather present your projects for your allocated classes.
+
+I feel like what you get out of it will be wholely dependent on how much work you decide to put it in though
+
+--- Conversation 8 (2025-02-21) ---
+User_354572: Has any CS major taken the Politics, Philosophy, and Economics tutorial with prof. Digby? Also, is there a way to access the syllabus for the tutorial from previous semesters?
+User_09dde9: oohh i'd love to see that syllabus too.
+
+--- Conversation 9 (2025-02-21) ---
+User_c0b244: jsyk the syllabus for tutorials does change every semester! It's designed by the students who take it. So past syllabi are ofc really nice to see for inspiration and a sense of what the tutorial could be, it won't be the same if/when you take it
+
+--- Conversation 10 (2025-02-25) ---
+User_7facf1: I was a CS/SS major and I took PPE as part of my tutorial requirement, one of my favorite SS classes ever but I lucked out with the group of students I was with, here is what our syllabus was and I am not sure if Digby will switch up the structure for the first few classes but we started with 1 class run by Digby, three that were co-taught by students (one on each of PPE), and then individual student classes.
+User_354572: Thank you so much, [name] !
+
+--- Conversation 11 (2025-03-29) ---
+User_bdf9c2: Hello hello! if anyone has any info on the content of Documentary Film or Science coms tutorials - I would adore to know more!
+
+--- Conversation 12 (2025-04-02) ---
+User_9c1b1a: can you select a tutorial now and then drop it in the august if overload not approved?
+User_237267: Can u specify? If u need to overload to take tutorials u have to say so in the app form
+
+--- Conversation 13 (2025-04-14) ---
+User_7ba86b: Do people actually apply for IRB to get exemption from HSR to do interviews or do product testing for Capstones? If anyone has, I will pm you to ask for more details.
+User_2ec113: Yeah, I applied twice before for different occasions, it is not a super daunting process you just gotta answer a form shortly
+User_7047ef: in my experience, I didn't get a response from the IRB until three months later so apply early
+User_7ba86b: Do Minerva punish people for not applying and doing interviews for Capstone? Or it's more of a recommendation?
+User_2ec113: Actually I have never seen anyone getting punished lol
+User_04eb8b: I don’t know about punishment, but there are ways to frame your study to not get considered HSR. One example was some journalism capstones get exempted from HSR as long as it is framed & uses the insights in a specific way. So it’s better to discuss with profs.
+User_7ba86b: I'm not intending to do human research that requires HSR approval. Was just wondering if I can get away without even applying for exemption from HSR.
+
+--- Conversation 14 (2025-04-16) ---
+User_751cc5: If you’re doing journalism interviews (in my case interviewing for a documentary) I did not have to apply for exemption
+
+--- Conversation 15 (2025-05-01) ---
+User_d4695a: I would love a comparison of the Digital Humanities (w/ Karl) and Data Science for Social Good tutorials! I’m considering swapping. For example, who taught DSSG in previous years?
+
+--- Conversation 16 (2025-05-07) ---
+User_d4695a: Did anyone take the Data Science for Social Good tutorial? Tag a friend! I’d love to talk to them about it!
+
+--- Conversation 17 (2025-05-08) ---
+User_8b43e5: I don’t think I did that, but I did Ethics of Big Tech with Perry
+
+--- Conversation 18 (2025-08-21) ---
+User_570bcd: How does requesting tutorials work, and would there be enough interest for a redo of decolonizing imagination this spring?:)
+User_8234f5: im pretty sure tutorials have been decided and you can only ask for new ones to be added next academic year 
+there will be a form sent out where you can request new ones if they haven’t been added to the list by default
+User_8bbbff: when do we even take tutorials? junior year?
+User_2d7394: No, senior
+User_8234f5: no, it’s meant for senior year
+some people have taken tutorials in junior year if it’s a very specific one that wouldnt have run in their own class because of low enrolment but is happening for the class above because there was enough interest there
+User_618dde: are tutorials mandatory for seniors???
+User_069ce1: Not really, you just need to fill in all your credits. If you do things like double concentration, you may end up in situation where you can't do any tutorials, so they are definitely not mandatory
+User_3f5641: really? I thought these 8 credits were only possible by doing two tutorials or IL199 major relevant or with CS130 and NS125
+User_069ce1: The benefit of IL190/IL199 is that they do not count as classes, so they don’t contribute to overloading. 
+
+The issue I faced is that when I’m done with my double concentration (4 core classes + 6 for 2 concentrations) + 5 classes outside of CS college, I’ll still need 8 credits. 4 of these come from GL and 4 from IL for me. I can’t do a tutorial because that’d require overloading, which they don’t really like approving
+
+--- Conversation 19 (2025-08-21) ---
+User_570bcd: thankss, that makes sense
+User_570bcd: does anyone have the list of tutorials for this spring then?:)
+User_570bcd: you're both kinda right, just besides these options you can also replace them with additional concentrations from the same college
+
+--- Conversation 20 (2025-08-23) ---
+User_76c184: hii! any takes on work load/ diffuculty of tutorials compared to regular classes?
+
+--- Conversation 21 (2025-08-24) ---
+User_8b43e5: Ultimately depends on a lot of factors, the one thing that is a drastic change (I’d say) would be that for 2 to 4 sessions, you’d be the one creating the pre-class readings, pre-class work, and any other additional resources you might need to facilitate the tutorial. However, you can use that as practice to what you’ll end up doing during Manifest for your Capstone
+User_76c184: i see, thank you so much!
+
+--- Conversation 22 (2026-02-12) ---
+User_896964: Hii, any review on deep learning tutorial?
+
+--- Conversation 23 (2026-04-07) ---
+User_2a3dbf: any review for prof Watson and prof Scheffler? are they harsh graders
+User_df9f1b: prof watson is not harsh at all. based on the machine leanring concentration course and having him as my capstone advisor
+
+--- Conversation 24 (2026-04-07) ---
+User_b6fd7d: Scheffler is not harsh, but his comments sometimes look very mean and countering the advice he gave :(( very nice and helpful in the class tho!
+User_9fdc87: I had a really good experience with both! Fair grading and helpful usually. Had 2 classes with Scheffler and Watson each
+
+--- Conversation 25 (2026-04-07) ---
+User_098171: i love them
+
+--- Conversation 26 (2026-04-10) ---
+User_ea1a15: Is there a cap on how many tutorials you can take in total? Specifically I have 3 I want to take and I'm done with both major and breadth requirements.
+User_8234f5: i think 4?
+
+--- Conversation 27 (2026-04-15) ---
+User_710c4b: Anyone take the deep learning tutorial already or is it new for M27s?
+
+--- Conversation 28 (2026-04-20) ---
+User_939f73: Sorry if I'm repeating a question here, but if I have double concentrations (e.g. AI and math), does that automatically satisfy the tutorial requirements? (because I'll be taking 6 concentrations, whereas a single concentration requires 3 concentrations + 2 tutorials/additional concentrations/IL199)
