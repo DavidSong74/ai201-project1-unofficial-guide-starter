@@ -74,9 +74,10 @@ class Chunk:
     topic: str
     file: str
     date: str
-    conv: int
-    sub: int
+    conv: int          # conversation-thread number within the source document
+    sub: int           # sub-chunk index when a long thread is split (0 otherwise)
     n_messages: int
+    chunk_index: int    # 0-based sequential position of this chunk in its source file
 
 
 # --- Parsing ------------------------------------------------------------------
@@ -167,7 +168,9 @@ def split_block(b: Block) -> list[list[str]]:
 
 
 def chunk_blocks(blocks: list[Block]) -> list[Chunk]:
+    """Chunk all blocks of ONE source file; chunk_index is sequential within it."""
     chunks: list[Chunk] = []
+    idx = 0
     for b in merge_tiny(blocks):
         groups = split_block(b)
         for sub, msgs in enumerate(groups):
@@ -179,7 +182,9 @@ def chunk_blocks(blocks: list[Block]) -> list[Chunk]:
                 text=f"{header}\n{body}",
                 topic=b.topic, file=b.file, date=b.date,
                 conv=b.conv, sub=sub, n_messages=len(msgs),
+                chunk_index=idx,
             ))
+            idx += 1
     return chunks
 
 
@@ -237,8 +242,10 @@ def embed_and_store(chunks: list[Chunk], db_path: str, rebuild: bool) -> None:
             ids=[c.cid for c in part],
             documents=[c.text for c in part],
             embeddings=[e.tolist() for e in embs],
-            metadatas=[{"topic": c.topic, "file": c.file, "date": c.date,
-                        "conv": c.conv, "n_messages": c.n_messages} for c in part],
+            metadatas=[{"source": Path(c.file).name, "file": c.file,
+                        "topic": c.topic, "date": c.date,
+                        "chunk_index": c.chunk_index, "conv": c.conv,
+                        "sub": c.sub, "n_messages": c.n_messages} for c in part],
         )
         print(f"  embedded {min(i + batch, len(chunks))}/{len(chunks)}")
     print(f"Collection '{COLLECTION}' now holds {col.count()} chunks at {db_path}/")

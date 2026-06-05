@@ -46,13 +46,28 @@
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunk size:**
+**Chunk size:** target **1,000 characters (~250 tokens)**, hard cap ~1,400. The chunk
+*unit* is one **conversation thread**, not a fixed window — `scripts/telegram_export.py`
+segments each topic into reply-threads cut on 180-minute time gaps, and
+`scripts/build_index.py` turns each thread into a chunk.
 
-**Overlap:**
+**Overlap:** **1 message** between sub-chunks, and only when a thread is long enough to
+be split (~5% of threads). Threads under 80 chars are merged forward into the next thread
+instead of being embedded alone.
 
-**Why these choices fit your documents:**
+**Preprocessing:** the JSON export is converted to clean `Author: text` lines with PII
+scrubbed (handles → `User_xxxxxx`, phone/email/@mentions → placeholders, URLs preserved),
+grouped by topic and time-segmented. Each chunk is prefixed with a `Topic: <name> | <date>`
+header for context.
 
-**Final chunk count:**
+**Why these choices fit your documents:** I measured the corpus before choosing sizes —
+across 10,192 threads the median is 315 chars (p90 1,394), so ~90% of threads are already
+chunk-sized and splitting on a fixed window would cut "is Prof X easy?" away from its
+answer. Splitting only oversized threads, on message boundaries, keeps each Q&A intact.
+The 1,000-char target is deliberately set under the embedding model's 256-token window so
+chunks aren't silently truncated.
+
+**Final chunk count:** **12,337** chunks across 29 topic files.
 
 ---
 
@@ -64,24 +79,54 @@
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:** `all-MiniLM-L6-v2` via sentence-transformers (384-dim, normalized
+embeddings, cosine similarity), stored in **Chroma** (`PersistentClient`, collection
+`minerva_guide`). Chosen because it is fast and free on CPU (the full 12,337-chunk corpus
+embeds in ~90s), runs **locally** — which matters here since the data is private student
+messages I should not send to a third-party API — and is strong on short conversational
+English. Its 256-token window is the constraint that set my ~250-token chunk target.
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** If cost weren't a constraint I'd weigh: **(1) context
+length** — MiniLM's 256-token cap truncates long threads; a 512–8k-token model
+(`bge-base`, OpenAI `text-embedding-3-large`) could embed whole threads without splitting.
+**(2) Multilingual** — this chat code-switches between languages and MiniLM is
+English-centric, so a multilingual model would retrieve non-English messages better.
+**(3) Domain accuracy** — Minerva jargon ("cornerstone", "EA", section codes like SS51)
+is out-of-distribution; a larger or fine-tuned embedder would represent it more
+faithfully, and an **asymmetric query/passage** model would fix the question↔answer
+mismatch documented in the Failure Case. **(4) Latency & privacy** — an API model adds
+per-query latency *and* ships private student data off-device, so for this corpus local
+embedding is the right call even ignoring money.
 
 ---
 
 ## Grounded Generation
 
-<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
-     beyond the retrieved documents?
-     Describe both your system prompt (what instruction you gave the model) and any structural
-     choices (e.g., how you formatted the context, whether you filtered low-relevance chunks).
-     Do not just say "I told it to use the documents" — show the actual instruction or explain
-     the mechanism. -->
+Implemented in `scripts/ask.py` (Groq `llama-3.3-70b-versatile`, temperature 0.2).
+Grounding is enforced at **two layers**, not just by a prompt instruction:
 
-**System prompt grounding instruction:**
+**1. Structural (before the model is called):**
+- The model only ever sees the **top-k retrieved chunks**, never the raw corpus.
+- Each chunk is injected as a numbered, labelled block: `[n] Topic: <name> | <date>`
+  followed by the messages — so the model can attribute claims to a specific source.
+- A **relevance floor** drops any chunk below `MIN_SIM = 0.25` cosine similarity. If
+  *nothing* clears the floor, `ask.py` short-circuits and prints "The chat doesn't have
+  a clear answer on that" — the LLM is never invoked, so it cannot fall back on its own
+  training knowledge.
 
-**How source attribution is surfaced in the response:**
+**System prompt grounding instruction (verbatim, abridged):**
+> You answer using ONLY the numbered context below… Do not use outside knowledge. Cite
+> every claim with the source number(s) in square brackets, e.g. [2]. If the context does
+> not contain the answer, say so plainly: "The chat doesn't have a clear answer on that."
+> Do not guess or invent details. These are individual student opinions and may be
+> outdated or contradictory — when sources disagree, say so.
+
+**How source attribution is surfaced in the response:** the model cites inline `[n]`
+markers, and `ask.py` prints a `Sources:` list mapping each `[n]` → `topic | date (sim)`.
+Verified working: e.g. *"How have students gotten an O-1 visa?"* returned an answer
+citing a Dyer Harris law-firm thread [3] and an O-1/EB-1 webinar [2], each traceable to a
+dated Visas-topic chunk. The refusal path is also verified — when the actual answer chunk
+isn't retrieved, the model says so instead of fabricating (see Failure Case Analysis).
 
 ---
 
@@ -117,13 +162,33 @@
      "The embedding model treated the professor's nickname as out-of-vocabulary and returned
      results from an unrelated review" is an explanation. -->
 
-**Question that failed:**
+**Question that failed:** "What do students say about Prof McAllister as a teacher and
+grader?" (k=8)
 
-**What the system returned:**
+**What the system returned:** "The chat doesn't have a clear answer on that… there are no
+direct comments about her teaching style or grading." This is *wrong* — the chat contains
+a clear, positive review: *"I had Prof McAllister in SS152 last semester and I found her
+great!… cares about students… gives pretty good grades."*
 
-**Root cause (tied to a specific pipeline stage):**
+**Root cause (retrieval stage, not generation):** The generation layer behaved correctly
+— it faithfully refused because the answer wasn't in the retrieved context. The failure
+is in **retrieval ranking**. I confirmed the review chunk *is* indexed but ranks **#9**
+(cosine 0.558), just below the k=8 cutoff. The question is phrased interrogatively ("what
+do students say about Prof X?"), and with a symmetric bi-encoder (`all-MiniLM-L6-v2`) it
+embeds closest to other **question-shaped** chunks ("how is Prof Y as an instructor?")
+rather than the **declaratively-phrased answer** ("I had her, she's great"). Look-alike
+*questions* crowd out the actual *answer*. This is the classic asymmetric query↔passage
+mismatch of symmetric embedding models.
 
 **What you would change to fix it:**
+1. Use an **asymmetric retrieval model** with query/passage prefixes (e.g. `bge-*` with
+   `"query:"` / `"passage:"`, or an instruction-tuned embedder) so questions align to
+   answers instead of to other questions.
+2. Add **hybrid retrieval** — a BM25 keyword pass alongside the dense one. "McAllister" is
+   a rare, high-signal token; lexical search would rank the review near the top regardless
+   of phrasing, then fuse with dense scores (RRF).
+3. Cheap stopgap: raise k (the chunk is at #9, so k≥9 retrieves it) and/or apply MMR to
+   demote near-duplicate question chunks so distinct answers get a slot.
 
 ---
 

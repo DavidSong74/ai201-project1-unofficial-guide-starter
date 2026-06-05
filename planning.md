@@ -109,57 +109,116 @@ ignoring money.
 
 ## Evaluation Plan
 
-<!-- List your 5 test questions with their expected correct answers.
-     Questions should be specific enough that you can judge whether the system's response
-     is right or wrong. "What are good dining halls?" is too vague.
-     "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
+<!-- Questions chosen to span the domain's subtopics (academics, immigration, housing,
+     health, careers) and to have a checkable answer grounded in a specific chat thread. -->
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Is Prof Odera a strict grader or an easy grader? | Strict with grades; explicitly *not* the easy-grader a student was hoping for, though more lenient on class participation. (Prof reviews, 2023-01-04) |
+| 2 | How have students gotten an O-1 visa after Minerva, and what resources are mentioned? | The chat has **no step-by-step process** — a correct answer surfaces resources and says so. Resources present: a Dyer Harris law-firm O-1B webinar tied to the OPT period (Visas, 2026) and Global Student Services peer-advising OHs, Mondays 6pm PST, for visa/work-authorization questions (Visas, 2023). NOTE (verified): retrieval is **phrasing-sensitive** here — which resource surfaces depends on wording — and answers can leak an advisor's first name from message bodies (known PII limitation). |
+| 3 | Which neighborhoods are best to live in during the Buenos Aires rotation? | Palermo, Recoleta, and Puerto Madero are named as best; the residence hall is in Recoleta (one of the safest); avoid La Boca/San Telmo at night and passing through Retiro at night. (Misc, 2020-04-08) |
+| 4 | Which rotation city did students rate as the best healthcare experience? | Korea is rated the best medical experience on rotation (hospital handled everything, no upfront payment/reimbursement), with Taiwan a close second; insurance covered everything except a COVID test. (Healthcare, 2023-05-10) |
+| 5 | Can you do an internship part-time during a semester, and how? | Constrained: F1 students can't work in year 1, and US internships are capped at ~20 hrs/week during a semester (Interns corner / Opportunities, 2024). Startups are the most viable for part-time since full-time mid-semester approval (PRPC) is hard, and requesting a mid/late-August start for a summer role can work (Software/Engineering, 2024-05-01). |
 
 ---
 
 ## Anticipated Challenges
 
-<!-- What could go wrong? Name at least two specific risks with reasoning.
-     Consider: noisy or inconsistent documents, missing source attribution, off-topic
-     retrieval, chunks that split key information across boundaries. -->
+1. **Question↔answer embedding asymmetry.** With a symmetric bi-encoder (all-MiniLM-L6-v2),
+   a query phrased as a question ("how is Prof X?") embeds nearest to *other questions*
+   rather than to the declaratively-phrased *answer* ("I had her, she's great"). Verified:
+   a real positive Prof McAllister review is indexed but ranks #9, below a k=8 cutoff, so
+   the system wrongly refused. Mitigation: asymmetric query/passage model or hybrid BM25.
 
-1.
+2. **A dominant noisy bucket.** "Misc / Untagged" is 25,072 messages → 5,806 chunks (~47%
+   of the index). Off-topic or low-signal chunks from it can crowd out the right thread,
+   and it mixes many subtopics under one label. Mitigation: the `topic` metadata supports
+   filtering, and a relevance floor drops weak matches.
 
-2.
+3. **Contradictory / outdated peer info.** This is years of opinions: professors leave,
+   policies and visa rules change, a "best" city in 2020 may differ now. The model can
+   merge a 2021 claim with a 2026 one. Mitigation: every chunk carries a date, surfaced in
+   citations, and the system prompt tells the model to flag disagreement and one-off
+   experiences.
+
+4. **Residual PII (ethics).** Author handles, phones, emails and @mentions are scrubbed,
+   but personal *names written in message bodies* (e.g. "ask Marianna") are not — NER would
+   risk false positives on common first names. Documented limitation; this corpus is real
+   classmates' private messages, which is also why embedding/generation stay local + a
+   private Groq key rather than logging data to a third party.
+
+5. **Topic membership is only partially recoverable from the export.** The Telegram
+   Desktop JSON has *no per-message topic field* — only `reply_to_message_id` (present on
+   29,224 / 45,179 messages). Topic files are therefore reconstructed by walking reply
+   chains up to each `topic_created` root, which captures only *explicitly-threaded*
+   messages. Verified failure: `general.txt` stops in 2022 (887 msgs chain to the General
+   root, all in 2022; ~0 after) because **"General" is Telegram's default topic and its
+   messages are not reply-linked to the topic root** — so post-2022 general chat is
+   indistinguishable from untagged chatter and falls into `misc-untagged.txt`. This is also
+   why that bucket is so large (~55% of messages). Net effect: per-topic retrieval
+   under-covers any topic where users posted without explicitly replying in-thread.
+   Mitigation: keep the Misc bucket indexed (so the content is still retrievable, just
+   without a clean topic label) and rely on dense similarity rather than topic filtering
+   for recall.
 
 ---
 
 ## Architecture
 
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
+```
+[1] DOCUMENT INGESTION            scripts/telegram_export.py
+    Telegram JSON export (result.json, 45,179 msgs)
+      → resolve forum topics / reply anchors
+      → scrub PII (handles→User_xxxxxx, phone/email/@mention→placeholder)
+      → time-gap segment into conversation threads
+      → 29 per-topic .txt + manifest.json
+                     │
+                     ▼
+[2] CHUNKING                      scripts/build_index.py
+    1 conversation thread = 1 chunk (median ~315 chars)
+      → split oversized threads on message boundaries (target 1,000 chars, 1-msg overlap)
+      → merge <80-char threads forward
+      → prefix "Topic: <name> | <date>"      ⇒ 12,337 chunks
+                     │
+                     ▼
+[3] EMBEDDING + VECTOR STORE      sentence-transformers + Chroma
+    all-MiniLM-L6-v2 (384-d, normalized, cosine)
+      → Chroma PersistentClient @ chroma_db/, collection "minerva_guide"
+                     │
+                     ▼
+[4] RETRIEVAL                     scripts/ask.py  (Chroma query)
+    embed question → top-k (default 5) by cosine
+      → drop chunks below MIN_SIM=0.25  (refuse if none clear it)
+                     │
+                     ▼
+[5] GENERATION                    Groq  llama-3.3-70b-versatile
+    grounded system prompt (answer ONLY from numbered context, cite [n], else "I don't know")
+      → answer with inline [n] citations + Sources list (topic | date | sim)
+```
 
 ---
 
 ## AI Tool Plan
 
-<!-- For each part of the pipeline below, describe:
-     - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     - What you'll give it as input (which sections of this planning.md, which requirements)
-     - What you expect it to produce
-     - How you'll verify the output matches your spec
+Tool used: **Claude (Claude Code)**, driven section-by-section from this planning.md.
 
-     "I'll use AI to help me code" is not a plan.
-     "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
-     with my specified chunk size and overlap" is a plan. -->
+**Milestone 3 — Ingestion and chunking:** Give Claude a sample of the raw Telegram JSON
+plus the Domain/Documents spec and ask it to write `telegram_export.py` (topic detection,
+PII scrub, time-gap segmentation). Verify by running `--inspect` on the real export and
+spot-reading output files to confirm handles/phones/emails are redacted and topics are
+sensible — *done; caught and corrected an early wrong assumption that the chat had no
+native forum topics.*
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 4 — Embedding and retrieval:** Give Claude the Chunking Strategy + Retrieval
+Approach sections and ask it to implement `build_index.py` with thread-aware chunking,
+the stated 1,000-char target / 1-msg overlap, MiniLM embeddings, and Chroma persistence.
+Verify with a `--dry-run` chunk-size histogram (must fit the 256-token window) and
+sample `--query` retrievals — *done; caught an overlap bug producing 2,847-char chunks and
+fixed the splitter.*
 
-**Milestone 4 — Embedding and retrieval:**
-
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface:** Give Claude the Grounded Generation spec and
+ask it to implement `ask.py` (retrieve → relevance floor → Groq with the grounding system
+prompt → cited answer). Verify with the 5 evaluation questions above plus an
+out-of-corpus question to confirm the refusal path — *done; surfaced the McAllister
+retrieval failure.* Next: optional gradio/streamlit UI over the same `retrieve`/`generate`
+functions.
