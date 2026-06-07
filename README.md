@@ -1,8 +1,8 @@
 # The Unofficial Guide to Minerva— Project 1
 
 ## DEMO Image/Video: 
-![alt text](image.png)
-https://drive.google.com/file/d/18h6b-cFwWyfqnMBD_9Q1cav0cw9wkCL9/view?usp=sharing
+Image: ![alt text](image.png)
+Video: https://drive.google.com/file/d/18h6b-cFwWyfqnMBD_9Q1cav0cw9wkCL9/view?usp=sharing
 
 <video controls src="Screen Recording 2026-06-07 at 10.mp4" title="Title"></video>
 
