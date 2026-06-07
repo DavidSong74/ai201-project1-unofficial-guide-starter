@@ -1,11 +1,9 @@
-# The Unofficial Guide — Project 1
+# The Unofficial Guide to Minerva— Project 1
 
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
+## DEMO VIDEO: 
+https://drive.google.com/file/d/18h6b-cFwWyfqnMBD_9Q1cav0cw9wkCL9/view?usp=sharing
 
----
+<video controls src="Screen Recording 2026-06-07 at 10.mp4" title="Title"></video>
 
 ## Domain
 
