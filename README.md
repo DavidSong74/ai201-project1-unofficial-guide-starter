@@ -9,31 +9,45 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+**Insider survival knowledge for Minerva University students** — the practical, lived
+side of being a student who rotates through seven global cities: which professors grade
+how and which courses are worth taking, immigration paths (F-1/OPT, O-1/O-1B visas),
+cross-city travel and housing logistics, healthcare abroad, jobs/internships/scholarships,
+and university bureaucracy. This knowledge is valuable because **none of it lives in the
+official course catalog or registrar pages** — it's tacit, peer-to-peer, and constantly
+re-learned by each cohort. It's hard to find because it's buried in **~45,000 messages**
+across years of a private cross-cohort Telegram chat, where the answer to "has anyone
+actually gotten an O-1 visa?" is one reply from 2025 you'd never surface by scrolling.
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
+Single corpus: the **Minerva Cross-Class Chat**, exported from Telegram Desktop as
+`result.json` (45,179 messages, 2021–2026). `scripts/telegram_export.py` splits it into
+one cleaned document per forum topic (PII scrubbed, time-segmented). The 12 topic
+"documents" below cover distinct subtopics — not 10 sources saying the same thing; full
+list of 29 in `documents/telegram/manifest.json`.
 
-| # | Source | Type | URL or file path |
+| # | Source (topic thread) | Type | File path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | CS — course/section advice, tooling (2,621 msgs) | Telegram forum topic | documents/telegram/cs.txt |
+| 2 | Opportunities — jobs, internships, scholarships (1,774) | Telegram forum topic | documents/telegram/opportunities-jobs-intern-scholarships-etc.txt |
+| 3 | Minerva Bureaucracy — registrar, deadlines, policy (1,480) | Telegram forum topic | documents/telegram/minerva-bureaucracy.txt |
+| 4 | Visas — F-1/OPT, O-1/O-1B experiences (1,361) | Telegram forum topic | documents/telegram/visas.txt |
+| 5 | Travel — relocation, flights, housing (1,336) | Telegram forum topic | documents/telegram/travel.txt |
+| 6 | SS — Social Sciences course/prof reviews (1,075) | Telegram forum topic | documents/telegram/ss.txt |
+| 7 | Classes exchange — add/drop & section advice (1,007) | Telegram forum topic | documents/telegram/classes-exchange.txt |
+| 8 | AH — Arts & Humanities reviews (1,001) | Telegram forum topic | documents/telegram/ah.txt |
+| 9 | NS — Natural Sciences reviews (914) | Telegram forum topic | documents/telegram/ns.txt |
+| 10 | Prof reviews — cross-college grading/teaching (594) | Telegram forum topic | documents/telegram/prof-reviews.txt |
+| 11 | Interns corner — internship hunt + workplace (401) | Telegram forum topic | documents/telegram/interns-corner.txt |
+| 12 | Healthcare — doctors/insurance across cities (319) | Telegram forum topic | documents/telegram/healthcare.txt |
+
+*Source vs. domain note:* the **domain** is insider student knowledge; the **source** is
+one Telegram export. Each forum topic acts as a distinct source document. A large
+`Misc / Untagged` document (25,072 msgs) holds messages the export couldn't attribute to a
+topic (see Failure Case / the "General topic" note) and is also indexed.
 
 ---
 
@@ -221,6 +235,37 @@ city"* answer **#1** (dense had it #3) — so hybrid BM25+dense is a justified *
 for exact-token queries (course codes, visa types, city names), just not the fix for this
 particular failure. Lesson: match the tool to the failure mode — verify, don't assume.
 
+### Second failure case (current, unresolved) — Q2, the O-1 visa question
+
+**Question that failed:** "How have students gotten an O-1 visa after Minerva, and what
+resources are mentioned?"
+
+**What the system returned:** "The chat doesn't have a clear answer on that." — yet the
+corpus *does* contain relevant resources (a Dyer Harris law-firm O-1B webinar; Global
+Student Services peer-advising office hours). Worse, the confidence banner reads **high**
+while the body refuses — a contradictory UI state.
+
+**Root cause (two compounding pipeline issues):**
+1. *Reranking favors a topically-adjacent wrong chunk over a diffuse right answer.* This
+   question has no single "how-to" thread; the useful info is scattered across a webinar
+   announcement, an office-hours note, and one-off anecdotes. The cross-encoder instead
+   scores an **F-1 visa status-update** chunk highest (ce 3.0) because "F-1 visa" is
+   semantically adjacent to "O-1 visa after Minerva" — but that chunk doesn't answer the
+   question, so the grounded generator (correctly) refuses. Dense-only retrieval had
+   actually surfaced the webinar/office-hours pointers; reranking's per-chunk relevance
+   focus pushed them out. The reranker is optimized for *single-passage* QA, and this is a
+   *multi-passage / resource-aggregation* question.
+2. *The confidence signal measures the wrong thing.* The banner is driven by the top
+   cross-encoder score, which rates topical relevance, **not** whether the chunk answers
+   the question — so a topically-near-but-useless chunk yields "high confidence" above a
+   refusal.
+
+**What I would change to fix it:** (a) **rerank + dense fusion** — keep a few top-cosine
+chunks alongside the reranked ones, so the resource pointers dense found aren't discarded;
+(b) **decouple the banner from a single ce score** — when the generator emits the refusal
+sentence, force confidence to "low/none" so the UI can't show "high" above a non-answer
+(or add a lightweight answerability check over the kept set).
+
 ---
 
 ## Spec Reflection
@@ -228,9 +273,26 @@ particular failure. Lesson: match the tool to the failure mode — verify, don't
 <!-- Reflect on how planning.md shaped your implementation.
      Answer both questions with at least 2–3 sentences each. -->
 
-**One way the spec helped you during implementation:**
+**One way the spec helped you during implementation:** Writing the Chunking Strategy
+section forced me to *measure the documents before writing any chunker* — the milestone's
+"skim your documents first" instruction. Filling it meant computing the conversation-block
+size distribution (median 315 chars, p90 1,394) up front, and that data directly produced
+the decision to chunk by **conversation thread** rather than a fixed-size window, and to
+set the 1,000-char target to fit MiniLM's 256-token window. Without writing the spec I'd
+have reached for a default character splitter that would have sliced Q&A threads apart —
+separating "is Prof X strict?" from "yes, very" — which is exactly the failure the
+data-driven plan avoided.
 
-**One way your implementation diverged from the spec, and why:**
+**One way your implementation diverged from the spec, and why:** The Retrieval Approach
+section specified **dense-only** retrieval with `all-MiniLM-L6-v2` at top-k=5. The
+implementation diverged to a **two-stage dense → cross-encoder rerank** pipeline (top-6
+from a 40-candidate pool). This wasn't planned — it came out of the spec's own Evaluation
+Plan: a test question ("what do students say about Prof McAllister?") returned a wrong
+refusal, and I traced it to the bi-encoder ranking the real review #9 (question↔answer
+asymmetry). So the divergence was *spec-driven even though it wasn't spec-planned* — the
+evaluation step the plan required is what exposed the gap. (A second, smaller divergence:
+planning assumed the chat had no native forum topics and used anchor-thread detection; the
+full export revealed 28 real `topic_created` topics, so ingestion used those instead.)
 
 ---
 
@@ -245,14 +307,39 @@ particular failure. Lesson: match the tool to the failure mode — verify, don't
      chunk_text(). It returned a function using a fixed character split. I overrode the
      chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
 
-**Instance 1**
+**Instance 1 — ingestion / topic detection (I corrected its assumption with real data)**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* a paste of the raw Telegram JSON (head + tail) and the goal "turn
+  this chat into clean per-topic documents for RAG."
+- *What it produced:* a first `telegram_export.py` that assumed the chat used native
+  forum topics and keyed off `topic_created` service messages.
+- *What I changed or overrode:* I pasted the actual export header showing a
+  `private_supergroup` migrated from a group, so it rewrote topic detection as
+  **anchor-thread (reply-root) inference**. Then I ran `--inspect` on the *full* 45k-message
+  export, which revealed **28 real `topic_created` topics** the sample had hidden — so I
+  directed it to use native topics when present and fall back to anchors otherwise. I drove
+  the design with real data instead of accepting the first plausible assumption.
 
-**Instance 2**
+**Instance 2 — retrieval fix (I overrode a confident-but-wrong solution by demanding evidence)**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* the failing evaluation question ("what do students say about Prof
+  McAllister?") and asked it to fix the bad refusal.
+- *What it produced:* it diagnosed a question↔answer asymmetry and confidently proposed
+  **hybrid BM25**, asserting the rare keyword "McAllister" would rank the review at the top.
+- *What I changed or overrode:* I told it to **verify before building**. The BM25 test
+  ranked the review **#11 — worse than dense's #9**, disproving the claim ("McAllister"
+  recurs in many question chunks). I redirected it to a **cross-encoder reranker**, which
+  lifted the review to **#1**. The AI's first instinct was wrong; the override was "prove
+  it on our data first."
+
+**Instance 3 — chunking bug caught by the verification step I insisted on**
+
+- *What I gave the AI:* my Chunking Strategy spec; asked it to implement `build_index.py`
+  with thread-aware chunking and a 1-message overlap.
+- *What it produced:* a working chunker — but a `--dry-run` size histogram showed chunks up
+  to **2,847 chars**, ~2× the intended cap, from an overlap bug (a sub-chunk could be
+  re-seeded with one large message and then appended to another).
+- *What I changed or overrode:* I had it tighten `split_block()` so no sub-chunk exceeds the
+  cap (pre-split long messages; bound the carried overlap), keeping chunks inside MiniLM's
+  256-token window. Caught only because I required inspecting the chunk distribution before
+  embedding, not after.
