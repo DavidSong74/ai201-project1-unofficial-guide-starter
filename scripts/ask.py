@@ -1,18 +1,24 @@
 #!/usr/bin/env python3
 """Grounded question answering over the Telegram chat index (Milestone 5).
 
-Pipeline: embed the question -> retrieve top-k chunks from Chroma -> drop chunks
-below a relevance floor -> feed ONLY those chunks to a Groq LLM under a strict
-"answer only from the context" system prompt -> print the answer with inline [n]
-citations and a Sources list (topic + date) so every claim is traceable.
+Pipeline: embed the question -> dense ANN over a wide candidate pool -> cross-encoder
+rerank to top-k (build_index.search) -> drop chunks below a relevance floor -> feed
+ONLY those chunks to a Groq LLM under a strict "answer only from the context" system
+prompt -> print the answer with inline [n] citations and a Sources list so every claim
+is traceable.
 
 GROUNDING MECHANISM (two layers):
-  1. Structural — the model never sees the raw corpus, only the retrieved chunks,
-     each numbered and labelled "[n] Topic | date". Chunks under MIN_SIM cosine
-     similarity are filtered out; if nothing clears the floor we refuse to answer
-     rather than let the model fall back on its own knowledge.
-  2. Prompted — the system prompt forbids outside knowledge, requires [n] citations,
-     and requires "I don't know" when the context is insufficient.
+  1. Structural — the model never sees the raw corpus, only the reranked chunks,
+     each numbered and labelled "[n] Topic | date". If the best reranker score is
+     below CE_REFUSE we refuse outright (the LLM is never called), so it cannot
+     fall back on its own knowledge.
+  2. Prompted — the system prompt forbids outside knowledge, asks for hedged
+     POINTERS with [n] citations, and requires "I don't know" when context is thin.
+
+OUTPUT: the LLM writes paraphrased pointers (it must NOT quote verbatim); the code
+attaches the real, lightly PII-scrubbed excerpt under each source — so quotes are
+guaranteed faithful (the model can't fabricate one) — plus a confidence banner driven
+by the cross-encoder score.
 
 Usage:
     python scripts/ask.py "Is Prof McAlister an easy grader?"
@@ -24,43 +30,87 @@ from __future__ import annotations
 
 import argparse
 import os
+import re
 import sys
+import textwrap
 
 import dotenv
 import groq
 
-from build_index import DEFAULT_DB, get_collection, get_model
+from build_index import DEFAULT_DB, search
 
 MODEL = "llama-3.3-70b-versatile"
-TOP_K = 5
-MIN_SIM = 0.25        # cosine-similarity floor; below this a chunk is treated as noise
+TOP_K = 6             # chunks fed to the LLM after reranking (widened from 5)
 TEMPERATURE = 0.2
 
+# Confidence/refusal thresholds on the cross-encoder score of the BEST hit.
+# Calibrated on real queries: strong answers score > 2 (Odera 8.7, McAllister 2.5,
+# healthcare 2.9); off-corpus goes negative (pasta -9.9, wifi -1.4).
+CE_STRONG = 2.0       # >= this -> confident, no banner
+CE_MODERATE = 0.0     # >= this -> "moderate"; below -> "low-confidence"
+CE_REFUSE = -4.0      # best hit below this -> refuse (don't call the LLM)
+
 SYSTEM_PROMPT = """\
-You are the "Unofficial Guide" to Minerva University. You answer using ONLY the \
-numbered context below, which are excerpts from a private student group chat \
-(peer opinions and lived experience, not official university policy).
+You are the "Unofficial Guide" to Minerva University — a peer knowledge base built from \
+a private student group chat (lived experience and opinions, NOT official policy).
+
+Answer the question as a short set of practical POINTERS grounded ONLY in the numbered \
+context.
 
 Rules:
-- Use ONLY information in the numbered context. Do not use outside knowledge.
-- Cite every claim with the source number(s) in square brackets, e.g. [2].
-- If the context does not contain the answer, say so plainly: "The chat doesn't \
-have a clear answer on that." Do not guess or invent details.
-- These are individual student opinions and may be outdated or contradictory. \
-When sources disagree or a claim is one person's experience, say so.
-- Be concise and concrete. Quote specifics (professor names, cities, steps) when present."""
+- Use ONLY the numbered context. Never use outside knowledge.
+- Write 1-4 concise bullet pointers. End each pointer with its source number(s), e.g. [2][4].
+- Do NOT quote the messages verbatim — paraphrase into a pointer. (Exact excerpts are \
+shown separately to the user under Sources.)
+- These are individual, sometimes outdated or conflicting opinions. Hedge honestly: \
+attribute one-off claims ("one student said..."), flag disagreement, and note the year \
+when it matters.
+- If the context does not answer the question, say exactly: "The chat doesn't have a \
+clear answer on that." Do not guess or invent.
+- Be concrete: name professors, cities, dollar amounts, and steps when the context does."""
+
+
+# Light, heuristic display-time PII scrub for the verbatim excerpts (NOT a substitute
+# for NER — see planning.md Challenge 4). Masks first names in three contexts: contact
+# directives ("ask Sarah"), contact-info possessives ("Marianna's number"), and
+# attributions ("according to Marianna"). A stoplist guards against masking orgs/places.
+_CONTACT_VERB = re.compile(
+    r"\b(ask(?:ing)?|contact|dm|message|msg|text|email(?:ing)?|ping|reach(?:\s+out)?(?:\s+to)?)"
+    r"\s+([A-Z][a-z]+)\b")
+_CONTACT_NOUN = re.compile(
+    r"\b([A-Z][a-z]+)('s)?\s+(whatsapp|telegram|instagram|insta|number|phone)\b")
+_ATTRIB = re.compile(r"\b(according to|per|asked)\s+([A-Z][a-z]+)\b")
+
+# Capitalized tokens that are NOT personal names (orgs, places, time, schools, etc.).
+_NON_PERSON = {
+    "Minerva", "Google", "Manifest", "Slack", "Zoom", "Cigna", "Forum", "Telegram",
+    "Whatsapp", "Instagram", "Korea", "Taiwan", "Argentina", "Berlin", "Seoul", "London",
+    "Hyderabad", "Taipei", "San", "Buenos", "America", "Europe", "China", "India",
+    "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday",
+    "January", "February", "March", "April", "May", "June", "July", "August",
+    "September", "October", "November", "December", "The", "This", "That", "It", "OPT",
+}
+
+
+def scrub(text: str) -> str:
+    text = _CONTACT_VERB.sub(
+        lambda m: m.group(0) if m.group(2) in _NON_PERSON else f"{m.group(1)} [name]", text)
+    text = _CONTACT_NOUN.sub(lambda m: f"[name]{m.group(2) or ''} {m.group(3)}", text)
+    text = _ATTRIB.sub(
+        lambda m: m.group(0) if m.group(2) in _NON_PERSON else f"{m.group(1)} [name]", text)
+    return text
+
+
+def excerpt(text: str, width: int = 260) -> str:
+    """One-line, scrubbed, shortened version of a chunk for display under Sources."""
+    body = text.split("\n", 1)[1] if text.startswith("Topic:") and "\n" in text else text
+    body = " ".join(body.split())
+    return textwrap.shorten(scrub(body), width=width, placeholder=" …")
 
 
 def retrieve(db_path: str, question: str, k: int) -> list[dict]:
-    model = get_model()
-    col = get_collection(db_path, rebuild=False)
-    q = model.encode([question], normalize_embeddings=True)[0].tolist()
-    res = col.query(query_embeddings=[q], n_results=k)
-    hits = []
-    for doc, meta, dist in zip(
-            res["documents"][0], res["metadatas"][0], res["distances"][0]):
-        hits.append({"text": doc, "meta": meta, "sim": 1 - dist})
-    return hits
+    # dense recall over a wide candidate pool, then cross-encoder rerank to top-k
+    return search(db_path, question, k)
 
 
 def build_context(hits: list[dict]) -> str:
@@ -91,12 +141,12 @@ def ask(db_path: str, question: str, k: int, show_context: bool) -> None:
         sys.exit("GROQ_API_KEY is not set. Copy .env.example to .env and add your key.")
 
     hits = retrieve(db_path, question, k)
-    kept = [h for h in hits if h["sim"] >= MIN_SIM]
+    kept = [h for h in hits if h["ce"] >= CE_REFUSE]   # drop clearly-irrelevant chunks
 
+    print(f"\nQ: {question}\n")
     if not kept:
-        print(f"\nQ: {question}\n")
         print("The chat doesn't have a clear answer on that "
-              f"(no chunk cleared the {MIN_SIM} relevance floor).")
+              f"(no chunk cleared the reranker floor, ce ≥ {CE_REFUSE}).")
         return
 
     context = build_context(kept)
@@ -108,13 +158,21 @@ def ask(db_path: str, question: str, k: int, show_context: bool) -> None:
     client = groq.Groq(api_key=api_key)
     answer = generate(client, question, context)
 
-    print(f"\nQ: {question}\n")
+    top_ce = kept[0]["ce"]
+    if top_ce < CE_MODERATE:
+        print("⚠️  Low-confidence: the closest sources are only weakly related — "
+              "treat this as a weak signal.\n")
+    elif top_ce < CE_STRONG:
+        print("⚠️  Moderate-confidence: sources are loosely on-topic — "
+              "double-check specifics.\n")
+
     print(answer)
-    print("\nSources:")
+    print("\nSources (verbatim excerpts, lightly PII-scrubbed):")
     for i, h in enumerate(kept, 1):
         m = h["meta"]
-        print(f"  [{i}] {m['source']} (chunk #{m['chunk_index']}) | "
-              f"{m['topic']} | {m['date']} (sim {h['sim']:.2f})")
+        print(f"  [{i}] {m['source']} (chunk #{m['chunk_index']}) · "
+              f"{m['topic']} · {m['date']} · relevance {h['ce']:.1f}")
+        print(f'      "{excerpt(h["text"])}"')
 
 
 def main() -> None:

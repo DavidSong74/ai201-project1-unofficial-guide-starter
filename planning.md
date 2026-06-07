@@ -87,11 +87,20 @@ the LLM know the topic and era. **Final chunk count: 12,337.**
 cosine). Fast and free on CPU (full corpus embeds in ~90s), and strong on short
 conversational English. Its 256-token window is the constraint that set my 1,000-char
 chunk target. Vector store: **Chroma** `PersistentClient` (cosine space), collection
-`minerva_guide`, with `topic`/`date`/`file` metadata for optional filtering.
+`minerva_guide`, with `source`/`chunk_index`/`topic`/`date` metadata for attribution and
+optional filtering.
 
-**Top-k:** **5** (tunable via `-k`). Smoke tests show the relevant thread lands at rank 1
-with cosine_sim ≈ 0.60–0.64; k=5 gives the LLM corroborating replies without flooding it
-with low-relevance chunks.
+**Two-stage retrieval (added after evaluation):** (1) dense ANN pulls a wide candidate
+pool of **40** chunks; (2) a **cross-encoder reranker** (`cross-encoder/ms-marco-MiniLM-L-6-v2`,
+same library, no new dependency) rescores each (query, chunk) pair *jointly* and we keep
+the top **k=6**. The cross-encoder reads question and answer together, so it fixes the
+question↔answer asymmetry a bi-encoder alone has (see Challenge 1). Measured effect: the
+Prof McAllister review went from dense rank **#9 → #1** and the "best healthcare city"
+answer from **#3 → #1**, with no regression on queries that were already rank-1.
+
+**Top-k:** **6** chunks to the LLM (tunable via `-k`), drawn from the 40-candidate pool by
+the reranker — enough corroborating replies without flooding the model. `--no-rerank`
+toggles back to dense-only for comparison.
 
 **Production tradeoff reflection:** If cost weren't a constraint I'd weigh (1) **context
 length** — MiniLM's 256-token cap truncates long threads; a 512–8k-token model
@@ -127,8 +136,13 @@ ignoring money.
 1. **Question↔answer embedding asymmetry.** With a symmetric bi-encoder (all-MiniLM-L6-v2),
    a query phrased as a question ("how is Prof X?") embeds nearest to *other questions*
    rather than to the declaratively-phrased *answer* ("I had her, she's great"). Verified:
-   a real positive Prof McAllister review is indexed but ranks #9, below a k=8 cutoff, so
-   the system wrongly refused. Mitigation: asymmetric query/passage model or hybrid BM25.
+   a real positive Prof McAllister review was indexed but ranked #9, below the cutoff, so
+   the system wrongly refused. **RESOLVED** by the two-stage cross-encoder reranker (see
+   Retrieval Approach): it reads query+chunk jointly and lifted that review #9→#1. I first
+   tested BM25 as a fix and *rejected it on evidence* — BM25 ranked the review #11 (worse),
+   because "McAllister" recurs in many *question* chunks; the reranker, not keywords, was
+   the right tool. (BM25/hybrid still helps a different class — exact-token queries like the
+   "best healthcare city" answer, which BM25 ranked #1 — so it's a documented future add.)
 
 2. **A dominant noisy bucket.** "Misc / Untagged" is 25,072 messages → 5,806 chunks (~47%
    of the index). Off-topic or low-signal chunks from it can crowd out the right thread,
@@ -186,8 +200,9 @@ ignoring money.
       → Chroma PersistentClient @ chroma_db/, collection "minerva_guide"
                      │
                      ▼
-[4] RETRIEVAL                     scripts/ask.py  (Chroma query)
-    embed question → top-k (default 5) by cosine
+[4] RETRIEVAL (two-stage)         scripts/ask.py → build_index.search()
+    embed question → dense ANN top-40 candidates (cosine)
+      → cross-encoder rerank (ms-marco-MiniLM-L-6-v2) → keep top-6
       → drop chunks below MIN_SIM=0.25  (refuse if none clear it)
                      │
                      ▼

@@ -44,6 +44,8 @@ MIN_CHARS = 80        # blocks shorter than this are merged forward (anti-fragme
 OVERLAP_MSGS = 1      # messages carried over between sub-chunks of a split block
 
 MODEL_NAME = "all-MiniLM-L6-v2"
+RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"  # cross-encoder for reranking
+CANDIDATE_POOL = 40   # dense hits to pull before reranking down to top-k
 COLLECTION = "minerva_guide"
 DEFAULT_DOCS = "documents/telegram"
 DEFAULT_DB = "chroma_db"
@@ -213,9 +215,26 @@ def report(chunks: list[Chunk]) -> None:
 
 
 # --- Embedding + Chroma -------------------------------------------------------
+_model = None
+_reranker = None
+
+
 def get_model():
-    from sentence_transformers import SentenceTransformer
-    return SentenceTransformer(MODEL_NAME)
+    global _model
+    if _model is None:
+        from sentence_transformers import SentenceTransformer
+        _model = SentenceTransformer(MODEL_NAME)
+    return _model
+
+
+def get_reranker():
+    """Cross-encoder that scores (query, chunk) jointly — fixes the question↔answer
+    ranking weakness a bi-encoder alone has (see planning.md Failure Case)."""
+    global _reranker
+    if _reranker is None:
+        from sentence_transformers import CrossEncoder
+        _reranker = CrossEncoder(RERANK_MODEL)
+    return _reranker
 
 
 def get_collection(db_path: str, rebuild: bool):
@@ -251,17 +270,39 @@ def embed_and_store(chunks: list[Chunk], db_path: str, rebuild: bool) -> None:
     print(f"Collection '{COLLECTION}' now holds {col.count()} chunks at {db_path}/")
 
 
-def query(db_path: str, text: str, k: int = 5) -> None:
+def search(db_path: str, text: str, k: int = 5,
+           pool: int = CANDIDATE_POOL, rerank: bool = True) -> list[dict]:
+    """Retrieve then (optionally) rerank.
+
+    Stage 1: dense ANN -> `pool` candidates with cosine sim.
+    Stage 2: a cross-encoder rescores each (query, chunk) pair jointly and we
+    keep the top `k`. Returns hit dicts with both `sim` (cosine) and `ce` scores.
+    """
     model = get_model()
     col = get_collection(db_path, rebuild=False)
     q = model.encode([text], normalize_embeddings=True)[0].tolist()
-    res = col.query(query_embeddings=[q], n_results=k)
-    print(f"\nQuery: {text!r}\n")
-    for rank, (doc, meta, dist) in enumerate(zip(
-            res["documents"][0], res["metadatas"][0], res["distances"][0]), 1):
+    res = col.query(query_embeddings=[q], n_results=pool)
+    cands = [{"text": d, "meta": m, "sim": 1 - dist, "ce": None}
+             for d, m, dist in zip(res["documents"][0], res["metadatas"][0],
+                                    res["distances"][0])]
+    if rerank and cands:
+        scores = get_reranker().predict([(text, c["text"]) for c in cands])
+        for c, s in zip(cands, scores):
+            c["ce"] = float(s)
+        cands.sort(key=lambda c: c["ce"], reverse=True)
+    return cands[:k]
+
+
+def query(db_path: str, text: str, k: int = 5, rerank: bool = True) -> None:
+    hits = search(db_path, text, k, rerank=rerank)
+    print(f"\nQuery: {text!r}  (rerank={rerank})\n")
+    for rank, h in enumerate(hits, 1):
+        m = h["meta"]
+        doc = h["text"]
         snippet = doc if len(doc) < 600 else doc[:600] + " …"
-        print(f"[{rank}] topic={meta['topic']}  date={meta['date']}  "
-              f"cosine_sim={1 - dist:.3f}")
+        ce = f"  ce={h['ce']:.2f}" if h["ce"] is not None else ""
+        print(f"[{rank}] topic={m['topic']}  date={m['date']}  "
+              f"cosine_sim={h['sim']:.3f}{ce}")
         print(snippet)
         print("-" * 70)
 
@@ -275,10 +316,12 @@ def main() -> None:
     ap.add_argument("--dry-run", action="store_true", help="chunk + report only, no embedding")
     ap.add_argument("--query", help="run a retrieval test against an existing index")
     ap.add_argument("-k", type=int, default=5, help="results to show for --query")
+    ap.add_argument("--no-rerank", action="store_true",
+                    help="skip the cross-encoder reranker (dense-only, for comparison)")
     args = ap.parse_args()
 
     if args.query:
-        query(args.db, args.query, args.k)
+        query(args.db, args.query, args.k, rerank=not args.no_rerank)
         return
 
     chunks = build_chunks(Path(args.docs))

@@ -106,27 +106,42 @@ Implemented in `scripts/ask.py` (Groq `llama-3.3-70b-versatile`, temperature 0.2
 Grounding is enforced at **two layers**, not just by a prompt instruction:
 
 **1. Structural (before the model is called):**
-- The model only ever sees the **top-k retrieved chunks**, never the raw corpus.
+- The model only ever sees the **reranked top-k chunks**, never the raw corpus.
 - Each chunk is injected as a numbered, labelled block: `[n] Topic: <name> | <date>`
   followed by the messages — so the model can attribute claims to a specific source.
-- A **relevance floor** drops any chunk below `MIN_SIM = 0.25` cosine similarity. If
-  *nothing* clears the floor, `ask.py` short-circuits and prints "The chat doesn't have
-  a clear answer on that" — the LLM is never invoked, so it cannot fall back on its own
-  training knowledge.
+- A **relevance floor on the cross-encoder score** drops any chunk below `CE_REFUSE = -4`.
+  If the best chunk is below it, `ask.py` short-circuits and prints "The chat doesn't have
+  a clear answer on that" — the LLM is **never invoked**, so it cannot fall back on its own
+  training knowledge. (The reranker score is a better refusal signal than cosine: an
+  off-corpus query like "how to cook pasta" scores −9.9 and is refused even though its
+  cosine sim, 0.40, would clear a naive cosine floor.)
+
+**2. Output that fits the domain (pointers + faithful quotes):**
+- The model is told to answer as **hedged bullet pointers**, each ending in `[n]`
+  citations, and **explicitly NOT to quote verbatim**.
+- The **verbatim quote is attached by the code**, not the LLM — `ask.py` prints the real
+  stored chunk text under each source. This guarantees quotes are faithful (the model
+  can't fabricate one) and matches the domain: these are peer anecdotes, so showing the
+  raw message lets the reader calibrate trust themselves.
+- A **confidence banner** derived from the top reranker score warns on weak retrieval
+  (`< 2.0` moderate, `< 0.0` low-confidence), turning silent low-confidence answers into
+  visible hedges.
+- Displayed excerpts get a **light PII scrub** (masks first names in contact/attribution
+  contexts, e.g. "according to Marianna" → "according to [name]", with an org/place
+  stoplist) — heuristic, not full NER (see Failure Case / Challenge 4).
 
 **System prompt grounding instruction (verbatim, abridged):**
-> You answer using ONLY the numbered context below… Do not use outside knowledge. Cite
-> every claim with the source number(s) in square brackets, e.g. [2]. If the context does
-> not contain the answer, say so plainly: "The chat doesn't have a clear answer on that."
-> Do not guess or invent details. These are individual student opinions and may be
-> outdated or contradictory — when sources disagree, say so.
+> You answer using ONLY the numbered context… Never use outside knowledge. Write 1-4
+> concise bullet pointers, each ending in its source number(s), e.g. [2][4]. Do NOT quote
+> verbatim — paraphrase. These are individual, sometimes outdated or conflicting opinions:
+> attribute one-off claims, flag disagreement, note the year. If the context does not
+> answer the question, say exactly "The chat doesn't have a clear answer on that."
 
-**How source attribution is surfaced in the response:** the model cites inline `[n]`
-markers, and `ask.py` prints a `Sources:` list mapping each `[n]` → `topic | date (sim)`.
-Verified working: e.g. *"How have students gotten an O-1 visa?"* returned an answer
-citing a Dyer Harris law-firm thread [3] and an O-1/EB-1 webinar [2], each traceable to a
-dated Visas-topic chunk. The refusal path is also verified — when the actual answer chunk
-isn't retrieved, the model says so instead of fabricating (see Failure Case Analysis).
+**How source attribution is surfaced:** the model cites inline `[n]` markers, and `ask.py`
+prints a `Sources:` list mapping each `[n]` → `source.txt (chunk #i) · topic · date ·
+relevance` followed by the scrubbed verbatim excerpt. Verified across the 5 evaluation
+questions (see Evaluation Report) and on the refusal path (off-corpus + diffuse queries
+correctly decline instead of fabricating).
 
 ---
 
@@ -136,13 +151,24 @@ isn't retrieved, the model says so instead of fabricating (see Failure Case Anal
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
+Run through the final pipeline (dense → cross-encoder rerank → Groq, with confidence
+banner + verbatim scrubbed excerpts). Scores are the reranker relevance of the top source.
+
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | Is Prof Odera a strict grader? | Strict, not an easy grader | "Very hard grader / super strict… nice person; one student got good grades with effort." Pointers cite [1][2][3][5]; top source ce 8.7. | Relevant | Accurate |
+| 2 | How have students gotten an O-1 visa; what resources? | No how-to exists; surface resources (Dyer Harris O-1B webinar, GSS office hours) | **Refused** — "chat doesn't have a clear answer." Top chunk was an F-1 status update (ce 3.0). | Partially relevant | Partially accurate (honest refusal, but under-delivers the resources that *do* exist) |
+| 3 | Best neighborhoods in Buenos Aires? | Palermo/Recoleta/Puerto Madero; avoid Retiro at night | Named all three, flagged Retiro, and *spontaneously* hedged "these opinions are from 2020." [1][2]; ce 4.5. | Relevant | Accurate |
+| 4 | Best healthcare city on rotation? | Korea best, Taiwan second | "Korea was the best… Taiwan a close second." [1]; ce 2.9 (reranked from dense #3 → #1). | Relevant | Accurate |
+| 5 | Internship part-time during a semester? | F1 limits + startups + Aug start | "Can't work year-1 on F1; startups offer flexibility; ~20 hrs/week cap." [1][2][4][5]; ce 6.0. | Relevant | Accurate |
+
+**Overall: 4/5 accurate, 1 partial.** The reranker fixed Q4 (and the McAllister failure
+case) but *regressed Q2*: it optimizes per-chunk answer-relevance, so for a question whose
+answer is diffuse (scattered resource pointers rather than one how-to thread) it finds no
+strong chunk and refuses. Honest tradeoff — the refusal is safe (no fabrication) but less
+useful than the dense-only run, which surfaced the webinar/office-hours pointers. A
+rerank+dense fusion (keep a couple of top-cosine chunks alongside the reranked ones) would
+recover Q2 without losing the Q4/McAllister gains — documented as a future step.
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -180,15 +206,20 @@ rather than the **declaratively-phrased answer** ("I had her, she's great"). Loo
 *questions* crowd out the actual *answer*. This is the classic asymmetric query↔passage
 mismatch of symmetric embedding models.
 
-**What you would change to fix it:**
-1. Use an **asymmetric retrieval model** with query/passage prefixes (e.g. `bge-*` with
-   `"query:"` / `"passage:"`, or an instruction-tuned embedder) so questions align to
-   answers instead of to other questions.
-2. Add **hybrid retrieval** — a BM25 keyword pass alongside the dense one. "McAllister" is
-   a rare, high-signal token; lexical search would rank the review near the top regardless
-   of phrasing, then fuse with dense scores (RRF).
-3. Cheap stopgap: raise k (the chunk is at #9, so k≥9 retrieves it) and/or apply MMR to
-   demote near-duplicate question chunks so distinct answers get a slot.
+**What I changed to fix it (implemented + measured):** I added a **two-stage retrieval**
+in `build_index.search()`: dense ANN pulls 40 candidates, then a **cross-encoder reranker**
+(`cross-encoder/ms-marco-MiniLM-L-6-v2`) rescores each (query, chunk) pair *jointly* and
+keeps the top 6. Because the cross-encoder reads the question and the review together, it
+recognizes the review as the answer regardless of shared vocabulary. Measured: the
+McAllister review went from **#9 → #1**, and the system now returns the correct cited
+answer (and even flags from a later chunk that she has since left Minerva).
+
+Notably, I first tried **BM25 and rejected it on evidence**: it ranked the review **#11**
+(worse than dense), because "McAllister" recurs across many *question* chunks so the
+keyword isn't discriminating. The same BM25 test, however, ranked the *"best healthcare
+city"* answer **#1** (dense had it #3) — so hybrid BM25+dense is a justified **future add**
+for exact-token queries (course codes, visa types, city names), just not the fix for this
+particular failure. Lesson: match the tool to the failure mode — verify, don't assume.
 
 ---
 
