@@ -114,8 +114,7 @@ export default function Home() {
             </h1>
           </div>
           <p className="text-lg md:text-xl text-muted-foreground font-serif italic max-w-2xl leading-relaxed">
-            Insider student wisdom from Minerva Cross-Class Chat &mdash; 
-            <p>Consult the accumulated wisdom of Minervan students.</p>
+            Insider student wisdom from Minerva Cross-Class Chat &mdash; consult the accumulated wisdom of Minervan students.
           </p>
         </div>
       </header>
@@ -235,7 +234,7 @@ export default function Home() {
             {!response.refused && response.sources.length > 0 && (
               <footer className="bg-muted/40 border-t border-border p-8 md:p-10">
                 <h3 className="text-sm font-sans font-semibold uppercase tracking-widest text-muted-foreground mb-6 flex items-center gap-2">
-                  <img src="/favicon.svg" alt="logo" className="w-6 h-6" /> Source Material
+                  <img src="/minervalogo.png" alt="logo" className="w-6 h-6" /> Source Material
                 </h3>
 
                 <div className="space-y-8">
