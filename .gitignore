@@ -13,7 +13,6 @@ env/
 .ipynb_checkpoints/
 
 # ChromaDB local storage
-chroma_db/
 chroma/
 
 # Node / web frontend
