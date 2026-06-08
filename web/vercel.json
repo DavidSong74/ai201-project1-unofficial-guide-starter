@@ -1,10 +1,8 @@
-
-
 {
   "rewrites": [
     {
       "source": "/ask",
-      "destination": "https://ai201-project1-unofficial-guide-starter-kcr3.onrender.com"
+      "destination": "https://songdavid93374-minerva-guide-api.hf.space/ask"
     }
   ]
 }
