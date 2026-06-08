@@ -242,7 +242,7 @@ export default function Home() {
                         sourceRefs.current[source.n] = el;
                       }}
                       className={cn(
-                        "group font-sans rounded -mx-4 px-4 py-2 transition-colors duration-500",
+                        "group font-sans rounded px-4 py-2 transition-colors duration-500 w-full",
                         highlightedSource === source.n ? "bg-amber-500/10" : ""
                       )}
                       data-testid={`source-${source.n}`}
@@ -265,7 +265,7 @@ export default function Home() {
                       </div>
 
                       <blockquote className="pl-4 border-l-2 border-border py-1 pr-4">
-                        <p className="font-mono text-sm text-muted-foreground leading-relaxed">
+                        <p className="font-mono text-sm text-muted-foreground leading-relaxed whitespace-pre-wrap break-words max-w-full">
                           "{source.excerpt}"
                         </p>
                       </blockquote>
