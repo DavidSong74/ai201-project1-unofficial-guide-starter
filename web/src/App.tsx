@@ -51,7 +51,6 @@ function App() {
         <TooltipProvider>
           <div className="fixed top-4 left-4 z-50">
             <a href="/" aria-label="Home">
-              <img src="/minervalogo.png" alt="Minerva logo" className="h-8 w-8 rounded-sm shadow-sm" />
             </a>
           </div>
 

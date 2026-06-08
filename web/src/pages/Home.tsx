@@ -108,7 +108,7 @@ export default function Home() {
             </span>
           </div>
           <div className="flex items-center gap-4 mb-4">
-            <img src="/minervalogo.png" alt="Minerva logo" className="w-10 h-10 md:w-12 md:h-12 rounded-sm shadow-sm" />
+            <img src="/minervalogo_copy.png" alt="Minerva logo" className="w-10 h-10 md:w-12 md:h-12 rounded-sm shadow-sm" />
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-foreground font-serif">
               The Unofficial Guide to Minerva
             </h1>
