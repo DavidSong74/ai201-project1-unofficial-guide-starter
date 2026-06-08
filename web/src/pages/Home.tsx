@@ -114,7 +114,8 @@ export default function Home() {
             </h1>
           </div>
           <p className="text-lg md:text-xl text-muted-foreground font-serif italic max-w-2xl leading-relaxed">
-            Insider student wisdom from Minerva Cross-Class Chat &mdash; consult the accumulated wisdom of Minervan students.
+            Insider student wisdom from Minerva Cross-Class Chat &mdash; 
+            <p>consult the accumulated wisdom of Minervan students.</p>
           </p>
         </div>
       </header>
