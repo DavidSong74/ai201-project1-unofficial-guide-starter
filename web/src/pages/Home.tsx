@@ -104,14 +104,18 @@ export default function Home() {
           <div className="mb-2 flex items-center gap-2 text-xs font-sans font-medium uppercase tracking-widest text-muted-foreground">
             <span className="flex items-center gap-1.5 bg-muted px-2 py-1 rounded-sm text-foreground">
               <AlertTriangle className="w-3.5 h-3.5" />
-              Pulling from 60,000+ texts &middot; Updated last on Jun 6, 2026
+              Pulling from 45,179+ texts &middot; Updated last on Jun 6, 2026
             </span>
           </div>
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-foreground mb-4 font-serif">
-            The Unofficial Guide to Minerva
-          </h1>
+          <div className="flex items-center gap-4 mb-4">
+            <img src="/minervalogo.png" alt="Minerva logo" className="w-10 h-10 md:w-12 md:h-12 rounded-sm shadow-sm" />
+            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-foreground font-serif">
+              The Unofficial Guide to Minerva
+            </h1>
+          </div>
           <p className="text-lg md:text-xl text-muted-foreground font-serif italic max-w-2xl leading-relaxed">
-            Insider student wisdom from Minerva Cross-Class Chat &mdash; consult the accumulated wisdom of Minervan students.
+            Insider student wisdom from Minerva Cross-Class Chat &mdash; 
+            <p>Consult the accumulated wisdom of Minervan students.</p>
           </p>
         </div>
       </header>
@@ -231,7 +235,7 @@ export default function Home() {
             {!response.refused && response.sources.length > 0 && (
               <footer className="bg-muted/40 border-t border-border p-8 md:p-10">
                 <h3 className="text-sm font-sans font-semibold uppercase tracking-widest text-muted-foreground mb-6 flex items-center gap-2">
-                  <FileText className="w-4 h-4" /> Source Material
+                  <img src="/favicon.svg" alt="logo" className="w-6 h-6" /> Source Material
                 </h3>
 
                 <div className="space-y-8">
