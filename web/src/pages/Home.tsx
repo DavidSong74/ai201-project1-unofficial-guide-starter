@@ -104,14 +104,14 @@ export default function Home() {
           <div className="mb-2 flex items-center gap-2 text-xs font-sans font-medium uppercase tracking-widest text-muted-foreground">
             <span className="flex items-center gap-1.5 bg-muted px-2 py-1 rounded-sm text-foreground">
               <AlertTriangle className="w-3.5 h-3.5" />
-              Peer Texts &middot; Updated last on Jun 6, 2026
+              Pulling from 60,000+ texts &middot; Updated last on Jun 6, 2026
             </span>
           </div>
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-foreground mb-4 font-serif">
             The Unofficial Guide to Minerva
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground font-serif italic max-w-2xl leading-relaxed">
-            Insider student wisdom from Cross Class Chat &mdash; consult the accumulated wisdom of Minervan students.
+            Insider student wisdom from Minerva Cross-Class Chat &mdash; consult the accumulated wisdom of Minervan students.
           </p>
         </div>
       </header>
